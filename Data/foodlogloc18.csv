@@ -1,0 +1,691 @@
+"","X","id","itemname","itemtype","datecreated","datedumped","mealtype","actiontaken","actionreason","quantity","quantitytype","locationid"
+"18528",19817,21082,"Grill","Menu","2017-06-22 17:49:19","2017-06-22","Lunch","Composted","Over Production",4.6,"Pound",18
+"18543",19832,21099,"Hot Line","Menu","2017-07-12 12:58:06","2017-07-12","Breakfast","Discarded","Over Production",4.6,"Pound",18
+"18544",19833,21100,"Post Consumer","Menu","2017-07-12 13:27:42","2017-07-12","Breakfast","Composted","Over Production",12.5,"Pound",18
+"18545",19834,21101,"Trim Waste","Menu","2017-07-12 13:34:35","2017-07-12","Breakfast","Composted","Over Production",22,"Pound",18
+"18546",19835,21102,"Trim Waste","Menu","2017-07-12 17:45:15","2017-07-12","Lunch","Composted","Over Production",12,"Pound",18
+"18547",19836,21103,"Trim Waste","Menu","2017-07-12 17:45:20","2017-07-12","Lunch","Composted","Over Production",12,"Pound",18
+"18548",19837,21104,"Hot Line","Menu","2017-07-12 18:26:49","2017-07-12","Lunch","Composted","Quality",14.5,"Pound",18
+"18549",19838,21107,"Hot Line","Menu","2017-07-12 18:30:04","2017-07-12","Lunch","Composted","Over Production",8.5,"Pound",18
+"18550",19839,21108,"Trim Waste","Menu","2017-07-12 18:40:46","2017-07-12","Lunch","Composted","Over Production",5,"Pound",18
+"18551",19840,21109,"Hot Line","Menu","2017-07-13 12:42:17","2017-07-12","Breakfast","Composted","Expired",6.5,"Pound",18
+"18552",19841,21110,"Hot Line","Menu","2017-07-13 12:44:41","2017-07-13","Breakfast","Composted","Quality",5,"Pound",18
+"18553",19842,21111,"Trim Waste","Menu","2017-07-13 15:47:22","2017-07-13","Lunch","Composted","Over Production",6,"Pound",18
+"18554",19843,21112,"Hot Line","Menu","2017-07-13 17:13:34","2017-07-13","Lunch","Composted","Over Production",14.5,"Pound",18
+"18555",19844,21113,"Trim Waste","Menu","2017-07-13 17:14:30","2017-07-13","Lunch","Composted","Spoilage",3.5,"Pound",18
+"18556",19845,21114,"Trim Waste","Menu","2017-07-13 17:50:09","2017-07-13","Lunch","Composted","Over Production",2,"Pound",18
+"18557",19846,21115,"Post Consumer","Menu","2017-07-13 18:36:15","2017-07-13","Lunch","Composted","Over Production",19.5,"Pound",18
+"18558",19847,21116,"Post Consumer","Menu","2017-07-13 18:36:19","2017-07-13","Lunch","Composted","Over Production",19.5,"Pound",18
+"18559",19848,21117,"Catering","Menu","2017-07-13 19:59:34","2017-07-13","Dinner","Discarded","Over Production",5.2,"Pound",18
+"18560",19849,21118,"Catering","Menu","2017-07-13 19:59:37","2017-07-13","Dinner","Discarded","Over Production",5.2,"Pound",18
+"18561",19850,21119,"Dessert","Menu","2017-07-14 11:06:30","2017-07-13","Dinner","Composted","Spoilage",2.5,"Pound",18
+"18562",19851,21120,"Dessert","Menu","2017-07-14 11:06:39","2017-07-13","Dinner","Composted","Spoilage",2.5,"Pound",18
+"18563",19852,21121,"Dessert","Menu","2017-07-14 11:06:45","2017-07-13","Dinner","Composted","Spoilage",2.5,"Pound",18
+"18564",19853,21122,"Post Consumer","Menu","2017-07-14 13:46:11","2017-07-14","Dinner","Discarded","Over Production",29,"Pound",18
+"18565",19854,21123,"Post Consumer","Menu","2017-07-14 13:50:10","2017-07-14","Dinner","Composted","Over Production",13,"Pound",18
+"18566",19855,21125,"Trim Waste","Menu","2017-07-14 14:25:07","2017-07-14","Dinner","Composted","Quality",6.5,"Pound",18
+"18567",19856,21127,"Deli","Menu","2017-07-14 14:55:21","2017-07-14","Dinner","Composted","Expired",25,"Pound",18
+"18568",19857,21128,"Salad","Menu","2017-07-14 15:11:35","2017-07-14","Dinner","Composted","Quality",5,"Pound",18
+"18569",19858,21130,"Hot Line","Menu","2017-07-14 15:45:01","2017-07-14","Dinner","Composted","Quality",9.2,"Pound",18
+"18570",19859,21131,"Hot Line","Menu","2017-07-14 15:45:08","2017-07-14","Dinner","Composted","Quality",9.2,"Pound",18
+"18571",19860,21132,"Hot Line","Menu","2017-07-14 17:29:12","2017-07-14","Lunch","Discarded","Over Production",72,"Pound",18
+"18573",19862,21134,"Salad","Menu","2017-07-14 19:40:58","2017-07-14","Lunch","Composted","Spoilage",8,"Pound",18
+"18574",19863,21135,"Salad","Menu","2017-07-14 19:40:59","2017-07-14","Lunch","Composted","Spoilage",8,"Pound",18
+"18575",19864,21136,"Dessert","Menu","2017-07-14 19:43:18","2017-07-14","Lunch","Composted","Spoilage",5.2,"Pound",18
+"18576",19865,21137,"Dessert","Menu","2017-07-14 19:43:25","2017-07-14","Lunch","Composted","Spoilage",5.2,"Pound",18
+"18577",19866,21138,"Trim Waste","Menu","2017-07-15 12:29:49","2017-07-14","Lunch","Composted","Quality",12.6,"Pound",18
+"18578",19867,21139,"Trim Waste","Menu","2017-07-15 12:30:25","2017-07-14","Lunch","Composted","Spoilage",6.2,"Pound",18
+"18579",19868,21140,"Trim Waste","Menu","2017-07-15 12:30:52","2017-07-15","Lunch","Discarded","Over Production",12.5,"Pound",18
+"18586",19875,21147,"Hot Line","Menu","2017-07-15 17:21:48","2017-07-15","Lunch","Discarded","Over Production",65,"Pound",18
+"18587",19876,21148,"Hot Line","Menu","2017-07-15 18:56:01","2017-07-15","Lunch","Discarded","Over Production",12.5,"Pound",18
+"18588",19877,21149,"Hot Line","Menu","2017-07-16 13:53:52","2017-07-16","Lunch","Composted","Over Production",5.2,"Pound",18
+"18589",19878,21150,"Trim Waste","Menu","2017-07-16 17:11:45","2017-07-16","Lunch","Composted","Quality",1.8,"Pound",18
+"18590",19879,21151,"Trim Waste","Menu","2017-07-16 17:11:50","2017-07-16","Lunch","Composted","Quality",1.8,"Pound",18
+"18591",19880,21152,"Dessert","Menu","2017-07-16 17:13:14","2017-07-16","Lunch","Composted","Spoilage",4.4,"Pound",18
+"18592",19881,21153,"Hot Line","Menu","2017-07-16 18:20:30","2017-07-16","Lunch","Composted","Over Production",14.5,"Pound",18
+"18593",19882,21154,"Trim Waste","Menu","2017-07-16 19:03:04","2017-07-16","Lunch","Composted","Over Production",8,"Pound",18
+"18594",19883,21155,"Trim Waste","Menu","2017-07-16 19:03:13","2017-07-16","Lunch","Composted","Over Production",8,"Pound",18
+"18595",19884,21156,"Trim Waste","Menu","2017-07-16 19:04:33","2017-07-16","Lunch","Composted","Over Production",6.4,"Pound",18
+"18596",19885,21157,"Post Consumer","Menu","2017-07-16 20:40:17","2017-07-16","Lunch","Discarded","Over Production",32.8,"Pound",18
+"18597",19886,21158,"Post Consumer","Menu","2017-07-16 20:40:30","2017-07-16","Lunch","Discarded","Over Production",32.8,"Pound",18
+"18598",19887,21159,"Post Consumer","Menu","2017-07-16 20:42:58","2017-07-16","Lunch","Composted","Over Production",14,"Pound",18
+"18599",19888,21160,"Post Consumer","Menu","2017-07-16 20:43:01","2017-07-16","Lunch","Composted","Over Production",14,"Pound",18
+"18600",19889,21161,"Post Consumer","Menu","2017-07-16 20:43:02","2017-07-16","Lunch","Composted","Over Production",14,"Pound",18
+"18601",19890,21163,"Hot Line","Menu","2017-07-17 12:01:21","2017-07-17","Lunch","Composted","Over Production",7.2,"Pound",18
+"18602",19891,21164,"Hot Line","Menu","2017-07-17 12:03:47","2017-07-17","Breakfast","Composted","Over Production",2.8,"Pound",18
+"18603",19892,21166,"Post Consumer","Menu","2017-07-17 12:37:49","2017-07-17","Breakfast","Composted","Over Production",19.8,"Pound",18
+"18604",19893,21167,"Hot Line","Menu","2017-07-17 13:26:48","2017-07-17","Breakfast","Composted","Over Production",4,"Pound",18
+"18605",19894,21168,"Trim Waste","Menu","2017-07-17 15:30:46","2017-07-17","Breakfast","Composted","Quality",7.4,"Pound",18
+"18606",19895,21169,"Dessert","Menu","2017-07-17 15:31:24","2017-07-17","Breakfast","Composted","Spoilage",6.6,"Pound",18
+"18607",19896,21170,"Trim Waste","Menu","2017-07-17 15:33:39","2017-07-17","Breakfast","Composted","Quality",27.6,"Pound",18
+"18608",19897,21172,"Hot Line","Menu","2017-07-17 17:50:33","2017-07-17","Lunch","Composted","Over Production",4,"Pound",18
+"18609",19898,21173,"Deli","Menu","2017-07-17 17:51:17","2017-07-17","Lunch","Donation","Over Production",21.8,"Pound",18
+"18610",19899,21174,"Pizza","Menu","2017-07-17 18:04:00","2017-07-17","Lunch","Composted","Over Production",2,"Pound",18
+"18611",19900,21175,"Deli","Menu","2017-07-17 18:48:22","2017-07-17","Lunch","Composted","Over Production",6.2,"Pound",18
+"18612",19901,21176,"Salad","Menu","2017-07-17 19:02:50","2017-07-17","Lunch","Composted","Over Production",3,"Pound",18
+"18613",19902,21177,"Salad","Menu","2017-07-17 19:02:54","2017-07-17","Lunch","Composted","Over Production",3,"Pound",18
+"18614",19903,21178,"Trim Waste","Menu","2017-07-17 19:56:56","2017-07-17","Lunch","Composted","Over Production",15,"Pound",18
+"18615",19904,21179,"Post Consumer","Menu","2017-07-18 12:31:15","2017-07-17","Breakfast","Composted","Customer Waste",11.5,"Pound",18
+"18616",19905,21180,"Post Consumer","Menu","2017-07-18 12:31:18","2017-07-17","Breakfast","Composted","Customer Waste",11.5,"Pound",18
+"18617",19906,21181,"Dessert","Menu","2017-07-18 13:09:31","2017-07-18","Breakfast","Donation","Over Production",11.2,"Pound",18
+"18618",19907,21182,"Trim Waste","Menu","2017-07-18 14:11:45","2017-07-18","Breakfast","Composted","Quality",1,"Pound",18
+"18619",19908,21183,"Post Consumer","Menu","2017-07-18 14:18:19","2017-07-18","Breakfast","Composted","Customer Waste",16,"Pound",18
+"18620",19909,21184,"Hot Line","Menu","2017-07-18 15:45:02","2017-07-18","Breakfast","Composted","Over Production",15.5,"Pound",18
+"18621",19910,21185,"Hot Line","Menu","2017-07-18 17:37:57","2017-07-18","Breakfast","Composted","Over Production",9.3,"Pound",18
+"18622",19911,21186,"Hot Line","Menu","2017-07-18 17:37:59","2017-07-18","Breakfast","Composted","Over Production",9.3,"Pound",18
+"18623",19912,21187,"Hot Line","Menu","2017-07-18 17:38:40","2017-07-18","Lunch","Composted","Over Production",15.2,"Pound",18
+"18624",19913,21188,"Post Consumer","Menu","2017-07-18 17:42:22","2017-07-18","Lunch","Composted","Over Production",15,"Pound",18
+"18625",19914,21189,"Dessert","Menu","2017-07-18 17:51:52","2017-07-18","Lunch","Composted","Spoilage",15.5,"Pound",18
+"18626",19915,21190,"Trim Waste","Menu","2017-07-18 18:48:10","2017-07-18","Lunch","Composted","Quality",0.5,"Pound",18
+"18627",19916,21191,"Deli","Menu","2017-07-18 18:49:00","2017-07-18","Lunch","Composted","Quality",7,"Pound",18
+"18628",19917,21192,"Post Consumer","Menu","2017-07-19 12:14:34","2017-07-18","Lunch","Composted","Quality",0.3,"Pound",18
+"18629",19918,21193,"Post Consumer","Menu","2017-07-19 12:14:38","2017-07-18","Lunch","Composted","Quality",0.3,"Pound",18
+"18630",19919,21194,"Post Consumer","Menu","2017-07-19 12:14:40","2017-07-18","Lunch","Composted","Quality",0.3,"Pound",18
+"18631",19920,21195,"Trim Waste","Menu","2017-07-19 14:08:47","2017-07-19","Lunch","Composted","Customer Waste",6.8,"Pound",18
+"18632",19921,21196,"Trim Waste","Menu","2017-07-19 14:28:49","2017-07-19","Lunch","Composted","Over Production",5,"Pound",18
+"18633",19922,21197,"Deli","Menu","2017-07-19 17:44:14","2017-07-19","Lunch","Composted","Over Production",2.7,"Pound",18
+"18634",19923,21198,"Deli","Menu","2017-07-19 17:44:18","2017-07-19","Lunch","Composted","Over Production",2.7,"Pound",18
+"18635",19924,21199,"Hot Line","Menu","2017-07-19 19:42:20","2017-07-19","Lunch","Donation","Food Salvage",7.8,"Pound",18
+"18636",19925,21200,"Hot Line","Menu","2017-07-19 20:27:34","2017-07-19","Lunch","Composted","Trim Waste",12.4,"Pound",18
+"18637",19926,21201,"Trim Waste","Menu","2017-07-19 20:46:36","2017-07-19","Lunch","Composted","Spoilage",5.8,"Pound",18
+"18638",19927,21202,"Trim Waste","Menu","2017-07-19 20:46:36","2017-07-19","Lunch","Composted","Spoilage",5.8,"Pound",18
+"18639",19928,21203,"Trim Waste","Menu","2017-07-19 20:46:37","2017-07-19","Lunch","Composted","Spoilage",5.8,"Pound",18
+"18640",19929,21204,"Trim Waste","Menu","2017-07-19 20:46:38","2017-07-19","Lunch","Composted","Spoilage",5.8,"Pound",18
+"18641",19930,21205,"Trim Waste","Menu","2017-07-19 20:46:39","2017-07-19","Lunch","Composted","Spoilage",5.8,"Pound",18
+"18642",19931,21206,"Trim Waste","Menu","2017-07-19 20:48:49","2017-07-19","Lunch","Discarded","Over Production",8.8,"Pound",18
+"18643",19932,21207,"Trim Waste","Menu","2017-07-19 20:49:11","2017-07-19","Lunch","Composted","Over Production",8.8,"Pound",18
+"18644",19933,21208,"Grill","Menu","2017-07-20 14:09:08","2017-07-19","Lunch","Composted","Expired",14,"Pound",18
+"18645",19934,21209,"Grill","Menu","2017-07-20 14:09:12","2017-07-19","Lunch","Composted","Expired",14,"Pound",18
+"18646",19935,21210,"Trim Waste","Menu","2017-07-20 14:34:06","2017-07-19","Lunch","Composted","Customer Waste",15.4,"Pound",18
+"18647",19936,21211,"Trim Waste","Menu","2017-07-20 14:34:11","2017-07-19","Lunch","Composted","Customer Waste",15.4,"Pound",18
+"18648",19937,21212,"Dessert","Menu","2017-07-20 14:51:37","2017-07-20","Lunch","Composted","Spoilage",2.4,"Pound",18
+"18649",19938,21213,"Dessert","Menu","2017-07-20 14:51:46","2017-07-20","Lunch","Composted","Spoilage",2.4,"Pound",18
+"18650",19939,21214,"Dessert","Menu","2017-07-20 14:51:50","2017-07-20","Lunch","Composted","Spoilage",2.4,"Pound",18
+"18651",19940,21215,"Trim Waste","Menu","2017-07-20 14:52:53","2017-07-20","Lunch","Composted","Quality",9.6,"Pound",18
+"18652",19941,21216,"Trim Waste","Menu","2017-07-20 14:52:50","2017-07-20","Lunch","Composted","Quality",9.6,"Pound",18
+"18653",19942,21217,"Trim Waste","Menu","2017-07-20 14:52:56","2017-07-20","Lunch","Composted","Quality",9.6,"Pound",18
+"18654",19943,21218,"Trim Waste","Menu","2017-07-20 14:53:03","2017-07-20","Lunch","Composted","Quality",9.6,"Pound",18
+"18655",19944,21219,"Trim Waste","Menu","2017-07-20 14:53:06","2017-07-20","Lunch","Composted","Quality",9.6,"Pound",18
+"18656",19945,21220,"Dessert","Menu","2017-07-20 15:20:37","2017-07-20","Lunch","Composted","Spoilage",3,"Pound",18
+"18657",19946,21221,"Trim Waste","Menu","2017-07-20 15:43:32","2017-07-20","Lunch","Composted","Spoilage",18,"Pound",18
+"18658",19947,21222,"Trim Waste","Menu","2017-07-20 15:43:37","2017-07-20","Lunch","Composted","Spoilage",18,"Pound",18
+"18659",19948,21223,"Trim Waste","Menu","2017-07-20 15:57:16","2017-07-20","Lunch","Composted","Customer Waste",24,"Pound",18
+"18660",19949,21224,"Trim Waste","Menu","2017-07-20 15:57:21","2017-07-20","Lunch","Composted","Customer Waste",24,"Pound",18
+"18661",19950,21225,"Trim Waste","Menu","2017-07-20 15:57:23","2017-07-20","Lunch","Composted","Customer Waste",24,"Pound",18
+"18662",19951,21226,"Trim Waste","Menu","2017-07-20 15:57:23","2017-07-20","Lunch","Composted","Customer Waste",24,"Pound",18
+"18663",19952,21227,"Trim Waste","Menu","2017-07-20 16:46:26","2017-07-20","Lunch","Composted","Customer Waste",20,"Pound",18
+"18664",19953,21228,"Trim Waste","Menu","2017-07-20 21:21:06","2017-07-20","Lunch","Composted","Customer Waste",1.4,"Pound",18
+"18665",19954,21229,"Trim Waste","Menu","2017-07-20 21:21:10","2017-07-20","Lunch","Composted","Customer Waste",1.4,"Pound",18
+"18666",19955,21230,"Trim Waste","Menu","2017-07-20 21:21:12","2017-07-20","Lunch","Composted","Customer Waste",1.4,"Pound",18
+"18667",19956,21231,"Trim Waste","Menu","2017-07-20 21:21:13","2017-07-20","Lunch","Composted","Customer Waste",1.4,"Pound",18
+"18668",19957,21232,"Trim Waste","Menu","2017-07-21 13:26:01","2017-07-20","Lunch","Composted","Customer Waste",22,"Pound",18
+"18669",19958,21233,"Grill","Menu","2017-07-21 13:29:45","2017-07-20","Lunch","Composted","Quality",17,"Pound",18
+"18670",19959,21234,"Grill","Menu","2017-07-21 13:29:56","2017-07-20","Lunch","Composted","Quality",17,"Pound",18
+"18671",19960,21235,"Trim Waste","Menu","2017-07-21 14:39:57","2017-07-21","Lunch","Composted","Customer Waste",16.2,"Pound",18
+"18672",19961,21236,"Hot Line","Menu","2017-07-21 17:13:21","2017-07-21","Lunch","Composted","Quality",27,"Pound",18
+"18673",19962,21237,"Hot Line","Menu","2017-07-21 17:13:23","2017-07-21","Lunch","Composted","Quality",27,"Pound",18
+"18674",19963,21238,"Grill","Menu","2017-07-21 17:13:46","2017-07-21","Lunch","Composted","Over Production",10,"Pound",18
+"18675",19964,21239,"Trim Waste","Menu","2017-07-22 12:44:26","2017-07-21","Lunch","Composted","Customer Waste",5.2,"Pound",18
+"18676",19965,21240,"Trim Waste","Menu","2017-07-22 12:44:29","2017-07-21","Lunch","Composted","Customer Waste",5.2,"Pound",18
+"18677",19966,21241,"Grill","Menu","2017-07-22 13:41:08","2017-07-21","Lunch","Composted","Quality",7,"Pound",18
+"18678",19967,21242,"Grill","Menu","2017-07-22 17:01:35","2017-07-21","Lunch","Composted","Quality",18,"Pound",18
+"18679",19968,21243,"Grill","Menu","2017-07-22 17:01:39","2017-07-21","Lunch","Composted","Quality",18,"Pound",18
+"18680",19969,21244,"Post Consumer","Menu","2017-07-22 18:10:48","2017-07-21","Lunch","Composted","Quality",16,"Pound",18
+"18681",19970,21245,"Post Consumer","Menu","2017-07-22 18:11:20","2017-07-21","Lunch","Composted","Quality",12.6,"Pound",18
+"18682",19971,21246,"Dessert","Menu","2017-07-23 11:15:48","2017-07-23","Lunch","Composted","Spoilage",11,"Pound",18
+"18683",19972,21247,"Dessert","Menu","2017-07-23 11:25:03","2017-07-23","Lunch","Composted","Spoilage",17,"Pound",18
+"18684",19973,21248,"Dessert","Menu","2017-07-23 11:25:13","2017-07-23","Lunch","Composted","Spoilage",17,"Pound",18
+"18685",19974,21249,"Dessert","Menu","2017-07-23 11:25:17","2017-07-23","Lunch","Composted","Spoilage",17,"Pound",18
+"18686",19975,21250,"Dessert","Menu","2017-07-23 11:25:18","2017-07-23","Lunch","Composted","Spoilage",17,"Pound",18
+"18687",19976,21251,"Dessert","Menu","2017-07-23 11:25:37","2017-07-23","Lunch","Composted","Spoilage",6.5,"Pound",18
+"18688",19977,21252,"Hot Line","Menu","2017-07-23 12:26:17","2017-07-23","Lunch","Composted","Spoilage",3.6,"Pound",18
+"18689",19978,21253,"Hot Line","Menu","2017-07-23 13:42:11","2017-07-23","Lunch","Discarded","Spoilage",1,"Pound",18
+"18690",19979,21254,"Trim Waste","Menu","2017-07-23 13:58:30","2017-07-23","Lunch","Composted","Quality",2,"Pound",18
+"18691",19980,21255,"Trim Waste","Menu","2017-07-23 13:58:31","2017-07-23","Lunch","Composted","Quality",2,"Pound",18
+"18692",19981,21256,"Trim Waste","Menu","2017-07-23 13:58:33","2017-07-23","Lunch","Composted","Quality",2,"Pound",18
+"18693",19982,21257,"Trim Waste","Menu","2017-07-23 13:58:35","2017-07-23","Lunch","Composted","Quality",2,"Pound",18
+"18694",19983,21258,"Hot Line","Menu","2017-07-23 14:12:47","2017-07-23","Lunch","Composted","Quality",1,"Pound",18
+"18700",19989,21264,"Trim Waste","Menu","2017-07-24 17:27:54","2017-07-23","Lunch","Composted","Quality",14,"Pound",18
+"18701",19990,21265,"Post Consumer","Menu","2017-07-24 17:31:55","2017-07-23","Lunch","Composted","Quality",12,"Pound",18
+"18702",19991,21266,"Post Consumer","Menu","2017-07-24 17:31:59","2017-07-23","Lunch","Composted","Quality",12,"Pound",18
+"18703",19992,21267,"Trim Waste","Menu","2017-07-24 17:42:40","2017-07-23","Lunch","Composted","Quality",3.6,"Pound",18
+"18704",19993,21268,"Trim Waste","Menu","2017-07-24 17:42:41","2017-07-23","Lunch","Composted","Quality",3.6,"Pound",18
+"18705",19994,21269,"Trim Waste","Menu","2017-07-24 17:42:42","2017-07-23","Lunch","Composted","Quality",3.6,"Pound",18
+"18706",19995,21270,"Trim Waste","Menu","2017-07-24 17:42:44","2017-07-23","Lunch","Composted","Quality",3.6,"Pound",18
+"18707",19996,21271,"Trim Waste","Menu","2017-07-24 17:42:45","2017-07-23","Lunch","Composted","Quality",3.6,"Pound",18
+"18708",19997,21272,"Trim Waste","Menu","2017-07-24 17:42:48","2017-07-23","Lunch","Composted","Quality",3.6,"Pound",18
+"18709",19998,21273,"Trim Waste","Menu","2017-07-24 17:42:51","2017-07-23","Lunch","Composted","Quality",3.6,"Pound",18
+"18710",19999,21274,"Trim Waste","Menu","2017-07-24 17:42:52","2017-07-23","Lunch","Composted","Quality",3.6,"Pound",18
+"18711",20000,21275,"Trim Waste","Menu","2017-07-24 17:42:53","2017-07-23","Lunch","Composted","Quality",3.6,"Pound",18
+"18712",20001,21276,"Trim Waste","Menu","2017-07-24 18:13:24","2017-07-23","Lunch","Composted","Quality",20.5,"Pound",18
+"18713",20002,21277,"Trim Waste","Menu","2017-07-24 18:13:35","2017-07-23","Lunch","Composted","Quality",20.5,"Pound",18
+"18714",20003,21278,"Salad","Menu","2017-07-24 18:51:32","2017-07-23","Lunch","Discarded","Quality",6,"Pound",18
+"18715",20004,21279,"Salad","Menu","2017-07-24 18:51:35","2017-07-23","Lunch","Discarded","Quality",6,"Pound",18
+"18716",20005,21280,"Salad","Menu","2017-07-24 18:51:37","2017-07-23","Lunch","Discarded","Quality",6,"Pound",18
+"18717",20006,21281,"Pizza","Menu","2017-07-24 19:50:05","2017-07-23","Lunch","Discarded","Expired",1.4,"Pound",18
+"18718",20007,21282,"Pizza","Menu","2017-07-24 19:50:08","2017-07-23","Lunch","Discarded","Expired",1.4,"Pound",18
+"18719",20008,21283,"Hot Line","Menu","2017-07-24 20:38:16","2017-07-23","Lunch","Composted","Trim Waste",7.4,"Pound",18
+"18720",20009,21284,"Hot Line","Menu","2017-07-24 20:38:20","2017-07-23","Lunch","Composted","Trim Waste",7.4,"Pound",18
+"18721",20010,21285,"Hot Line","Menu","2017-07-24 20:39:13","2017-07-23","Dinner","Composted","Trim Waste",11,"Pound",18
+"18722",20011,21286,"Trim Waste","Menu","2017-07-24 23:11:15","2017-07-24","Dinner","Composted","Over Production",4,"Pound",18
+"18723",20012,21287,"Grill","Menu","2017-07-24 23:30:52","2017-07-24","Dinner","Composted","Over Production",5.6,"Pound",18
+"18724",20013,21288,"Hot Line","Menu","2017-07-24 23:32:08","2017-07-24","Dinner","Composted","Spoilage",3.6,"Pound",18
+"18725",20014,21289,"Catering","Menu","2017-07-25 12:49:03","2017-07-25","Breakfast","Composted","Spoilage",2.4,"Pound",18
+"18726",20015,21290,"Grill","Menu","2017-07-25 12:54:57","2017-07-25","Breakfast","Composted","Spoilage",12,"Pound",18
+"18727",20016,21291,"Dessert","Menu","2017-07-25 15:17:47","2017-07-25","Breakfast","Composted","Spoilage",10,"Pound",18
+"18728",20017,21292,"Dessert","Menu","2017-07-25 15:17:55","2017-07-25","Breakfast","Composted","Spoilage",10,"Pound",18
+"18729",20018,21293,"Dessert","Menu","2017-07-25 15:17:57","2017-07-25","Breakfast","Composted","Spoilage",10,"Pound",18
+"18730",20019,21294,"Trim Waste","Menu","2017-07-25 15:18:15","2017-07-25","Breakfast","Composted","Quality",1,"Pound",18
+"18731",20020,21295,"Grill","Menu","2017-07-25 17:05:47","2017-07-25","Lunch","Discarded","Over Production",15,"Pound",18
+"18732",20021,21296,"Hot Line","Menu","2017-07-25 17:59:00","2017-07-25","Lunch","Discarded","Over Production",3.6,"Pound",18
+"18733",20022,21297,"Hot Line","Menu","2017-07-25 17:59:07","2017-07-25","Lunch","Discarded","Over Production",3.6,"Pound",18
+"18734",20023,21298,"Grill","Menu","2017-07-25 23:12:30","2017-07-25","Dinner","Composted","Customer Waste",1.8,"Pound",18
+"18735",20024,21299,"Catering","Menu","2017-07-26 12:52:39","2017-07-26","Breakfast","Composted","Spoilage",4.2,"Pound",18
+"18736",20025,21300,"Grill","Menu","2017-07-26 13:06:07","2017-07-26","Breakfast","Composted","Spoilage",25,"Pound",18
+"18737",20026,21301,"Grill","Menu","2017-07-26 13:06:17","2017-07-26","Breakfast","Composted","Spoilage",25,"Pound",18
+"18738",20027,21302,"Grill","Menu","2017-07-26 13:06:20","2017-07-26","Breakfast","Composted","Spoilage",25,"Pound",18
+"18739",20028,21303,"Grill","Menu","2017-07-26 13:06:20","2017-07-26","Breakfast","Composted","Spoilage",25,"Pound",18
+"18740",20029,21304,"Grill","Menu","2017-07-26 13:06:21","2017-07-26","Breakfast","Composted","Spoilage",25,"Pound",18
+"18741",20030,21305,"Grill","Menu","2017-07-26 13:06:21","2017-07-26","Breakfast","Composted","Spoilage",25,"Pound",18
+"18742",20031,21306,"Post Consumer","Menu","2017-07-26 15:10:57","2017-07-26","Breakfast","Composted","Spoilage",24.8,"Pound",18
+"18743",20032,21307,"Grill","Menu","2017-07-26 17:13:51","2017-07-26","Breakfast","Composted","Spoilage",12.3,"Pound",18
+"18744",20033,21308,"Grill","Menu","2017-07-26 17:13:55","2017-07-26","Breakfast","Composted","Spoilage",12.3,"Pound",18
+"18745",20034,21309,"Hot Line","Menu","2017-07-26 17:25:32","2017-07-26","Lunch","Composted","Over Production",20.4,"Pound",18
+"18746",20035,21310,"Trim Waste","Menu","2017-07-26 17:52:03","2017-07-26","Lunch","Composted","Quality",1,"Pound",18
+"18747",20036,21311,"Trim Waste","Menu","2017-07-26 17:52:05","2017-07-26","Lunch","Composted","Quality",1,"Pound",18
+"18748",20037,21312,"Grill","Menu","2017-07-26 23:06:11","2017-07-26","Dinner","Composted","Over Production",5.6,"Pound",18
+"18749",20038,21313,"Hot Line","Menu","2017-07-27 15:07:31","2017-07-27","Breakfast","Discarded","Over Production",15,"Pound",18
+"18750",20039,21314,"Hot Line","Menu","2017-07-27 15:07:50","2017-07-27","Breakfast","Discarded","Spoilage",22,"Pound",18
+"18751",20040,21315,"Grill","Menu","2017-07-27 17:11:45","2017-07-27","Lunch","Discarded","Spoilage",31,"Pound",18
+"18752",20041,21316,"Grill","Menu","2017-07-27 17:11:56","2017-07-27","Lunch","Discarded","Spoilage",31,"Pound",18
+"18753",20042,21317,"Post Consumer","Menu","2017-07-27 17:24:21","2017-07-27","Lunch","Composted","Customer Waste",20,"Pound",18
+"18754",20043,21318,"Dessert","Menu","2017-07-27 17:48:26","2017-07-27","Lunch","Composted","Spoilage",5.4,"Pound",18
+"18755",20044,21319,"Dessert","Menu","2017-07-27 17:48:37","2017-07-27","Lunch","Composted","Spoilage",5.4,"Pound",18
+"18756",20045,21320,"Hot Line","Menu","2017-07-27 18:05:58","2017-07-27","Lunch","Composted","Over Production",3.6,"Pound",18
+"18757",20046,21321,"Hot Line","Menu","2017-07-27 18:06:03","2017-07-27","Lunch","Composted","Over Production",3.6,"Pound",18
+"18758",20047,21322,"Hot Line","Menu","2017-07-27 18:06:06","2017-07-27","Lunch","Composted","Over Production",3.6,"Pound",18
+"18759",20048,21323,"Hot Line","Menu","2017-07-27 18:06:08","2017-07-27","Lunch","Composted","Over Production",3.6,"Pound",18
+"18760",20049,21324,"Hot Line","Menu","2017-07-27 22:39:50","2017-07-27","Dinner","Composted","Trim Waste",8.4,"Pound",18
+"18768",20057,21332,"Dessert","Menu","2017-07-29 17:57:05","2017-07-29","Breakfast","Composted","Spoilage",7.8,"Pound",18
+"18769",20058,21333,"Dessert","Menu","2017-07-29 17:57:05","2017-07-29","Breakfast","Composted","Spoilage",7.8,"Pound",18
+"18770",20059,21334,"Dessert","Menu","2017-07-29 17:57:07","2017-07-29","Breakfast","Composted","Spoilage",7.8,"Pound",18
+"18777",20066,21341,"Trim Waste","Menu","2017-07-29 20:33:40","2017-07-29","Breakfast","Composted","Trim Waste",14.6,"Pound",18
+"18778",20067,21342,"Dessert","Menu","2017-07-30 12:13:51","2017-07-30","Breakfast","Composted","Spoilage",12.4,"Pound",18
+"18784",20073,21348,"Catering","Menu","2017-08-02 13:07:23","2017-08-02","Breakfast","Composted","Expired",5,"Pound",18
+"18785",20074,21349,"Hot Line","Menu","2017-08-02 18:24:56","2017-08-02","Lunch","Composted","Spoilage",22,"Pound",18
+"18786",20075,21350,"Hot Line","Menu","2017-08-02 18:25:26","2017-08-02","Lunch","Composted","Over Production",19,"Pound",18
+"18787",20076,21351,"Deli","Menu","2017-08-02 18:26:04","2017-07-31","Lunch","Composted","Spoilage",25,"Pound",18
+"18788",20077,21352,"Pasta","Menu","2017-08-02 18:26:23","2017-08-01","Lunch","Composted","Spoilage",18,"Pound",18
+"18789",20078,21353,"Catering","Menu","2017-08-02 18:27:40","2017-07-31","Breakfast","Composted","Over Production",13,"Pound",18
+"18805",20094,21369,"Soup","Menu","2017-08-06 13:40:47","2017-08-06","Breakfast","Discarded","Spoilage",35,"Pound",18
+"18806",20095,21370,"Hot Line","Menu","2017-08-06 13:42:32","2017-08-06","Breakfast","Discarded","Expired",36,"Pound",18
+"18812",20101,21376,"Catering","Menu","2017-08-09 19:05:12","2017-08-06","Breakfast","Donation","Food Salvage",38,"Pound",18
+"18814",20103,21378,"Trim Waste","Menu","2017-08-11 19:43:35","2017-08-09","Breakfast","Discarded","Quality",48,"Pound",18
+"18903",20198,21473,"Trim Waste","Menu","2017-08-16 11:37:27","2017-08-09","Breakfast","Composted","Quality",3,"Pound",18
+"18904",20199,21474,"Trim Waste","Menu","2017-08-16 11:37:32","2017-08-09","Breakfast","Composted","Quality",3,"Pound",18
+"18905",20200,21475,"Dessert","Menu","2017-08-16 14:20:16","2017-08-09","Breakfast","Composted","Spoilage",19,"Pound",18
+"18906",20201,21476,"Dessert","Menu","2017-08-16 14:20:21","2017-08-09","Breakfast","Composted","Spoilage",19,"Pound",18
+"18907",20202,21477,"Dessert","Menu","2017-08-16 14:20:24","2017-08-09","Breakfast","Composted","Spoilage",19,"Pound",18
+"18910",20205,21480,"Catering","Menu","2017-08-16 16:42:13","2017-08-09","Breakfast","Composted","Customer Waste",18,"Pound",18
+"18920",20218,21493,"Trim Waste","Menu","2017-08-17 13:32:59","2017-08-09","Breakfast","Composted","Quality",2.2,"Pound",18
+"18921",20219,21494,"Deli","Menu","2017-08-17 15:03:20","2017-08-09","Breakfast","Composted","Spoilage",12,"Pound",18
+"18922",20220,21495,"Gluten Free","Menu","2017-08-17 15:04:14","2017-08-09","Breakfast","Composted","Expired",1,"Pound",18
+"18923",20221,21496,"Dessert","Menu","2017-08-17 17:32:52","2017-08-09","Lunch","Composted","Over Production",2.6,"Pound",18
+"18924",20222,21497,"Dessert","Menu","2017-08-17 17:32:55","2017-08-09","Lunch","Composted","Over Production",2.6,"Pound",18
+"18925",20223,21498,"Trim Waste","Menu","2017-08-17 17:49:12","2017-08-17","Lunch","Repurposed","Quality",7,"Pound",18
+"18926",20224,21499,"Trim Waste","Menu","2017-08-17 17:49:17","2017-08-17","Lunch","Repurposed","Quality",7,"Pound",18
+"18927",20225,21500,"Trim Waste","Menu","2017-08-17 17:49:20","2017-08-17","Lunch","Repurposed","Quality",7,"Pound",18
+"18928",20226,21501,"Trim Waste","Menu","2017-08-17 17:49:15","2017-08-17","Lunch","Repurposed","Quality",7,"Pound",18
+"18929",20227,21502,"Trim Waste","Menu","2017-08-17 17:49:23","2017-08-17","Lunch","Repurposed","Quality",7,"Pound",18
+"18930",20228,21503,"Trim Waste","Menu","2017-08-17 17:49:24","2017-08-17","Lunch","Repurposed","Quality",7,"Pound",18
+"18931",20229,21504,"Post Consumer","Menu","2017-08-17 19:07:00","2017-08-17","Lunch","Composted","Over Production",18,"Pound",18
+"18932",20230,21505,"Post Consumer","Menu","2017-08-17 19:07:03","2017-08-17","Lunch","Composted","Over Production",18,"Pound",18
+"18933",20231,21506,"Post Consumer","Menu","2017-08-17 19:24:59","2017-08-16","Lunch","Donation","Food Salvage",41.5,"Pound",18
+"18934",20232,21507,"Hot Line","Menu","2017-08-17 19:25:20","2017-08-17","Lunch","Donation","Food Salvage",41.5,"Pound",18
+"18935",20233,21508,"Deli","Menu","2017-08-17 19:28:12","2017-08-17","Lunch","Discarded","Over Production",25.8,"Pound",18
+"18936",20234,21509,"Catering","Menu","2017-08-17 19:35:54","2017-08-17","Lunch","Composted","Over Production",1.8,"Pound",18
+"18937",20235,21510,"Catering","Menu","2017-08-17 19:35:54","2017-08-17","Lunch","Composted","Over Production",1.8,"Pound",18
+"18938",20236,21511,"Catering","Menu","2017-08-17 19:35:56","2017-08-17","Lunch","Composted","Over Production",1.8,"Pound",18
+"18939",20237,21512,"Catering","Menu","2017-08-17 19:35:57","2017-08-17","Lunch","Composted","Over Production",1.8,"Pound",18
+"18940",20238,21513,"Catering","Menu","2017-08-17 19:35:57","2017-08-17","Lunch","Composted","Over Production",1.8,"Pound",18
+"18941",20239,21514,"Catering","Menu","2017-08-17 19:35:58","2017-08-17","Lunch","Composted","Over Production",1.8,"Pound",18
+"18942",20240,21515,"Catering","Menu","2017-08-17 19:38:08","2017-08-17","Lunch","Discarded","Over Production",0.2,"Pound",18
+"18954",20253,21528,"Catering","Menu","2017-08-18 14:32:13","2017-08-17","Lunch","Composted","Customer Waste",18.6,"Pound",18
+"18955",20254,21529,"Catering","Menu","2017-08-18 17:51:48","2017-08-17","Lunch","Composted","Customer Waste",2,"Pound",18
+"18956",20255,21530,"Grill","Menu","2017-08-18 18:09:53","2017-08-18","Lunch","Composted","Over Production",6.8,"Pound",18
+"18957",20256,21531,"Trim Waste","Menu","2017-08-18 18:15:00","2017-08-18","Breakfast","Discarded","Over Production",23,"Pound",18
+"18958",20257,21532,"Trim Waste","Menu","2017-08-18 18:20:15","2017-08-18","Breakfast","Composted","Quality",9.2,"Pound",18
+"18959",20258,21533,"Trim Waste","Menu","2017-08-18 18:20:19","2017-08-18","Breakfast","Composted","Quality",9.2,"Pound",18
+"18963",20262,21537,"Grill","Menu","2017-08-19 19:43:03","2017-08-19","Breakfast","Composted","Over Production",3,"Pound",18
+"18964",20263,21538,"Trim Waste","Menu","2017-08-19 21:47:37","2017-08-19","Breakfast","Composted","Trim Waste",16,"Pound",18
+"18965",20264,21539,"Pasta","Menu","2017-08-19 21:49:20","2017-08-19","Breakfast","Composted","Over Production",12.5,"Pound",18
+"18966",20265,21540,"Trim Waste","Menu","2017-08-19 21:50:52","2017-08-19","Breakfast","Composted","Trim Waste",18.2,"Pound",18
+"18967",20266,21541,"Catering","Menu","2017-08-19 22:42:11","2017-08-19","Breakfast","Composted","Spoilage",9,"Pound",18
+"18968",20267,21542,"Catering","Menu","2017-08-19 22:42:20","2017-08-19","Breakfast","Composted","Spoilage",9,"Pound",18
+"18969",20268,21543,"Grill","Menu","2017-08-19 23:16:56","2017-08-19","Breakfast","Composted","Over Production",3.5,"Pound",18
+"18970",20269,21544,"Grill","Menu","2017-08-19 23:16:59","2017-08-19","Breakfast","Composted","Over Production",3.5,"Pound",18
+"18972",20271,21546,"Trim Waste","Menu","2017-08-20 20:25:35","2017-08-19","Breakfast","Discarded","Over Production",40,"Pound",18
+"18973",20272,21548,"Dessert","Menu","2017-08-21 09:42:08","2017-08-20","Dinner","Composted","Over Production",22.2,"Pound",18
+"18974",20273,21549,"Dessert","Menu","2017-08-21 09:42:10","2017-08-20","Dinner","Composted","Over Production",22.2,"Pound",18
+"18975",20274,21550,"Dessert","Menu","2017-08-21 09:42:58","2017-08-20","Dinner","Composted","Over Production",8,"Pound",18
+"18976",20275,21551,"Trim Waste","Menu","2017-08-21 12:36:12","2017-08-20","Dinner","Composted","Quality",0.5,"Pound",18
+"18977",20276,21552,"Trim Waste","Menu","2017-08-21 12:36:15","2017-08-20","Dinner","Composted","Quality",0.5,"Pound",18
+"18978",20277,21553,"Trim Waste","Menu","2017-08-21 12:36:16","2017-08-20","Dinner","Composted","Quality",0.5,"Pound",18
+"18979",20278,21554,"Trim Waste","Menu","2017-08-21 12:36:17","2017-08-20","Dinner","Composted","Quality",0.5,"Pound",18
+"18980",20279,21555,"Hot Line","Menu","2017-08-21 13:21:55","2017-08-21","Dinner","Repurposed","Over Production",5,"Pound",18
+"18981",20280,21556,"Salad","Menu","2017-08-21 14:30:46","2017-08-21","Dinner","Composted","Quality",11,"Pound",18
+"18982",20281,21557,"Catering","Menu","2017-08-21 14:32:13","2017-08-21","Dinner","Composted","Customer Waste",10,"Pound",18
+"18983",20282,21558,"Catering","Menu","2017-08-21 14:32:19","2017-08-21","Dinner","Composted","Customer Waste",10,"Pound",18
+"18990",20289,21565,"Hot Line","Menu","2017-08-21 17:46:31","2017-08-21","Dinner","Composted","Customer Waste",1.5,"Pound",18
+"18997",20297,21573,"Post Consumer","Menu","2017-08-21 23:50:59","2017-08-21","Dinner","Composted","Customer Waste",32,"Pound",18
+"18998",20298,21574,"Post Consumer","Menu","2017-08-21 23:51:01","2017-08-21","Dinner","Composted","Customer Waste",32,"Pound",18
+"18999",20299,21575,"Hot Line","Menu","2017-08-21 23:54:21","2017-08-21","Dinner","Composted","Over Production",4.5,"Pound",18
+"19002",20305,21581,"Dessert","Menu","2017-08-22 15:38:27","2017-08-21","Dinner","Composted","Over Production",18,"Pound",18
+"19003",20306,21582,"Pizza","Menu","2017-08-22 15:39:02","2017-08-21","Dinner","Composted","Spoilage",8,"Pound",18
+"19004",20307,21583,"Trim Waste","Menu","2017-08-22 15:44:42","2017-08-21","Dinner","Composted","Quality",1,"Pound",18
+"19005",20308,21584,"Trim Waste","Menu","2017-08-22 15:44:45","2017-08-21","Dinner","Composted","Quality",1,"Pound",18
+"19007",20310,21586,"Grill","Menu","2017-08-22 16:39:07","2017-08-21","Lunch","Composted","Quality",10,"Pound",18
+"19008",20311,21587,"Grill","Menu","2017-08-22 16:39:09","2017-08-21","Lunch","Composted","Quality",10,"Pound",18
+"19009",20312,21588,"Trim Waste","Menu","2017-08-22 17:42:56","2017-08-21","Lunch","Composted","Quality",6,"Pound",18
+"19013",20319,21595,"Catering","Menu","2017-08-22 23:33:25","2017-08-21","Lunch","Composted","Quality",8,"Pound",18
+"19014",20320,21596,"Hot Line","Menu","2017-08-22 23:34:12","2017-08-21","Lunch","Composted","Quality",23.5,"Pound",18
+"19015",20321,21597,"Catering","Menu","2017-08-23 00:01:29","2017-08-21","Lunch","Composted","Over Production",6.2,"Pound",18
+"19016",20322,21598,"Hot Line","Menu","2017-08-23 10:41:57","2017-08-22","Lunch","Composted","Over Production",15,"Pound",18
+"19017",20323,21599,"Hot Line","Menu","2017-08-23 10:41:58","2017-08-22","Lunch","Composted","Over Production",15,"Pound",18
+"19018",20324,21600,"Deli","Menu","2017-08-23 12:35:24","2017-08-22","Lunch","Composted","Spoilage",2.2,"Pound",18
+"19019",20325,21601,"Deli","Menu","2017-08-23 12:35:24","2017-08-22","Lunch","Composted","Spoilage",2.2,"Pound",18
+"19020",20326,21602,"Deli","Menu","2017-08-23 12:35:32","2017-08-22","Lunch","Composted","Spoilage",2.2,"Pound",18
+"19021",20327,21603,"Deli","Menu","2017-08-23 12:35:34","2017-08-22","Lunch","Composted","Spoilage",2.2,"Pound",18
+"19022",20328,21604,"Grill","Menu","2017-08-23 13:44:32","2017-08-22","Lunch","Composted","Spoilage",15.6,"Pound",18
+"19023",20329,21605,"Grill","Menu","2017-08-23 13:44:34","2017-08-22","Lunch","Composted","Spoilage",15.6,"Pound",18
+"19024",20330,21606,"Catering","Menu","2017-08-23 14:58:10","2017-08-22","Lunch","Composted","Customer Waste",14.6,"Pound",18
+"19025",20331,21607,"Trim Waste","Menu","2017-08-23 15:05:06","2017-08-23","Lunch","Composted","Trim Waste",31,"Pound",18
+"19026",20332,21608,"Dessert","Menu","2017-08-23 15:14:31","2017-08-23","Lunch","Composted","Spoilage",14,"Pound",18
+"19027",20333,21609,"Dessert","Menu","2017-08-23 15:14:35","2017-08-23","Lunch","Composted","Spoilage",14,"Pound",18
+"19028",20334,21610,"Hot Line","Menu","2017-08-23 15:33:32","2017-08-23","Lunch","Composted","Expired",17.5,"Pound",18
+"19029",20335,21611,"Hot Line","Menu","2017-08-23 15:33:36","2017-08-23","Lunch","Composted","Expired",17.5,"Pound",18
+"19033",20339,21615,"Post Consumer","Menu","2017-08-23 17:37:43","2017-08-23","Lunch","Composted","Expired",26,"Pound",18
+"19034",20340,21616,"Post Consumer","Menu","2017-08-23 17:37:45","2017-08-23","Lunch","Composted","Expired",26,"Pound",18
+"19048",20354,21630,"Hot Line","Menu","2017-08-23 23:25:28","2017-08-23","Lunch","Discarded","Over Production",14.4,"Pound",18
+"19050",20356,21633,"Catering","Menu","2017-08-24 12:44:19","2017-08-23","Lunch","Composted","Over Production",26,"Pound",18
+"19051",20357,21634,"Trim Waste","Menu","2017-08-24 14:13:02","2017-08-23","Lunch","Composted","Over Production",21.4,"Pound",18
+"19052",20358,21635,"Trim Waste","Menu","2017-08-24 14:13:06","2017-08-23","Lunch","Composted","Over Production",21.4,"Pound",18
+"19053",20359,21636,"Catering","Menu","2017-08-24 14:42:37","2017-08-23","Lunch","Composted","Customer Waste",13.8,"Pound",18
+"19054",20360,21637,"Post Consumer","Menu","2017-08-24 14:46:19","2017-08-23","Lunch","Composted","Customer Waste",21,"Pound",18
+"19055",20361,21638,"Post Consumer","Menu","2017-08-24 14:46:26","2017-08-23","Lunch","Composted","Customer Waste",21,"Pound",18
+"19056",20362,21639,"Post Consumer","Menu","2017-08-24 14:46:26","2017-08-23","Lunch","Composted","Customer Waste",21,"Pound",18
+"19057",20363,21640,"Post Consumer","Menu","2017-08-24 14:46:27","2017-08-23","Lunch","Composted","Customer Waste",21,"Pound",18
+"19058",20364,21641,"Post Consumer","Menu","2017-08-24 14:46:27","2017-08-23","Lunch","Composted","Customer Waste",21,"Pound",18
+"19059",20365,21642,"Post Consumer","Menu","2017-08-24 14:46:28","2017-08-23","Lunch","Composted","Customer Waste",21,"Pound",18
+"19060",20366,21643,"Grill","Menu","2017-08-24 14:53:34","2017-08-24","Breakfast","Discarded","Over Production",8,"Pound",18
+"19061",20367,21644,"Trim Waste","Menu","2017-08-24 17:36:12","2017-08-24","Breakfast","Composted","Trim Waste",4.2,"Pound",18
+"19062",20368,21645,"Dessert","Menu","2017-08-24 17:36:37","2017-08-24","Breakfast","Composted","Spoilage",14,"Pound",18
+"19063",20369,21646,"Post Consumer","Menu","2017-08-24 17:55:56","2017-08-24","Breakfast","Composted","Spoilage",19.4,"Pound",18
+"19064",20370,21647,"Post Consumer","Menu","2017-08-24 17:56:22","2017-08-24","Breakfast","Composted","Spoilage",18,"Pound",18
+"19065",20371,21648,"Post Consumer","Menu","2017-08-24 17:57:03","2017-08-24","Breakfast","Composted","Spoilage",18,"Pound",18
+"19066",20372,21649,"Post Consumer","Menu","2017-08-24 17:57:18","2017-08-24","Breakfast","Composted","Spoilage",18,"Pound",18
+"19067",20373,21650,"Post Consumer","Menu","2017-08-24 17:58:02","2017-08-24","Breakfast","Composted","Spoilage",24.6,"Pound",18
+"19075",20381,21658,"Post Consumer","Menu","2017-08-24 23:12:24","2017-08-24","Breakfast","Discarded","Over Production",9.8,"Pound",18
+"19076",20382,21659,"Post Consumer","Menu","2017-08-24 23:12:33","2017-08-24","Breakfast","Discarded","Over Production",9.8,"Pound",18
+"19077",20383,21660,"Hot Line","Menu","2017-08-24 23:12:58","2017-08-24","Breakfast","Discarded","Over Production",9.8,"Pound",18
+"19090",20396,21674,"Salad","Menu","2017-08-25 11:50:01","2017-08-24","Breakfast","Composted","Spoilage",36,"Pound",18
+"19091",20397,21675,"Grill","Menu","2017-08-25 13:19:11","2017-08-24","Breakfast","Composted","Spoilage",10,"Pound",18
+"19092",20398,21676,"Grill","Menu","2017-08-25 13:19:20","2017-08-24","Breakfast","Composted","Spoilage",10,"Pound",18
+"19093",20399,21677,"Grill","Menu","2017-08-25 13:19:20","2017-08-24","Breakfast","Composted","Spoilage",10,"Pound",18
+"19094",20400,21678,"Grill","Menu","2017-08-25 13:19:22","2017-08-24","Breakfast","Composted","Spoilage",10,"Pound",18
+"19095",20401,21679,"Grill","Menu","2017-08-25 13:19:22","2017-08-24","Breakfast","Composted","Spoilage",10,"Pound",18
+"19096",20402,21680,"Trim Waste","Menu","2017-08-25 14:34:53","2017-08-24","Breakfast","Composted","Spoilage",12.2,"Pound",18
+"19097",20403,21681,"Trim Waste","Menu","2017-08-25 14:34:56","2017-08-24","Breakfast","Composted","Spoilage",12.2,"Pound",18
+"19098",20404,21682,"Trim Waste","Menu","2017-08-25 14:34:58","2017-08-24","Breakfast","Composted","Spoilage",12.2,"Pound",18
+"19121",20427,21705,"Hot Line","Menu","2017-08-26 23:17:27","2017-08-24","Breakfast","Composted","Spoilage",14,"Pound",18
+"19129",20435,21713,"Hot Line","Menu","2017-08-27 18:35:40","2017-08-24","Breakfast","Composted","Quality",25,"Pound",18
+"19134",20440,21718,"Pasta","Menu","2017-08-27 23:12:10","2017-08-27","Breakfast","Discarded","Over Production",8,"Pound",18
+"19135",20441,21719,"Pasta","Menu","2017-08-27 23:12:17","2017-08-27","Breakfast","Discarded","Customer Waste",8,"Pound",18
+"19169",20475,21753,"Dessert","Menu","2017-08-28 15:55:53","2017-08-27","Breakfast","Composted","Spoilage",27,"Pound",18
+"19170",20476,21754,"Dessert","Menu","2017-08-28 15:55:56","2017-08-27","Breakfast","Composted","Spoilage",27,"Pound",18
+"19171",20477,21755,"Dessert","Menu","2017-08-28 15:55:57","2017-08-27","Breakfast","Composted","Spoilage",27,"Pound",18
+"19172",20478,21756,"Trim Waste","Menu","2017-08-28 17:17:06","2017-08-27","Breakfast","Composted","Trim Waste",1,"Pound",18
+"19173",20479,21757,"Trim Waste","Menu","2017-08-28 17:17:10","2017-08-27","Breakfast","Composted","Trim Waste",1,"Pound",18
+"19174",20480,21758,"Trim Waste","Menu","2017-08-28 17:17:11","2017-08-27","Breakfast","Composted","Trim Waste",1,"Pound",18
+"19175",20481,21759,"Post Consumer","Menu","2017-08-28 17:25:08","2017-08-27","Breakfast","Composted","Trim Waste",57,"Pound",18
+"19176",20482,21760,"Post Consumer","Menu","2017-08-28 17:25:22","2017-08-27","Breakfast","Composted","Trim Waste",57,"Pound",18
+"19177",20483,21761,"Catering","Menu","2017-08-28 17:41:19","2017-08-27","Breakfast","Composted","Trim Waste",17.8,"Pound",18
+"19178",20484,21762,"Catering","Menu","2017-08-28 17:41:26","2017-08-27","Breakfast","Composted","Trim Waste",17.8,"Pound",18
+"19179",20485,21763,"Catering","Menu","2017-08-28 17:41:29","2017-08-27","Breakfast","Composted","Trim Waste",17.8,"Pound",18
+"19180",20486,21764,"Catering","Menu","2017-08-28 17:41:34","2017-08-27","Breakfast","Composted","Trim Waste",17.8,"Pound",18
+"19188",20494,21772,"Grill","Menu","2017-08-28 18:17:24","2017-08-27","Lunch","Composted","Customer Waste",16,"Pound",18
+"19200",20509,21787,"Hot Line","Menu","2017-08-29 00:01:13","2017-08-27","Dinner","Composted","Spoilage",19.5,"Pound",18
+"19210",20520,21798,"Grill","Menu","2017-08-29 13:46:48","2017-08-27","Breakfast","Composted","Customer Waste",6,"Pound",18
+"19211",20521,21799,"Grill","Menu","2017-08-29 13:47:01","2017-08-27","Breakfast","Composted","Customer Waste",6,"Pound",18
+"19224",20534,21812,"Trim Waste","Menu","2017-08-29 17:27:44","2017-08-29","Lunch","Composted","Trim Waste",3.2,"Pound",18
+"19232",20542,21820,"Catering","Menu","2017-08-29 17:52:10","2017-08-29","Lunch","Composted","Trim Waste",14.2,"Pound",18
+"19233",20543,21821,"Catering","Menu","2017-08-29 17:52:14","2017-08-29","Lunch","Composted","Trim Waste",14.2,"Pound",18
+"19234",20544,21822,"Catering","Menu","2017-08-29 17:52:18","2017-08-29","Lunch","Composted","Trim Waste",14.2,"Pound",18
+"19235",20545,21823,"Catering","Menu","2017-08-29 17:52:20","2017-08-29","Lunch","Composted","Trim Waste",14.2,"Pound",18
+"19236",20546,21824,"Catering","Menu","2017-08-29 17:52:21","2017-08-29","Lunch","Composted","Trim Waste",14.2,"Pound",18
+"19237",20547,21825,"Catering","Menu","2017-08-29 17:52:22","2017-08-29","Lunch","Composted","Trim Waste",14.2,"Pound",18
+"19254",20564,21842,"Hot Line","Menu","2017-08-29 23:26:47","2017-08-29","Dinner","Composted","Trim Waste",13.8,"Pound",18
+"19256",20566,21844,"Grill","Menu","2017-08-29 23:42:26","2017-08-29","Dinner","Composted","Over Production",14.2,"Pound",18
+"19257",20567,21845,"Hot Line","Menu","2017-08-29 23:48:10","2017-08-29","Dinner","Composted","Over Production",14.2,"Pound",18
+"19258",20568,21846,"Hot Line","Menu","2017-08-29 23:48:28","2017-08-29","Dinner","Composted","Over Production",14.2,"Pound",18
+"19259",20569,21847,"Hot Line","Menu","2017-08-29 23:48:55","2017-08-29","Dinner","Composted","Over Production",9.2,"Pound",18
+"19263",20573,21851,"Dessert","Menu","2017-08-30 16:58:32","2017-08-29","Lunch","Composted","Spoilage",16.8,"Pound",18
+"19264",20574,21852,"Dessert","Menu","2017-08-30 16:58:34","2017-08-29","Lunch","Composted","Spoilage",16.8,"Pound",18
+"19265",20575,21853,"Trim Waste","Menu","2017-08-30 17:01:34","2017-08-29","Lunch","Composted","Trim Waste",5.2,"Pound",18
+"19266",20576,21854,"Catering","Menu","2017-08-30 17:23:56","2017-08-30","Lunch","Composted","Trim Waste",10.2,"Pound",18
+"19267",20577,21855,"Catering","Menu","2017-08-30 17:23:58","2017-08-30","Lunch","Composted","Trim Waste",10.2,"Pound",18
+"19268",20578,21856,"Catering","Menu","2017-08-30 17:23:59","2017-08-30","Lunch","Composted","Trim Waste",10.2,"Pound",18
+"19269",20579,21857,"Catering","Menu","2017-08-30 17:24:00","2017-08-30","Lunch","Composted","Trim Waste",10.2,"Pound",18
+"19270",20580,21858,"Trim Waste","Menu","2017-08-30 17:34:34","2017-08-30","Lunch","Composted","Trim Waste",40,"Pound",18
+"19271",20581,21859,"Trim Waste","Menu","2017-08-30 17:34:36","2017-08-30","Lunch","Composted","Trim Waste",40,"Pound",18
+"19272",20582,21860,"Trim Waste","Menu","2017-08-30 17:34:38","2017-08-30","Lunch","Composted","Trim Waste",40,"Pound",18
+"19273",20583,21861,"Post Consumer","Menu","2017-08-30 17:38:28","2017-08-30","Lunch","Composted","Trim Waste",35,"Pound",18
+"19274",20584,21862,"Post Consumer","Menu","2017-08-30 17:38:32","2017-08-30","Lunch","Composted","Trim Waste",35,"Pound",18
+"19275",20585,21863,"Post Consumer","Menu","2017-08-30 17:38:36","2017-08-30","Lunch","Composted","Trim Waste",35,"Pound",18
+"19277",20587,21865,"Trim Waste","Menu","2017-08-31 13:46:26","2017-08-30","Lunch","Composted","Trim Waste",26,"Pound",18
+"19278",20588,21866,"Trim Waste","Menu","2017-08-31 13:46:28","2017-08-30","Lunch","Composted","Trim Waste",26,"Pound",18
+"19283",20593,21871,"Post Consumer","Menu","2017-08-31 14:53:42","2017-08-30","Lunch","Composted","Trim Waste",26.2,"Pound",18
+"19284",20594,21872,"Post Consumer","Menu","2017-08-31 14:54:27","2017-08-30","Lunch","Composted","Trim Waste",25,"Pound",18
+"19285",20595,21873,"Post Consumer","Menu","2017-08-31 14:55:13","2017-08-30","Lunch","Composted","Trim Waste",24.8,"Pound",18
+"19286",20596,21874,"Catering","Menu","2017-08-31 17:23:59","2017-08-30","Lunch","Composted","Trim Waste",9,"Pound",18
+"19287",20597,21875,"Catering","Menu","2017-08-31 17:24:05","2017-08-30","Lunch","Composted","Trim Waste",9,"Pound",18
+"19288",20598,21876,"Trim Waste","Menu","2017-08-31 17:56:23","2017-08-30","Lunch","Composted","Trim Waste",5,"Pound",18
+"19289",20599,21877,"Trim Waste","Menu","2017-08-31 17:56:26","2017-08-30","Lunch","Composted","Trim Waste",5,"Pound",18
+"19290",20600,21878,"Trim Waste","Menu","2017-08-31 17:56:28","2017-08-30","Lunch","Composted","Trim Waste",5,"Pound",18
+"19291",20601,21879,"Post Consumer","Menu","2017-08-31 17:58:24","2017-08-30","Lunch","Composted","Trim Waste",31,"Pound",18
+"19292",20602,21880,"Post Consumer","Menu","2017-08-31 17:59:30","2017-08-30","Lunch","Composted","Trim Waste",28,"Pound",18
+"19293",20603,21881,"Post Consumer","Menu","2017-08-31 17:59:36","2017-08-30","Lunch","Composted","Trim Waste",28,"Pound",18
+"19294",20604,21882,"Salad","Menu","2017-08-31 18:26:00","2017-08-30","Lunch","Composted","Trim Waste",30,"Pound",18
+"19295",20605,21883,"Salad","Menu","2017-08-31 19:27:47","2017-08-30","Lunch","Composted","Trim Waste",15,"Pound",18
+"19296",20606,21884,"Salad","Menu","2017-08-31 19:27:50","2017-08-30","Lunch","Composted","Trim Waste",15,"Pound",18
+"19297",20607,21885,"Salad","Menu","2017-08-31 19:27:51","2017-08-30","Lunch","Composted","Trim Waste",15,"Pound",18
+"19319",20629,21908,"Catering","Menu","2017-09-02 12:28:16","2017-09-02","Breakfast","Composted","Expired",7.5,"Pound",18
+"19320",20630,21909,"Dessert","Menu","2017-09-02 12:28:38","2017-09-02","Breakfast","Composted","Quality",9,"Pound",18
+"19321",20631,21910,"Dessert","Menu","2017-09-02 12:28:47","2017-09-02","Breakfast","Composted","Quality",9,"Pound",18
+"19322",20632,21911,"Hot Line","Menu","2017-09-02 12:29:11","2017-09-02","Breakfast","Composted","Spoilage",7.5,"Pound",18
+"19323",20633,21912,"Hot Line","Menu","2017-09-02 12:29:49","2017-09-02","Breakfast","Composted","Spoilage",12.2,"Pound",18
+"19324",20634,21913,"Hot Line","Menu","2017-09-02 12:30:52","2017-09-02","Breakfast","Composted","Spoilage",27.6,"Pound",18
+"19325",20635,21914,"Grill","Menu","2017-09-02 18:17:21","2017-09-02","Breakfast","Composted","Trim Waste",4.8,"Pound",18
+"19326",20636,21915,"Grill","Menu","2017-09-03 17:56:32","2017-09-02","Breakfast","Composted","Trim Waste",7,"Pound",18
+"19327",20637,21916,"Trim Waste","Menu","2017-09-03 18:23:58","2017-09-02","Dinner","Composted","Trim Waste",11.2,"Pound",18
+"19328",20638,21917,"Trim Waste","Menu","2017-09-03 18:40:26","2017-09-03","Dinner","Discarded","Over Production",77,"Pound",18
+"19329",20639,21918,"Grill","Menu","2017-09-03 19:19:37","2017-09-03","Breakfast","Discarded","Trim Waste",1.6,"Pound",18
+"19333",20643,21922,"Hot Line","Menu","2017-09-03 23:25:24","2017-09-03","Dinner","Composted","Trim Waste",14.5,"Pound",18
+"19334",20644,21923,"Post Consumer","Menu","2017-09-04 16:52:50","2017-09-03","Dinner","Discarded","Over Production",49,"Pound",18
+"19335",20645,21924,"Post Consumer","Menu","2017-09-04 16:52:52","2017-09-03","Dinner","Discarded","Over Production",49,"Pound",18
+"19343",20653,21932,"Grill","Menu","2017-09-04 18:36:13","2017-09-03","Breakfast","Composted","Trim Waste",13,"Pound",18
+"19354",20664,21943,"Hot Line","Menu","2017-09-04 23:30:19","2017-09-03","Dinner","Composted","Quality",14.2,"Pound",18
+"19355",20665,21944,"Trim Waste","Menu","2017-09-04 23:30:58","2017-09-04","Dinner","Composted","Trim Waste",9.5,"Pound",18
+"19356",20666,21945,"Post Consumer","Menu","2017-09-04 23:44:48","2017-09-04","Dinner","Composted","Trim Waste",49,"Pound",18
+"19358",20668,21947,"Post Consumer","Menu","2017-09-04 23:44:50","2017-09-04","Dinner","Composted","Trim Waste",49,"Pound",18
+"19361",20671,21950,"Post Consumer","Menu","2017-09-04 23:50:41","2017-09-04","Dinner","Composted","Trim Waste",23.4,"Pound",18
+"19362",20672,21951,"Post Consumer","Menu","2017-09-05 13:09:38","2017-09-04","Dinner","Composted","Customer Waste",51.5,"Pound",18
+"19363",20673,21952,"Post Consumer","Menu","2017-09-05 13:09:50","2017-09-04","Dinner","Composted","Customer Waste",51.5,"Pound",18
+"19367",20677,21956,"Trim Waste","Menu","2017-09-05 18:26:35","2017-09-05","Dinner","Composted","Trim Waste",5,"Pound",18
+"19368",20678,21957,"Dessert","Menu","2017-09-05 18:27:07","2017-09-05","Dinner","Composted","Spoilage",11,"Pound",18
+"19379",20689,21968,"Hot Line","Menu","2017-09-05 22:56:41","2017-09-05","Dinner","Composted","Trim Waste",5,"Pound",18
+"19389",20699,21978,"Post Consumer","Menu","2017-09-05 23:56:20","2017-09-05","Dinner","Discarded","Over Production",49,"Pound",18
+"19390",20700,21979,"Post Consumer","Menu","2017-09-05 23:56:24","2017-09-05","Dinner","Discarded","Over Production",49,"Pound",18
+"19391",20701,21980,"Post Consumer","Menu","2017-09-05 23:56:27","2017-09-05","Dinner","Discarded","Over Production",49,"Pound",18
+"19392",20702,21981,"Grill","Menu","2017-09-06 00:00:15","2017-09-05","Dinner","Composted","Over Production",18,"Pound",18
+"19393",20703,21982,"Deli","Menu","2017-09-06 00:00:46","2017-09-05","Lunch","Composted","Trim Waste",23,"Pound",18
+"19394",20704,21983,"Grill","Menu","2017-09-06 00:01:05","2017-09-05","Lunch","Composted","Customer Waste",12,"Pound",18
+"19401",20711,21990,"Trim Waste","Menu","2017-09-06 16:01:11","2017-09-05","Lunch","Composted","Trim Waste",2,"Pound",18
+"19402",20712,21991,"Dessert","Menu","2017-09-06 16:01:35","2017-09-05","Lunch","Composted","Spoilage",15,"Pound",18
+"19403",20713,21992,"Catering","Menu","2017-09-06 17:36:04","2017-09-05","Lunch","Composted","Trim Waste",12,"Pound",18
+"19404",20714,21993,"Catering","Menu","2017-09-06 17:36:12","2017-09-05","Lunch","Composted","Trim Waste",12,"Pound",18
+"19405",20715,21994,"Post Consumer","Menu","2017-09-06 18:53:25","2017-09-05","Lunch","Composted","Trim Waste",25,"Pound",18
+"19430",20740,22020,"Grill","Menu","2017-09-07 09:12:36","2017-09-07","Lunch","Composted","Over Production",26.2,"Pound",18
+"19431",20741,22021,"Grill","Menu","2017-09-07 09:12:37","2017-09-07","Lunch","Composted","Over Production",26.2,"Pound",18
+"19437",20747,22027,"Grill","Menu","2017-09-07 14:26:34","2017-09-07","Lunch","Composted","Over Production",9,"Pound",18
+"19438",20748,22028,"Grill","Menu","2017-09-07 14:26:37","2017-09-07","Lunch","Composted","Over Production",9,"Pound",18
+"19439",20749,22029,"Trim Waste","Menu","2017-09-07 17:18:03","2017-09-07","Lunch","Composted","Over Production",25,"Pound",18
+"19440",20750,22030,"Trim Waste","Menu","2017-09-07 17:21:45","2017-09-07","Lunch","Composted","Trim Waste",6.2,"Pound",18
+"19441",20751,22031,"Catering","Menu","2017-09-07 17:43:38","2017-09-07","Lunch","Composted","Trim Waste",9.2,"Pound",18
+"19442",20752,22032,"Salad","Menu","2017-09-07 18:37:17","2017-09-07","Lunch","Composted","Trim Waste",20,"Pound",18
+"19480",20791,22075,"Trim Waste","Menu","2017-09-11 17:32:43","2017-09-11","Breakfast","Composted","Trim Waste",3,"Pound",18
+"19481",20792,22076,"Trim Waste","Menu","2017-09-11 17:32:46","2017-09-11","Breakfast","Composted","Trim Waste",3,"Pound",18
+"19482",20793,22077,"Post Consumer","Menu","2017-09-11 17:53:48","2017-09-11","Breakfast","Composted","Over Production",32,"Pound",18
+"19483",20794,22078,"Post Consumer","Menu","2017-09-11 17:53:52","2017-09-11","Breakfast","Composted","Over Production",32,"Pound",18
+"19484",20795,22079,"Post Consumer","Menu","2017-09-11 17:54:11","2017-09-11","Breakfast","Composted","Over Production",15,"Pound",18
+"19485",20796,22080,"Post Consumer","Menu","2017-09-11 17:54:27","2017-09-11","Breakfast","Composted","Over Production",15,"Pound",18
+"19486",20797,22081,"Post Consumer","Menu","2017-09-11 17:54:46","2017-09-11","Breakfast","Composted","Over Production",32,"Pound",18
+"19487",20798,22082,"Post Consumer","Menu","2017-09-11 17:54:52","2017-09-11","Breakfast","Composted","Over Production",32,"Pound",18
+"19542",20853,22138,"Post Consumer","Menu","2017-09-13 17:12:06","2017-09-13","Breakfast","Composted","Over Production",32,"Pound",18
+"19543",20854,22139,"Catering","Menu","2017-09-13 17:28:30","2017-09-13","Breakfast","Composted","Trim Waste",18.2,"Pound",18
+"19544",20855,22140,"Trim Waste","Menu","2017-09-13 17:45:37","2017-09-13","Breakfast","Composted","Trim Waste",3,"Pound",18
+"19545",20856,22141,"Salad","Menu","2017-09-13 19:42:34","2017-09-13","Breakfast","Donation","Trim Waste",38,"Pound",18
+"19569",20880,22165,"Post Consumer","Menu","2017-09-13 23:36:48","2017-09-13","Breakfast","Composted","Trim Waste",30,"Pound",18
+"19581",20892,22178,"Trim Waste","Menu","2017-09-14 13:20:22","2017-09-14","Breakfast","Composted","Trim Waste",14,"Pound",18
+"19591",20902,22188,"Trim Waste","Menu","2017-09-14 17:06:26","2017-09-14","Breakfast","Composted","Trim Waste",18,"Pound",18
+"19592",20903,22189,"Trim Waste","Menu","2017-09-14 17:06:32","2017-09-14","Breakfast","Composted","Trim Waste",18,"Pound",18
+"19593",20904,22190,"Catering","Menu","2017-09-14 17:41:35","2017-09-14","Breakfast","Composted","Trim Waste",15.5,"Pound",18
+"19594",20905,22191,"Trim Waste","Menu","2017-09-14 18:27:16","2017-09-14","Breakfast","Composted","Trim Waste",29,"Pound",18
+"19595",20906,22192,"Trim Waste","Menu","2017-09-14 18:27:20","2017-09-14","Breakfast","Composted","Trim Waste",29,"Pound",18
+"19604",20915,22201,"Salad","Menu","2017-09-15 17:19:55","2017-09-14","Lunch","Composted","Quality",5,"Pound",18
+"19605",20916,22202,"Grill","Menu","2017-09-15 17:21:10","2017-09-14","Lunch","Composted","Quality",1,"Pound",18
+"19606",20917,22203,"Grill","Menu","2017-09-15 17:21:10","2017-09-14","Lunch","Composted","Quality",1,"Pound",18
+"19607",20918,22204,"Trim Waste","Menu","2017-09-15 17:38:15","2017-09-14","Lunch","Donation","Quality",28,"Pound",18
+"19608",20919,22205,"Trim Waste","Menu","2017-09-15 17:38:17","2017-09-14","Lunch","Donation","Quality",28,"Pound",18
+"19609",20920,22206,"Trim Waste","Menu","2017-09-15 17:38:19","2017-09-14","Lunch","Donation","Quality",28,"Pound",18
+"19610",20921,22207,"Trim Waste","Menu","2017-09-15 17:38:20","2017-09-14","Lunch","Donation","Quality",28,"Pound",18
+"19611",20922,22208,"Catering","Menu","2017-09-15 17:43:24","2017-09-14","Lunch","Composted","Trim Waste",9.2,"Pound",18
+"19612",20923,22209,"Catering","Menu","2017-09-15 18:51:36","2017-09-14","Lunch","Composted","Trim Waste",16,"Pound",18
+"19613",20924,22210,"Catering","Menu","2017-09-15 19:41:50","2017-09-14","Lunch","Composted","Customer Waste",4,"Pound",18
+"19614",20925,22211,"Catering","Menu","2017-09-15 19:41:55","2017-09-14","Lunch","Composted","Customer Waste",4,"Pound",18
+"19615",20926,22212,"Catering","Menu","2017-09-15 19:41:56","2017-09-14","Lunch","Composted","Customer Waste",4,"Pound",18
+"19616",20927,22213,"Catering","Menu","2017-09-15 19:41:56","2017-09-14","Lunch","Composted","Customer Waste",4,"Pound",18
+"21376",22687,24031,"Hot Line","Menu","2017-11-13 00:29:45","2017-11-12","Dinner","Composted","Trim Waste",17,"Pound",18
+"21377",22688,24032,"Grill","Menu","2017-11-13 00:31:05","2017-11-12","Dinner","Composted","Customer Waste",21.4,"Pound",18
+"21391",22702,24046,"Salad","Menu","2017-11-13 15:50:25","2017-11-12","Dinner","Composted","Trim Waste",15,"Pound",18
+"21392",22703,24047,"Salad","Menu","2017-11-13 15:50:26","2017-11-12","Dinner","Composted","Trim Waste",15,"Pound",18
+"21393",22704,24048,"Grill","Menu","2017-11-13 18:57:14","2017-11-12","Lunch","Composted","Customer Waste",2,"Pound",18
+"21409",22720,24064,"Hot Line","Menu","2017-11-14 00:16:25","2017-11-13","Dinner","Composted","Trim Waste",0,"Pound",18
+"21410",22721,24065,"Hot Line","Menu","2017-11-14 00:16:38","2017-11-13","Dinner","Composted","Trim Waste",17.6,"Pound",18
+"21427",22738,24083,"Salad","Menu","2017-11-14 15:53:14","2017-11-14","Breakfast","Composted","Quality",13,"Pound",18
+"21432",22743,24088,"Grill","Menu","2017-11-14 15:58:56","2017-11-14","Breakfast","Composted","Quality",8.4,"Pound",18
+"21433",22744,24089,"Grill","Menu","2017-11-14 15:58:57","2017-11-14","Breakfast","Composted","Quality",8.4,"Pound",18
+"21434",22745,24090,"Grill","Menu","2017-11-14 15:58:58","2017-11-14","Breakfast","Composted","Quality",8.4,"Pound",18
+"21435",22746,24091,"Grill","Menu","2017-11-14 15:59:06","2017-11-14","Breakfast","Composted","Quality",8.4,"Pound",18
+"21467",22778,24123,"Hot Line","Menu","2017-11-15 00:50:17","2017-11-14","Dinner","Composted","Trim Waste",55,"Pound",18
+"21479",22790,24135,"Post Consumer","Menu","2017-11-15 15:55:49","2017-11-14","Dinner","Composted","Trim Waste",33,"Pound",18
+"21480",22791,24136,"Post Consumer","Menu","2017-11-15 15:56:17","2017-11-14","Dinner","Composted","Trim Waste",33,"Pound",18
+"21485",22796,24141,"Hot Line","Menu","2017-11-15 19:22:15","2017-11-15","Lunch","Composted","Customer Waste",32.2,"Pound",18
+"21512",22823,24168,"Hot Line","Menu","2017-11-16 00:39:44","2017-11-15","Dinner","Composted","Over Production",9,"Pound",18
+"21513",22824,24169,"Post Consumer","Menu","2017-11-16 00:41:22","2017-11-15","Dinner","Composted","Customer Waste",50,"Pound",18
+"21554",22865,24210,"Post Consumer","Menu","2017-11-17 15:08:37","2017-11-15","Dinner","Composted","Customer Waste",18,"Pound",18
+"21555",22866,24211,"Post Consumer","Menu","2017-11-17 15:09:26","2017-11-15","Dinner","Composted","Customer Waste",15,"Pound",18
+"21557",22868,24213,"Grill","Menu","2017-11-17 17:41:08","2017-11-17","Breakfast","Discarded","Quality",5.2,"Pound",18
+"21558",22869,24214,"Grill","Menu","2017-11-17 19:13:00","2017-11-17","Lunch","Composted","Customer Waste",19.6,"Pound",18
+"21564",22875,24220,"Hot Line","Menu","2017-11-19 01:12:11","2017-11-17","Dinner","Composted","Trim Waste",16,"Pound",18
+"21569",22880,24225,"Grill","Menu","2017-11-20 17:41:12","2017-11-17","Breakfast","Composted","Trim Waste",8,"Pound",18
+"21570",22881,24226,"Hot Line","Menu","2017-11-20 19:02:43","2017-11-20","Dinner","Composted","Trim Waste",3.6,"Pound",18
+"21571",22882,24227,"Hot Line","Menu","2017-11-20 19:03:32","2017-11-20","Dinner","Composted","Trim Waste",3.8,"Pound",18
+"21572",22883,24228,"Post Consumer","Menu","2017-11-20 19:04:45","2017-11-20","Dinner","Composted","Customer Waste",45,"Pound",18
+"21579",22890,24235,"Hot Line","Menu","2017-11-21 00:29:37","2017-11-20","Dinner","Composted","Over Production",11.2,"Pound",18
+"21580",22891,24236,"Hot Line","Menu","2017-11-21 00:29:33","2017-11-20","Dinner","Composted","Over Production",11.2,"Pound",18
+"21581",22892,24237,"Hot Line","Menu","2017-11-21 00:29:57","2017-11-20","Dinner","Composted","Trim Waste",13,"Pound",18
+"21629",22940,24286,"Trim Waste","Menu","2017-11-26 22:10:30","2017-11-20","Dinner","Composted","Trim Waste",25,"Pound",18
+"21630",22941,24287,"Trim Waste","Menu","2017-11-26 22:10:32","2017-11-20","Dinner","Composted","Trim Waste",25,"Pound",18
+"21651",22962,24308,"Hot Line","Menu","2017-11-27 00:46:06","2017-11-20","Dinner","Composted","Trim Waste",18,"Pound",18
+"21666",22977,24323,"Post Consumer","Menu","2017-11-27 15:41:06","2017-11-20","Dinner","Discarded","Trim Waste",25,"Pound",18
+"21667",22978,24324,"Post Consumer","Menu","2017-11-27 15:41:08","2017-11-20","Dinner","Discarded","Trim Waste",25,"Pound",18
+"21668",22979,24325,"Hot Line","Menu","2017-11-27 15:46:36","2017-11-20","Dinner","Discarded","Trim Waste",10,"Pound",18
+"21669",22980,24326,"Hot Line","Menu","2017-11-27 15:46:40","2017-11-20","Dinner","Discarded","Trim Waste",10,"Pound",18
+"21670",22981,24327,"Salad","Menu","2017-11-27 16:07:52","2017-11-20","Dinner","Composted","Trim Waste",7.9,"Pound",18
+"21671",22982,24328,"Salad","Menu","2017-11-27 16:07:57","2017-11-20","Dinner","Composted","Trim Waste",7.9,"Pound",18
+"21677",22988,24334,"Post Consumer","Menu","2017-11-27 18:19:42","2017-11-20","Dinner","Composted","Trim Waste",25,"Pound",18
+"21678",22989,24335,"Post Consumer","Menu","2017-11-27 18:19:46","2017-11-20","Dinner","Composted","Trim Waste",25,"Pound",18
+"21679",22990,24336,"Post Consumer","Menu","2017-11-27 18:20:43","2017-11-20","Dinner","Discarded","Trim Waste",21,"Pound",18
+"21680",22991,24337,"Post Consumer","Menu","2017-11-27 18:20:44","2017-11-20","Dinner","Discarded","Trim Waste",21,"Pound",18
+"21686",22997,24343,"Trim Waste","Menu","2017-11-27 21:26:25","2017-11-20","Dinner","Discarded","Trim Waste",20,"Pound",18
+"21700",23011,24357,"Hot Line","Menu","2017-11-28 00:36:43","2017-11-20","Dinner","Composted","Trim Waste",13,"Pound",18
+"21724",23035,24381,"Post Consumer","Menu","2017-11-28 15:15:50","2017-11-20","Dinner","Composted","Trim Waste",2,"Pound",18
+"21725",23036,24382,"Post Consumer","Menu","2017-11-28 15:15:56","2017-11-20","Dinner","Composted","Trim Waste",2,"Pound",18
+"21726",23037,24383,"Post Consumer","Menu","2017-11-28 15:47:44","2017-11-28","Breakfast","Discarded","Over Production",26,"Pound",18
+"21727",23038,24384,"Post Consumer","Menu","2017-11-28 18:13:50","2017-11-28","Breakfast","Discarded","Over Production",21,"Pound",18
+"21728",23039,24385,"Post Consumer","Menu","2017-11-28 18:13:59","2017-11-28","Breakfast","Discarded","Over Production",21,"Pound",18
+"21729",23040,24386,"Post Consumer","Menu","2017-11-28 18:13:57","2017-11-28","Breakfast","Discarded","Over Production",21,"Pound",18
+"21730",23041,24387,"Post Consumer","Menu","2017-11-28 18:13:54","2017-11-28","Breakfast","Discarded","Over Production",21,"Pound",18
+"21731",23042,24388,"Post Consumer","Menu","2017-11-28 18:14:02","2017-11-28","Breakfast","Discarded","Over Production",21,"Pound",18
+"21732",23043,24389,"Post Consumer","Menu","2017-11-28 18:14:02","2017-11-28","Breakfast","Discarded","Over Production",21,"Pound",18
+"21733",23044,24390,"Post Consumer","Menu","2017-11-28 18:14:58","2017-11-28","Breakfast","Composted","Over Production",30,"Pound",18
+"21734",23045,24391,"Post Consumer","Menu","2017-11-28 19:41:20","2017-11-28","Breakfast","Composted","Quality",30,"Pound",18
+"21735",23046,24392,"Post Consumer","Menu","2017-11-28 19:41:06","2017-11-28","Breakfast","Composted","Quality",30,"Pound",18
+"21756",23067,24413,"Hot Line","Menu","2017-11-29 01:03:59","2017-11-28","Dinner","Composted","Food Salvage",23,"Pound",18
+"21757",23068,24414,"Hot Line","Menu","2017-11-29 01:04:03","2017-11-28","Dinner","Composted","Food Salvage",23,"Pound",18
+"21758",23069,24415,"Pizza","Menu","2017-11-29 01:04:46","2017-11-28","Dinner","Composted","Spoilage",2.2,"Pound",18
+"21796",23107,24453,"Post Consumer","Menu","2017-11-29 14:24:23","2017-11-28","Dinner","Composted","Spoilage",22,"Pound",18
+"21804",23115,24502,"Post Consumer","Menu","2017-11-29 21:18:24","2017-11-29","Lunch","Composted","Customer Waste",45,"Pound",18
+"21805",23116,24503,"Grill","Menu","2017-11-29 21:18:43","2017-11-29","Lunch","Composted","Customer Waste",11.5,"Pound",18
+"21806",23117,24504,"Trim Waste","Menu","2017-11-29 21:21:55","2017-11-29","Lunch","Composted","Trim Waste",32.5,"Pound",18
+"21824",23135,24522,"Post Consumer","Menu","2017-11-30 00:40:23","2017-11-29","Lunch","Composted","Customer Waste",36,"Pound",18
+"21825",23136,24523,"Post Consumer","Menu","2017-11-30 00:40:44","2017-11-29","Lunch","Composted","Customer Waste",41,"Pound",18
+"21834",23145,24532,"Hot Line","Menu","2017-11-30 01:22:14","2017-11-29","Dinner","Composted","Trim Waste",8.5,"Pound",18
+"21835",23146,24533,"Hot Line","Menu","2017-11-30 01:22:21","2017-11-29","Dinner","Composted","Trim Waste",8.5,"Pound",18
+"21836",23147,24534,"Hot Line","Menu","2017-11-30 01:22:25","2017-11-29","Dinner","Composted","Trim Waste",8.5,"Pound",18
+"21844",23155,24568,"Trim Waste","Menu","2017-11-30 13:57:58","2017-11-29","Dinner","Composted","Trim Waste",56,"Pound",18
+"21845",23156,24569,"Trim Waste","Menu","2017-11-30 14:27:09","2017-11-29","Lunch","Composted","Trim Waste",8,"Pound",18
+"21846",23157,24570,"Trim Waste","Menu","2017-11-30 14:27:15","2017-11-29","Lunch","Composted","Trim Waste",8,"Pound",18
+"21847",23158,24571,"Grill","Menu","2017-11-30 15:23:22","2017-11-29","Lunch","Composted","Trim Waste",6.6,"Pound",18
+"21848",23159,24572,"Grill","Menu","2017-11-30 15:23:21","2017-11-29","Lunch","Composted","Trim Waste",6.6,"Pound",18
+"21849",23160,24573,"Grill","Menu","2017-11-30 15:23:24","2017-11-29","Lunch","Composted","Trim Waste",6.6,"Pound",18
+"21850",23161,24574,"Grill","Menu","2017-11-30 15:23:25","2017-11-29","Lunch","Composted","Trim Waste",6.6,"Pound",18
+"21851",23162,24575,"Grill","Menu","2017-11-30 15:23:26","2017-11-29","Lunch","Composted","Trim Waste",6.6,"Pound",18
+"21852",23163,24576,"Grill","Menu","2017-11-30 15:23:28","2017-11-29","Lunch","Composted","Trim Waste",6.6,"Pound",18
+"21853",23164,24577,"Grill","Menu","2017-11-30 15:23:29","2017-11-29","Lunch","Composted","Trim Waste",6.6,"Pound",18
+"21854",23165,24578,"Grill","Menu","2017-11-30 15:23:28","2017-11-29","Lunch","Composted","Trim Waste",6.6,"Pound",18
+"21855",23166,24579,"Post Consumer","Menu","2017-11-30 15:58:24","2017-11-30","Breakfast","Discarded","Over Production",40.3,"Pound",18
+"21859",23170,24583,"Post Consumer","Menu","2017-11-30 16:02:09","2017-11-30","Breakfast","Composted","Customer Waste",40,"Pound",18
+"21864",23175,24588,"Grill","Menu","2017-11-30 16:51:20","2017-11-30","Breakfast","Composted","Quality",11,"Pound",18
+"21865",23176,24589,"Grill","Menu","2017-11-30 16:51:18","2017-11-30","Breakfast","Composted","Quality",11,"Pound",18
+"21866",23177,24590,"Grill","Menu","2017-11-30 16:51:19","2017-11-30","Breakfast","Composted","Quality",11,"Pound",18
+"21867",23178,24591,"Grill","Menu","2017-11-30 16:51:21","2017-11-30","Breakfast","Composted","Quality",11,"Pound",18
+"21868",23179,24592,"Grill","Menu","2017-11-30 16:51:28","2017-11-30","Breakfast","Composted","Quality",11,"Pound",18
+"21869",23180,24595,"Salad","Menu","2017-11-30 18:20:08","2017-11-30","Breakfast","Composted","Trim Waste",6,"Pound",18
+"21870",23181,24596,"Salad","Menu","2017-11-30 18:20:14","2017-11-30","Breakfast","Composted","Trim Waste",6,"Pound",18
+"21871",23182,24597,"Trim Waste","Menu","2017-11-30 18:37:18","2017-11-30","Breakfast","Composted","Trim Waste",7,"Pound",18
+"21872",23183,24598,"Trim Waste","Menu","2017-11-30 18:37:21","2017-11-30","Breakfast","Composted","Trim Waste",7,"Pound",18
+"21873",23184,24599,"Salad","Menu","2017-11-30 18:41:59","2017-11-30","Breakfast","Composted","Trim Waste",24,"Pound",18
+"21874",23185,24600,"Catering","Menu","2017-11-30 19:00:54","2017-11-30","Breakfast","Composted","Trim Waste",11.8,"Pound",18
+"21875",23186,24601,"Catering","Menu","2017-11-30 19:00:59","2017-11-30","Breakfast","Composted","Trim Waste",11.8,"Pound",18
+"21897",23208,24631,"Hot Line","Menu","2017-12-01 01:47:24","2017-11-30","Dinner","Composted","Trim Waste",6.5,"Pound",18
+"21902",23213,24637,"Trim Waste","Menu","2017-12-01 15:22:21","2017-11-30","Dinner","Composted","Trim Waste",24,"Pound",18
+"21903",23214,24638,"Grill","Menu","2017-12-01 15:25:46","2017-11-30","Dinner","Composted","Quality",12,"Pound",18
+"21904",23215,24639,"Grill","Menu","2017-12-01 15:25:44","2017-11-30","Dinner","Composted","Quality",12,"Pound",18
+"21905",23216,24640,"Grill","Menu","2017-12-01 15:25:43","2017-11-30","Dinner","Composted","Quality",12,"Pound",18
+"21906",23217,24641,"Grill","Menu","2017-12-01 15:25:47","2017-11-30","Dinner","Composted","Quality",12,"Pound",18
+"21907",23218,24642,"Grill","Menu","2017-12-01 15:25:45","2017-11-30","Dinner","Composted","Quality",12,"Pound",18
+"21912",23223,24648,"Deli","Menu","2017-12-01 18:58:24","2017-12-01","Lunch","Composted","Quality",2.6,"Pound",18
+"21913",23224,24649,"Trim Waste","Menu","2017-12-01 19:34:00","2017-12-01","Breakfast","Composted","Quality",37,"Pound",18
+"21915",23226,24651,"Salad","Menu","2017-12-01 20:10:08","2017-12-01","Breakfast","Composted","Quality",15,"Pound",18
+"21943",23254,24679,"Grill","Menu","2017-12-02 19:53:44","2017-12-01","Breakfast","Composted","Customer Waste",12,"Pound",18
+"21971",23282,24707,"Hot Line","Menu","2017-12-03 23:09:25","2017-12-01","Dinner","Composted","Trim Waste",12,"Pound",18
+"21978",23289,24714,"Hot Line","Menu","2017-12-04 00:22:52","2017-12-01","Dinner","Composted","Customer Waste",7,"Pound",18
+"21994",23305,24730,"Trim Waste","Menu","2017-12-04 13:18:41","2017-12-01","Dinner","Composted","Trim Waste",20,"Pound",18
+"21995",23306,24731,"Post Consumer","Menu","2017-12-04 15:17:06","2017-12-01","Dinner","Discarded","Trim Waste",1,"Pound",18
+"21996",23307,24732,"Grill","Menu","2017-12-04 15:46:11","2017-12-04","Breakfast","Composted","Over Production",16,"Pound",18
+"22001",23312,24737,"Trim Waste","Menu","2017-12-04 16:21:47","2017-12-04","Breakfast","Composted","Quality",26,"Pound",18
+"22002",23313,24738,"Trim Waste","Menu","2017-12-04 16:21:49","2017-12-04","Breakfast","Composted","Quality",26,"Pound",18
+"22003",23314,24739,"Trim Waste","Menu","2017-12-04 16:21:51","2017-12-04","Breakfast","Composted","Quality",26,"Pound",18
+"22004",23315,24740,"Trim Waste","Menu","2017-12-04 16:21:45","2017-12-04","Breakfast","Composted","Quality",26,"Pound",18
+"22005",23316,24741,"Trim Waste","Menu","2017-12-04 16:21:53","2017-12-04","Breakfast","Composted","Quality",26,"Pound",18
+"22006",23317,24742,"Trim Waste","Menu","2017-12-04 16:21:55","2017-12-04","Breakfast","Composted","Quality",26,"Pound",18
+"22007",23318,24743,"Trim Waste","Menu","2017-12-04 16:21:56","2017-12-04","Breakfast","Composted","Quality",26,"Pound",18
+"22008",23319,24744,"Trim Waste","Menu","2017-12-04 16:21:56","2017-12-04","Breakfast","Composted","Quality",26,"Pound",18
+"22010",23321,24746,"Post Consumer","Menu","2017-12-04 18:32:04","2017-12-04","Breakfast","Composted","Quality",23,"Pound",18
+"22011",23322,24747,"Post Consumer","Menu","2017-12-04 18:32:13","2017-12-04","Breakfast","Composted","Quality",23,"Pound",18
+"22012",23323,24748,"Post Consumer","Menu","2017-12-04 18:32:51","2017-12-04","Breakfast","Composted","Quality",18,"Pound",18
+"22013",23324,24749,"Post Consumer","Menu","2017-12-04 19:08:14","2017-12-04","Breakfast","Composted","Customer Waste",6,"Pound",18
+"22014",23325,24750,"Post Consumer","Menu","2017-12-04 19:08:15","2017-12-04","Breakfast","Composted","Customer Waste",6,"Pound",18
+"22015",23326,24751,"Hot Line","Menu","2017-12-04 19:25:57","2017-12-04","Lunch","Composted","Customer Waste",9,"Pound",18
+"22016",23327,24752,"Hot Line","Menu","2017-12-04 19:26:04","2017-12-04","Lunch","Composted","Customer Waste",9,"Pound",18
+"22029",23340,24765,"Trim Waste","Menu","2017-12-04 22:01:22","2017-12-04","Lunch","Composted","Customer Waste",22,"Pound",18
+"22043",23354,24779,"Hot Line","Menu","2017-12-05 00:38:59","2017-12-04","Dinner","Composted","Trim Waste",14.5,"Pound",18
+"22044",23355,24780,"Hot Line","Menu","2017-12-05 00:39:02","2017-12-04","Dinner","Composted","Trim Waste",14.5,"Pound",18
+"22045",23356,24781,"Hot Line","Menu","2017-12-05 00:39:07","2017-12-04","Dinner","Composted","Trim Waste",14.5,"Pound",18
+"22054",23365,24790,"Post Consumer","Menu","2017-12-05 15:20:23","2017-12-04","Dinner","Composted","Trim Waste",20,"Pound",18
+"22055",23366,24791,"Post Consumer","Menu","2017-12-05 15:20:30","2017-12-04","Dinner","Composted","Trim Waste",20,"Pound",18
+"22063",23374,24800,"Hot Line","Menu","2017-12-05 18:53:18","2017-12-05","Lunch","Composted","Over Production",21,"Pound",18
+"22066",23377,24803,"Hot Line","Menu","2017-12-05 23:17:03","2017-12-05","Dinner","Composted","Trim Waste",8,"Pound",18
+"22067",23378,24804,"Salad","Menu","2017-12-05 23:17:59","2017-12-05","Lunch","Composted","Spoilage",3,"Pound",18
+"22068",23379,24805,"Deli","Menu","2017-12-05 23:18:59","2017-12-05","Lunch","Composted","Trim Waste",9,"Pound",18
+"22107",23418,24844,"Hot Line","Menu","2017-12-06 12:41:06","2017-12-05","Lunch","Composted","Trim Waste",13,"Pound",18
+"22108",23419,24845,"Trim Waste","Menu","2017-12-06 13:20:38","2017-12-05","Lunch","Composted","Trim Waste",17,"Pound",18
+"22110",23421,24847,"Trim Waste","Menu","2017-12-06 14:35:03","2017-12-05","Lunch","Composted","Trim Waste",19,"Pound",18
+"22111",23422,24848,"Post Consumer","Menu","2017-12-06 14:36:41","2017-12-05","Lunch","Donation","Trim Waste",2,"Pound",18
+"22119",23430,24856,"Salad","Menu","2017-12-06 17:11:33","2017-12-05","Lunch","Composted","Trim Waste",11,"Pound",18
+"22120",23431,24857,"Grill","Menu","2017-12-06 17:23:17","2017-12-05","Lunch","Composted","Trim Waste",17,"Pound",18
+"22121",23432,24858,"Grill","Menu","2017-12-06 17:23:20","2017-12-05","Lunch","Composted","Trim Waste",17,"Pound",18
+"22122",23433,24859,"Grill","Menu","2017-12-06 17:23:21","2017-12-05","Lunch","Composted","Trim Waste",17,"Pound",18
+"22123",23434,24860,"Post Consumer","Menu","2017-12-06 18:17:20","2017-12-05","Lunch","Composted","Trim Waste",22,"Pound",18
+"22124",23435,24861,"Post Consumer","Menu","2017-12-06 18:17:27","2017-12-05","Lunch","Composted","Trim Waste",29,"Pound",18
+"22125",23436,24862,"Post Consumer","Menu","2017-12-06 18:18:00","2017-12-05","Lunch","Composted","Trim Waste",23,"Pound",18
+"22126",23437,24863,"Post Consumer","Menu","2017-12-06 18:18:01","2017-12-05","Lunch","Composted","Trim Waste",23,"Pound",18
+"22127",23438,24864,"Post Consumer","Menu","2017-12-06 18:22:37","2017-12-05","Lunch","Composted","Customer Waste",52,"Pound",18
+"22128",23439,24865,"Post Consumer","Menu","2017-12-06 18:22:45","2017-12-05","Lunch","Composted","Customer Waste",52,"Pound",18
+"22129",23440,24866,"Grill","Menu","2017-12-06 19:10:57","2017-12-05","Lunch","Composted","Customer Waste",9.2,"Pound",18
+"22132",23443,24869,"Hot Line","Menu","2017-12-06 21:01:58","2017-12-05","Lunch","Donation","Food Salvage",85,"Pound",18
+"22133",23444,24870,"Trim Waste","Menu","2017-12-06 21:02:36","2017-12-05","Lunch","Composted","Trim Waste",4,"Pound",18
+"22138",23449,24875,"Grill","Menu","2017-12-07 00:36:46","2017-12-05","Dinner","Composted","Trim Waste",17,"Pound",18
+"22139",23450,24876,"Hot Line","Menu","2017-12-07 00:37:25","2017-12-05","Dinner","Composted","Over Production",22.5,"Pound",18
+"22140",23451,24877,"Post Consumer","Menu","2017-12-07 00:38:13","2017-12-05","Dinner","Composted","Customer Waste",30,"Pound",18
+"22141",23452,24878,"Deli","Menu","2017-12-07 00:38:51","2017-12-05","Lunch","Composted","Trim Waste",9,"Pound",18
+"22152",23463,24889,"Trim Waste","Menu","2017-12-07 12:50:10","2017-12-05","Lunch","Composted","Trim Waste",24,"Pound",18
+"22153",23464,24890,"Trim Waste","Menu","2017-12-07 14:35:27","2017-12-05","Lunch","Composted","Trim Waste",30,"Pound",18
+"22156",23467,24893,"Hot Line","Menu","2017-12-07 18:58:44","2017-12-05","Lunch","Composted","Trim Waste",25,"Pound",18
+"22157",23468,24894,"Salad","Menu","2017-12-07 19:16:50","2017-12-05","Lunch","Composted","Quality",27,"Pound",18
+"22158",23469,24895,"Post Consumer","Menu","2017-12-07 19:52:19","2017-12-05","Lunch","Composted","Customer Waste",60,"Pound",18
+"22159",23470,24896,"Post Consumer","Menu","2017-12-07 19:52:43","2017-12-05","Lunch","Composted","Customer Waste",60,"Pound",18
+"22161",23472,24898,"Catering","Menu","2017-12-08 00:21:02","2017-12-05","Dinner","Composted","Trim Waste",18,"Pound",18
+"22162",23473,24899,"Salad","Menu","2017-12-08 00:21:36","2017-12-05","Dinner","Composted","Trim Waste",15,"Pound",18
+"22163",23474,24900,"Soup","Menu","2017-12-08 00:22:32","2017-12-05","Lunch","Composted","Trim Waste",33,"Pound",18
+"22181",23492,24918,"Hot Line","Menu","2017-12-08 00:33:30","2017-12-05","Lunch","Composted","Customer Waste",15,"Pound",18
+"22182",23493,24919,"Post Consumer","Menu","2017-12-08 00:42:13","2017-12-05","Lunch","Composted","Customer Waste",40,"Pound",18
+"22183",23494,24920,"Post Consumer","Menu","2017-12-08 00:42:55","2017-12-05","Lunch","Composted","Customer Waste",32,"Pound",18
+"22185",23496,24922,"Grill","Menu","2017-12-08 19:14:23","2017-12-08","Lunch","Composted","Customer Waste",24.2,"Pound",18
+"22186",23497,24923,"Trim Waste","Menu","2017-12-08 19:57:57","2017-12-08","Lunch","Composted","Customer Waste",28,"Pound",18
+"22240",23551,24978,"Hot Line","Menu","2017-12-10 23:25:29","2017-12-08","Dinner","Composted","Trim Waste",21,"Pound",18
+"22241",23552,24979,"Hot Line","Menu","2017-12-10 23:25:32","2017-12-08","Dinner","Composted","Trim Waste",21,"Pound",18
+"22242",23553,24980,"Hot Line","Menu","2017-12-10 23:25:54","2017-12-08","Dinner","Composted","Trim Waste",18,"Pound",18
+"22262",23573,25000,"Dessert","Menu","2017-12-11 12:17:09","2017-12-08","Dinner","Composted","Spoilage",20,"Pound",18
+"22263",23574,25001,"Trim Waste","Menu","2017-12-11 13:24:27","2017-12-08","Dinner","Composted","Spoilage",23,"Pound",18
+"22265",23576,25003,"Grill","Menu","2017-12-11 15:36:49","2017-12-08","Breakfast","Composted","Over Production",23,"Pound",18
+"22266",23577,25004,"Grill","Menu","2017-12-11 15:36:51","2017-12-08","Breakfast","Composted","Over Production",23,"Pound",18
+"22267",23578,25005,"Grill","Menu","2017-12-11 15:36:51","2017-12-08","Breakfast","Composted","Over Production",23,"Pound",18
+"22268",23579,25006,"Grill","Menu","2017-12-11 15:36:53","2017-12-08","Breakfast","Composted","Over Production",23,"Pound",18
+"22269",23580,25007,"Grill","Menu","2017-12-11 15:36:52","2017-12-08","Breakfast","Composted","Over Production",23,"Pound",18
+"22270",23581,25008,"Grill","Menu","2017-12-11 15:36:54","2017-12-08","Breakfast","Composted","Over Production",23,"Pound",18
+"22271",23582,25009,"Post Consumer","Menu","2017-12-11 16:12:45","2017-12-08","Breakfast","Composted","Over Production",23,"Pound",18
+"22272",23583,25010,"Post Consumer","Menu","2017-12-11 16:12:50","2017-12-08","Breakfast","Composted","Over Production",23,"Pound",18
+"22274",23585,25012,"Deli","Menu","2017-12-11 17:21:10","2017-12-08","Breakfast","Composted","Over Production",8.5,"Pound",18
+"22275",23586,25013,"Hot Line","Menu","2017-12-11 17:21:37","2017-12-08","Breakfast","Composted","Over Production",26,"Pound",18
+"22277",23588,25015,"Catering","Menu","2017-12-11 19:14:12","2017-12-08","Breakfast","Composted","Trim Waste",18,"Pound",18
+"22278",23589,25016,"Catering","Menu","2017-12-11 19:14:19","2017-12-08","Breakfast","Composted","Trim Waste",18,"Pound",18
+"22279",23590,25017,"Grill","Menu","2017-12-11 19:16:58","2017-12-08","Lunch","Composted","Customer Waste",3,"Pound",18
+"22299",23610,25037,"Hot Line","Menu","2017-12-12 00:34:38","2017-12-08","Dinner","Composted","Trim Waste",2,"Pound",18
+"22301",23612,25039,"Grill","Menu","2017-12-12 00:34:59","2017-12-08","Dinner","Composted","Trim Waste",9.5,"Pound",18
+"22323",23634,25066,"Post Consumer","Menu","2017-12-12 15:55:11","2017-12-08","Dinner","Composted","Trim Waste",20,"Pound",18
+"22324",23635,25067,"Grill","Menu","2017-12-12 16:12:12","2017-12-08","Breakfast","Composted","Customer Waste",11,"Pound",18
+"22325",23636,25068,"Grill","Menu","2017-12-12 16:12:14","2017-12-08","Breakfast","Composted","Customer Waste",11,"Pound",18
+"22326",23637,25069,"Grill","Menu","2017-12-12 16:12:16","2017-12-08","Breakfast","Composted","Customer Waste",11,"Pound",18
+"22327",23638,25070,"Grill","Menu","2017-12-12 16:12:15","2017-12-08","Breakfast","Composted","Customer Waste",11,"Pound",18
+"22328",23639,25071,"Grill","Menu","2017-12-12 16:12:14","2017-12-08","Breakfast","Composted","Customer Waste",11,"Pound",18
+"22329",23640,25072,"Grill","Menu","2017-12-12 16:12:16","2017-12-08","Breakfast","Composted","Customer Waste",11,"Pound",18
+"22330",23641,25073,"Grill","Menu","2017-12-12 16:12:17","2017-12-08","Breakfast","Composted","Customer Waste",11,"Pound",18
+"22331",23642,25074,"Grill","Menu","2017-12-12 16:12:19","2017-12-08","Breakfast","Composted","Customer Waste",11,"Pound",18
+"22332",23643,25075,"Grill","Menu","2017-12-12 16:12:21","2017-12-08","Breakfast","Composted","Customer Waste",11,"Pound",18
+"22333",23644,25076,"Grill","Menu","2017-12-12 16:12:22","2017-12-08","Breakfast","Composted","Customer Waste",11,"Pound",18
+"22334",23645,25077,"Grill","Menu","2017-12-12 16:12:23","2017-12-08","Breakfast","Composted","Customer Waste",11,"Pound",18
+"22335",23646,25078,"Grill","Menu","2017-12-12 16:12:23","2017-12-08","Breakfast","Composted","Customer Waste",11,"Pound",18
+"22336",23647,25079,"Grill","Menu","2017-12-12 16:12:23","2017-12-08","Breakfast","Composted","Customer Waste",11,"Pound",18
+"22344",23655,25087,"Catering","Menu","2017-12-12 19:06:04","2017-12-08","Breakfast","Composted","Trim Waste",10.2,"Pound",18
+"22345",23656,25088,"Salad","Menu","2017-12-12 19:15:15","2017-12-08","Breakfast","Composted","Trim Waste",14,"Pound",18
+"22346",23657,25089,"Salad","Menu","2017-12-12 19:15:17","2017-12-08","Breakfast","Composted","Trim Waste",14,"Pound",18
+"22347",23658,25090,"Salad","Menu","2017-12-12 19:15:24","2017-12-08","Breakfast","Composted","Trim Waste",14,"Pound",18
+"22348",23659,25091,"Hot Line","Menu","2017-12-12 19:17:16","2017-12-12","Dinner","Discarded","Trim Waste",11.5,"Pound",18
+"22364",23675,25107,"Grill","Menu","2017-12-13 19:11:14","2017-12-12","Lunch","Composted","Customer Waste",20.2,"Pound",18
+"22371",23682,25114,"Grill","Menu","2017-12-13 21:54:55","2017-12-12","Lunch","Composted","Trim Waste",10,"Pound",18
+"22391",23702,25134,"Grill","Menu","2017-12-14 15:21:21","2017-12-14","Breakfast","Discarded","Over Production",41,"Pound",18
+"22392",23703,25135,"Grill","Menu","2017-12-14 15:21:23","2017-12-14","Breakfast","Discarded","Over Production",41,"Pound",18
+"22393",23704,25136,"Grill","Menu","2017-12-14 15:21:29","2017-12-14","Breakfast","Composted","Over Production",41,"Pound",18

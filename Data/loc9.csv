@@ -1,0 +1,3183 @@
+"","itemname","mealtype","quantity","quantitytype","datesort"
+"1","Cream of Wheat","",9,"Pound",1
+"2","Scrambled Eggs","",5,"Pound",1
+"3","Scrambled Eggs","",5,"Pound",1
+"5","Home Fries","",3,"Pound",1
+"6","Corned Beef Hash","",5,"Pound",1
+"8","Buttermilk Pancakes","",5,"Pound",1
+"13","Crispy Alaskan Pollock","",3,"Pound",1
+"14","Veggie Muffuletta","",8,"Pound",1
+"15","Macaroni &amp; Cheese","",9,"Pound",1
+"17","Chef's Choice Soup du Jour","",3,"Pound",1
+"18","White Bean Cassoulet","",4,"Pound",1
+"21","Baked Ziti","",13,"Pound",2
+"22","Baked Ziti","",24,"Pound",2
+"23","Grilled Caesar Chicken","",1,"Pound",2
+"24","Beef Tender Picadillo","",5,"Pound",2
+"25","Basmati Rice","",4,"Pound",2
+"26","Steamed Broccoli","",3,"Pound",2
+"27","Linguini w/ Roasted Tomatoes","",2,"Pound",2
+"28","Chef's Choice Soup du Jour","",1,"Pound",2
+"29","Marinara Sauce","",1,"Pound",2
+"30","Meat Sauce","",1,"Pound",2
+"33","Curley Fries","",3,"Pound",2
+"37","North Salad Bar Waste Module","",20,"Pound",2
+"38","North Salad Dressing Waste Module","",13,"Pound",2
+"39","Waffles","",4,"Pound",2
+"40","Country Style Hash Browns","",4,"Pound",2
+"41","Waffles","",2,"Pound",2
+"42","Strawberry Pancakes","",2,"Pound",2
+"43","Cheesy Scrambled Eggs","",2,"Pound",2
+"45","Baked Beans","",8,"Pound",2
+"46","Roasted Summer Vegetables","",8,"Pound",2
+"47","Chicken Noodle Casserole","",9,"Pound",2
+"48","Meat Sauce","",6,"Pound",2
+"49","Marinara Sauce","",9,"Pound",2
+"50","Chef's Choice Pasta du Jour","",9,"Pound",2
+"51","Brown Sauce","",8,"Pound",2
+"52","Mashed Potatoes","",14,"Pound",2
+"53","Sauteed Kale","",3,"Pound",2
+"54","Meat Sauce","",6,"Pound",2
+"55","Ranch Roasted Potatoes","",8,"Pound",2
+"56","Chef's Choice Pasta du Jour","",4,"Pound",2
+"57","Fresh Roasted Carrots","",9,"Pound",2
+"59","Creamy Spinach & Sun Dried Tomato Whole Wheat Penn","",7,"Pound",2
+"60","North Salad Dressing Waste Module","",22,"Pound",2
+"61","North Deli Bar Waste Module","",4,"Pound",2
+"62","Cheese Pizza","",12,"Pound",2
+"65","Hamburger No Bun","",2,"Pound",2
+"70","Cheesy Scrambled Eggs","",12,"Pound",3
+"71","Breakfast Potatoes","",3,"Pound",3
+"73","Fried Tater Tots","",4,"Pound",3
+"74","Black Bean & Salsa Burger with a Bun","",2,"Pound",3
+"82","Meat Sauce","",8,"Pound",3
+"83","Marinara Sauce","",7,"Pound",3
+"86","North Deli Bar Waste Module","",4,"Pound",3
+"87","Scrambled Eggs","",10,"Pound",4
+"88","Turkey Sausage Links","",7,"Pound",4
+"90","Mashed Potatoes","",4,"Pound",4
+"91","Stove Top Stuffing","",4,"Pound",4
+"92","Roast Turkey","",2,"Pound",4
+"93","American Chop Suey","",13,"Pound",4
+"96","BBQ Chicken Drumsticks","",8,"Pound",4
+"97","Sauteed Pork Cutlet","",5,"Pound",4
+"98","Vegan Mongolian Stir Fry","",8,"Pound",4
+"99","Curried Sweet Potato and Apple Pilaf","",19,"Pound",4
+"100","Marinara Sauce","",5,"Pound",4
+"101","Meat Sauce","",4,"Pound",4
+"103","Tokyo Noodles","",6,"Pound",4
+"104","Red Petite Potatoes w/Dill","",16,"Pound",4
+"105","Pepperoni Pizza","",6,"Pound",4
+"106","Cheese Pizza","",16,"Pound",4
+"107","Special Pizza","",11,"Pound",4
+"108","North Deli Bar Waste Module","",10,"Pound",4
+"109","North Salad Bar Waste Module","",21,"Pound",4
+"110","North Salad Dressing Waste Module","",4,"Pound",4
+"111","Grilled Cheese","",6,"Pound",4
+"112","Grilled Chicken Cutlet","",15,"Pound",4
+"113","Straight Cut French Fries","",2,"Pound",4
+"114","Whole Wheat French Toast Stix","",12,"Pound",5
+"115","Oatmeal Hot Cereal","",5,"Pound",5
+"116","Cheesy Scrambled Eggs","",4,"Pound",5
+"117","Scrambled Eggs","",4,"Pound",5
+"118","Blueberry Pancakes","",5,"Pound",5
+"119","Chili con Carne","",10,"Pound",5
+"120","Frijoles Refritos Con Queso","",18,"Pound",5
+"121","White Rice","",6,"Pound",5
+"122","New Orleans Cod","",4,"Pound",5
+"123","O'Brien Potatoes","",3,"Pound",5
+"124","Straight Cut French Fries","",4,"Pound",5
+"125","A-1 Burger w/ Mushroom & Swiss","",5,"Pound",5
+"129","Crispy Dijon Scrod","",3,"Pound",5
+"130","Baked Beans","",10,"Pound",5
+"131","Sundae Bar w/ Toppings","",2,"Pound",5
+"132","Steamed Broccoli","",5,"Pound",5
+"133","Marinara Sauce","",4,"Pound",5
+"134","North Salad Dressing Waste Module","",4,"Pound",5
+"135","North Deli Bar Waste Module","",15,"Pound",5
+"137","North Salad Bar Waste Module","",17,"Pound",5
+"138","Scrambled Eggs","",2,"Pound",6
+"139","North Salad Bar Waste Module","",2,"Pound",6
+"142","Grilled Chicken Cutlet","",4,"Pound",6
+"143","Curley Fries","",5,"Pound",6
+"147","Gingered Green Beans and Carrots","",13,"Pound",6
+"148","Sesame Ginger Salmon w/ Mandarin Orange Relish","",2,"Pound",6
+"149","Gingered Green Beans and Carrots","",5,"Pound",6
+"150","Roasted Garlic Potatoes","",10,"Pound",6
+"151","Marinara Sauce","",2,"Pound",6
+"152","Meat Sauce","",4,"Pound",6
+"153","North Deli Bar Waste Module","",10,"Pound",6
+"154","North Salad Bar Waste Module","",15,"Pound",6
+"156","Breakfast Potatoes","",12,"Pound",7
+"157","Smashed Yukon Gold Potatoes","",42,"Pound",7
+"158","Smashed Yukon Gold Potatoes","",6,"Pound",7
+"159","Fried Tater Tots","",7,"Pound",7
+"163","Southwest Guacamole Burger","",3,"Pound",7
+"164","North Salad Dressing Waste Module","",14,"Pound",8
+"165","North Salad Dressing Waste Module","",19,"Pound",8
+"166","Cheesy Scrambled Eggs","",3,"Pound",8
+"167","Scrambled Egg Whites","",4,"Pound",8
+"168","Scrambled Eggs","",9,"Pound",8
+"171","Oatmeal Hot Cereal","",4,"Pound",8
+"172","Home Fries","",5,"Pound",8
+"173","North Deli Bar Waste Module","",12,"Pound",8
+"177","Vegetarian Fried Rice","",3,"Pound",8
+"178","Green Beans and Tomatoes","",3,"Pound",8
+"180","Chipotle Ranch Grilled Chicken","",3,"Pound",8
+"181","Vegan Pepper Steak Stir Fry","",4,"Pound",8
+"185","Basmati Rice","",14,"Pound",8
+"186","Mashed Potatoes","",14,"Pound",8
+"187","Basmati Rice","",14,"Pound",8
+"188","North Salad Bar Waste Module","",12,"Pound",8
+"189","North Deli Bar Waste Module","",5,"Pound",8
+"190","North Salad Dressing Waste Module","",4,"Pound",8
+"191","Basmati Rice","",7,"Pound",8
+"192","Parslied Carrots","",2,"Pound",8
+"194","Yankee Pot Roast","",3,"Pound",8
+"195","Mashed Potatoes","",1,"Pound",8
+"198","Crinkle Cut Fries","",2,"Pound",8
+"200","Oatmeal Hot Cereal","",3,"Pound",9
+"201","Buttermilk Pancakes","",2,"Pound",9
+"202","Scrambled Eggs","",3,"Pound",9
+"203","Scrambled Egg Whites","",2,"Pound",9
+"204","Whole Wheat French Toast Stix","",2,"Pound",9
+"205","Country Style Hash Browns","",3,"Pound",9
+"206","Spinach Saute","",3,"Pound",9
+"207","Lemon Butter Cod","",3,"Pound",9
+"208","Spinach Saute","",6,"Pound",9
+"209","Lemon Butter Cod","",2,"Pound",9
+"210","Lemon Butter Cod","",2,"Pound",9
+"211","Greek Rice Pilaf","",5,"Pound",9
+"212","Marinara Sauce","",3,"Pound",9
+"213","Meat Sauce","",2,"Pound",9
+"214","Garlic Bread","",1,"Pound",9
+"215","Meat Sauce","",6,"Pound",9
+"219","Roasted Yukon Golds","",7,"Pound",9
+"220","Meat Sauce","",3,"Pound",9
+"221","Sauteed Mushrooms","",2,"Pound",9
+"222","Marinara Sauce","",4,"Pound",9
+"223","White Rice","",4,"Pound",9
+"224","Vegetarian Strudel","",3,"Pound",9
+"225","Roasted Yukon Golds","",3,"Pound",9
+"226","Roasted Butternut Squash","",5,"Pound",9
+"228","North Deli Bar Waste Module","",12,"Pound",9
+"229","North Salad Bar Waste Module","",25,"Pound",9
+"230","North Salad Dressing Waste Module","",10,"Pound",9
+"231","Hamburger No Bun","",12,"Pound",9
+"232","Grilled Cheese","",2,"Pound",9
+"233","Grilled Chicken Cutlet","",9,"Pound",9
+"234","Straight Cut French Fries","",4,"Pound",9
+"235","Special Pizza","",11,"Pound",9
+"236","Pepperoni Pizza","",5,"Pound",9
+"237","Fried Hash Brown Patties","",2,"Pound",10
+"238","French Dipped Waffles","",0,"Pound",10
+"239","Scrambled Egg Whites","",2,"Pound",10
+"240","Scrambled Eggs","",3,"Pound",10
+"241","Apple Pancakes","",1,"Pound",10
+"242","French Dipped Waffles","",1,"Pound",10
+"243","Oatmeal Hot Cereal","",4,"Pound",10
+"244","Fried Chicken Fillet Sandwich","",0,"Pound",10
+"245","Salmon Cake w/Tarragon Sauce","",0,"Pound",10
+"246","Salmon Cake w/Tarragon Sauce","",0,"Pound",10
+"247","Basmati Rice","",0,"Pound",10
+"248","Grilled Cheese","",0,"Pound",10
+"249","Sicilian Broccoli","",0,"Pound",10
+"250","Sicilian Broccoli","",1,"Pound",10
+"251","Meat Sauce","",2,"Pound",10
+"252","Marinara Sauce","",1,"Pound",10
+"254","Vegetable Lo Mein","",4,"Pound",10
+"255","Veggie Medley","",2,"Pound",10
+"256","Grilled Tuna Steak w/ Sriracha Aioli","",1,"Pound",10
+"257","Green Beans","",2,"Pound",10
+"258","BBQ Baked Beans","",6,"Pound",10
+"259","Rice & Orzo Pilaf","",6,"Pound",10
+"260","Scrambled Eggs","",2,"Pound",11
+"261","Scrambled Eggs","",1,"Pound",11
+"262","Mini Potato Pancakes","",1,"Pound",11
+"264","Shrimp Jambalaya","",6,"Pound",11
+"265","Chicken Fricassee w/ Dumplings","",3,"Pound",11
+"266","White Rice","",1,"Pound",11
+"267","Marinara Sauce","",5,"Pound",11
+"268","Meat Sauce","",1,"Pound",11
+"269","Mashed Red Potatoes with Garlic","",3,"Pound",11
+"270","Green Beans","",1,"Pound",11
+"275","Curley Fries","",2,"Pound",11
+"276","North Deli Bar Waste Module","",2,"Pound",11
+"277","North Salad Bar Waste Module","",12,"Pound",11
+"278","North Salad Dressing Waste Module","",5,"Pound",11
+"281","Cheese Pizza","",3,"Pound",11
+"284","Scrambled Egg Whites","",3,"Pound",12
+"286","Breakfast Potatoes","",4,"Pound",12
+"288","Marinara Sauce","",5,"Pound",12
+"289","Meat Sauce","",5,"Pound",12
+"290","Rice Florentine","",6,"Pound",12
+"291","Grilled Chicken Cutlet","",18,"Pound",12
+"292","Grilled Cheese","",11,"Pound",12
+"293","North Deli Bar Waste Module","",4,"Pound",12
+"294","North Salad Dressing Waste Module","",8,"Pound",12
+"295","North Salad Dressing Waste Module","",6,"Pound",12
+"299","Meat Sauce","",4,"Pound",14
+"301","Eggplant Parmesan","",15,"Pound",14
+"302","Gingered Sweet Potatoes","",6,"Pound",14
+"303","Baked Potatoes","",15,"Pound",14
+"304","Corn","",1,"Pound",14
+"305","Garden Blend Rice","",3,"Pound",14
+"306","Grilled Chicken Bella","",8,"Pound",14
+"307","Texas BBQ Beef Tender","",23,"Pound",14
+"308","Grilled Cheese","",2,"Pound",14
+"309","Straight Cut French Fries","",2,"Pound",14
+"310","Grilled Chicken Cutlet","",24,"Pound",14
+"311","Scrambled Egg Whites","",3,"Pound",15
+"312","Scrambled Eggs","",2,"Pound",15
+"313","Cheesy Scrambled Eggs","",1,"Pound",15
+"315","Grilled Andouille & Peppers","",3,"Pound",15
+"317","Marinara Sauce","",1,"Pound",15
+"318","Meat Sauce","",1,"Pound",15
+"320","Basmati Rice","",1,"Pound",15
+"324","Pork Stew with Fennel & Butternut","",7,"Pound",15
+"325","Roasted Yukon Golds","",10,"Pound",15
+"326","Roasted Yukon Golds","",4,"Pound",16
+"327","Roasted Yukon Golds","",4,"Pound",16
+"328","Shrimp Scampi and Pasta","",13,"Pound",16
+"330","Meat Sauce","",3,"Pound",16
+"331","Meat Sauce","",2,"Pound",16
+"332","Marinara Sauce","",3,"Pound",16
+"334","White Rice","",0,"Pound",16
+"335","Salmon with Leeks and Red Pepper","",0,"Pound",16
+"337","Marinara Sauce","",1,"Pound",16
+"338","Meat Sauce","",5,"Pound",16
+"339","White Rice","",2,"Pound",16
+"340","Roast Turkey","",2,"Pound",16
+"341","Stove Top Stuffing","",7,"Pound",16
+"342","North Salad Dressing Waste Module","",6,"Pound",16
+"343","North Salad Bar Waste Module","",17,"Pound",16
+"344","North Salad Dressing Waste Module","",6,"Pound",16
+"346","Cheesy Scrambled Eggs","",2,"Pound",17
+"347","Scrambled Eggs","",2,"Pound",17
+"348","Scrambled Egg Whites","",1,"Pound",17
+"352","Cream of Wheat","",3,"Pound",17
+"353","Beef Tacos with Flour Tortilla","",3,"Pound",17
+"355","Basmati Rice Pilaf","",3,"Pound",17
+"356","BBQ Kansas City Pork Spare Ribs","",2,"Pound",17
+"357","Marinara Sauce","",3,"Pound",17
+"358","Meat Sauce","",3,"Pound",17
+"360","North Salad Bar Waste Module","",21,"Pound",17
+"361","North Deli Bar Waste Module","",17,"Pound",17
+"366","Shoestring Fries","",1,"Pound",17
+"367","Oatmeal Hot Cereal","",3,"Pound",18
+"368","Scrambled Eggs","",1,"Pound",18
+"369","Cheesy Scrambled Eggs","",1,"Pound",18
+"370","Scrambled Eggs","",2,"Pound",18
+"371","Scrambled Egg Whites","",2,"Pound",18
+"372","Fall Wheat Berry Salad","",3,"Pound",18
+"373","Sauteed Onions","",1,"Pound",18
+"374","Sauteed Peppers","",2,"Pound",18
+"375","Chicken & Rice Soup","",7,"Pound",18
+"376","Tempeh Lo Mein","",8,"Pound",18
+"377","Vegetable Fried Rice","",6,"Pound",18
+"380","Marinara Sauce","",4,"Pound",18
+"381","Roasted Red Dill Potatoes","",4,"Pound",18
+"382","Pasta Penne Pjr","",4,"Pound",18
+"383","North Salad Bar Waste Module","",11,"Pound",18
+"384","North Salad Dressing Waste Module","",7,"Pound",18
+"385","North Deli Bar Waste Module","",7,"Pound",18
+"386","Scrambled Egg Whites","",3,"Pound",19
+"387","Scrambled Egg Whites","",1,"Pound",19
+"388","Scrambled Eggs","",1,"Pound",19
+"389","Cheesy Scrambled Eggs","",4,"Pound",19
+"390","Scrambled Eggs","",4,"Pound",19
+"391","Oatmeal Hot Cereal","",4,"Pound",19
+"392","Home Fries","",1,"Pound",19
+"393","Whole Wheat French Toast Stix","",2,"Pound",19
+"395","Turkey Sausage Links","",1,"Pound",19
+"396","Oatmeal Hot Cereal","",1,"Pound",19
+"397","Smoky Dogs","",2,"Pound",19
+"398","Marinara Sauce","",3,"Pound",19
+"399","Meat Sauce","",2,"Pound",19
+"400","White Rice","",3,"Pound",19
+"401","Cheesy Scrambled Eggs","",3,"Pound",20
+"402","American Chop Suey","",1,"Pound",20
+"403","Bacon","",1,"Pound",20
+"404","Oatmeal Hot Cereal","",2,"Pound",20
+"407","Meat Ravioli","",2,"Pound",20
+"408","Green Beans","",2,"Pound",20
+"410","Meat Ravioli","",4,"Pound",20
+"413","Rice Pilaf","",2,"Pound",20
+"414","Mashed Ranch Potatoes","",1,"Pound",20
+"416","North Salad Dressing Waste Module","",7.2,"Pound",20
+"417","Scrambled Eggs","",2.7,"Pound",21
+"418","Cheesy Scrambled Eggs","",3.7,"Pound",21
+"419","Scrambled Egg Whites","",4,"Pound",21
+"420","Corned Beef Hash","",2.4,"Pound",21
+"425","Pork Gravy","",3.4,"Pound",21
+"426","Creole Rice & Beans","",5,"Pound",21
+"427","Meat Sauce","",2.7,"Pound",21
+"428","North Salad Bar Waste Module","",14,"Pound",21
+"429","North Salad Dressing Waste Module","",9,"Pound",21
+"430","North Deli Bar Waste Module","",3,"Pound",21
+"431","Pepperoni Pizza","",5,"Pound",21
+"432","Cheese Pizza","",8,"Pound",21
+"433","Roasted Root Vegetables","",4,"Pound",21
+"434","Mashed Potatoes","",5,"Pound",21
+"435","Peas","",2.8,"Pound",21
+"436","Marinara Sauce","",3,"Pound",21
+"438","Scrambled Eggs","",2.1,"Pound",22
+"439","Scrambled Eggs","",2,"Pound",22
+"440","Scrambled Egg Whites","",3.2,"Pound",22
+"441","Cheesy Scrambled Eggs","",0.6,"Pound",22
+"442","Oatmeal Hot Cereal","",1.9,"Pound",22
+"444","Corn","",2.6,"Pound",22
+"445","Meat Sauce","",2.2,"Pound",22
+"446","Marinara Sauce","",1.5,"Pound",22
+"447","Whole Wheat Vegetable Wrap","",1.9,"Pound",22
+"448","Steamed Broccoli","",4.7,"Pound",22
+"449","Vegan Ravioli Caprese","",4.4,"Pound",22
+"450","Meat Sauce","",3.2,"Pound",22
+"451","White Rice","",2,"Pound",22
+"452","Steamed Broccoli","",1,"Pound",22
+"453","Sugar & Spice Salmon","",0.5,"Pound",22
+"454","North Salad Bar Waste Module","",7.4,"Pound",22
+"455","North Salad Dressing Waste Module","",3,"Pound",22
+"456","North Deli Bar Waste Module","",3.4,"Pound",22
+"463","Breakfast Potatoes","",2,"Pound",23
+"464","Whole Wheat French Toast Stix","",2,"Pound",23
+"465","Scrambled Egg Whites","",1,"Pound",23
+"466","Scrambled Eggs","",2,"Pound",23
+"467","Cheesy Scrambled Eggs","",2.5,"Pound",23
+"469","Scrambled Eggs","",3,"Pound",23
+"470","Cheesy Scrambled Eggs","",3,"Pound",23
+"471","Scrambled Eggs","",3,"Pound",23
+"472","Rice Florentine","",3,"Pound",23
+"473","Marinara Sauce","",4.6,"Pound",23
+"474","Meat Sauce","",5.2,"Pound",23
+"475","Chicken and Sausage Gumbo","",1,"Pound",23
+"476","White Rice","",6.5,"Pound",23
+"477","North Salad Bar Waste Module","",6,"Pound",23
+"479","Scrambled Eggs","",2.7,"Pound",24
+"481","Home Fries","",3,"Pound",24
+"484","Brown Rice","",1.5,"Pound",24
+"485","Tofu Marsala","",3.9,"Pound",24
+"486","Corn","",2.7,"Pound",24
+"487","Cuban Yellow Rice","",5.2,"Pound",24
+"488","Curley Fries","",0.5,"Pound",24
+"491","Cuban Pork Loin","",2.1,"Pound",24
+"493","Tofu Marsala","",2,"Pound",24
+"494","Pasta Saute Bar","",2,"Pound",24
+"497","North Salad Dressing Waste Module","",2,"Pound",24
+"498","North Salad Bar Waste Module","",7,"Pound",24
+"499","North Deli Bar Waste Module","",12,"Pound",24
+"500","Oatmeal Hot Cereal","",5.8,"Pound",25
+"501","Cheesy Scrambled Eggs","",2.5,"Pound",25
+"502","Country Style Hash Browns","",3.6,"Pound",25
+"503","Scrambled Eggs","",4,"Pound",25
+"505","Scrambled Eggs","",3,"Pound",25
+"506","Parslied Carrots","",2.2,"Pound",25
+"508","Marinara Sauce","",3.8,"Pound",25
+"509","Meat Sauce","",2.8,"Pound",25
+"510","Meat Sauce","",6.6,"Pound",25
+"511","Marinara Sauce","",4,"Pound",25
+"512","Chicken Tikka Masala","",7.6,"Pound",25
+"514","North Deli Bar Waste Module","",1.8,"Pound",25
+"518","North Salad Dressing Waste Module","",20.9,"Pound",25
+"519","North Salad Dressing Waste Module","",5.3,"Pound",25
+"520","Scrambled Egg Whites","",2.6,"Pound",26
+"521","Cheesy Scrambled Eggs","",4,"Pound",26
+"522","Tempeh Lo Mein","",2.1,"Pound",26
+"523","Tempeh Lo Mein","",2.1,"Pound",26
+"524","White Rice","",2,"Pound",26
+"530","Honey Roasted Parsnips & Sweet Potatoes","",5,"Pound",26
+"531","North Salad Bar Waste Module","",18,"Pound",26
+"532","North Deli Bar Waste Module","",7,"Pound",26
+"536","Roasted Yukon Golds","",11,"Pound",27
+"537","Creole Cod","",5.6,"Pound",27
+"538","Jalapeno Poppers","",2,"Pound",27
+"539","Cheese Sauce","",1,"Pound",27
+"540","Marinara Sauce","",1,"Pound",27
+"542","Straight Cut French Fries","",3,"Pound",27
+"543","Mexican Corn","",2,"Pound",27
+"545","North Deli Bar Waste Module","",15.5,"Pound",27
+"547","North Salad Dressing Waste Module","",7.6,"Pound",27
+"548","North Salad Bar Waste Module","",19,"Pound",27
+"549","Cheesy Scrambled Eggs","",8.3,"Pound",28
+"550","Breakfast Potatoes","",9.4,"Pound",28
+"554","Meat Sauce","",4.5,"Pound",28
+"555","Parsley Noodles","",3,"Pound",28
+"556","Broccoli Mac","",2.8,"Pound",28
+"557","Swedish Meatballs","",13,"Pound",28
+"563","North Deli Bar Waste Module","",12,"Pound",28
+"564","North Salad Bar Waste Module","",16,"Pound",28
+"565","North Salad Dressing Waste Module","",2.5,"Pound",28
+"566","Whole Wheat French Toast Stix","",6.8,"Pound",29
+"568","Scrambled Eggs","",4.6,"Pound",29
+"570","Beef Tender Picadillo","",2.8,"Pound",29
+"571","Basmati Rice","",9.6,"Pound",29
+"572","Meat Sauce","",5.4,"Pound",29
+"573","North Deli Bar Waste Module","",1.2,"Pound",29
+"574","North Salad Bar Waste Module","",10.6,"Pound",29
+"575","North Salad Dressing Waste Module","",2.8,"Pound",29
+"580","Curley Fries","",2,"Pound",29
+"581","Cheesy Scrambled Eggs","",2.2,"Pound",30
+"582","Scrambled Eggs","",7,"Pound",30
+"583","Scrambled Egg Whites","",7.4,"Pound",30
+"584","Cheesy Scrambled Eggs","",4.6,"Pound",30
+"585","Oatmeal Hot Cereal","",4,"Pound",30
+"586","Waffles","",3.8,"Pound",30
+"587","Buttermilk Pancakes","",3.4,"Pound",30
+"588","Country Style Hash Browns","",8.4,"Pound",30
+"589","Strawberry Pancakes","",3.6,"Pound",30
+"590","Strawberry Pancakes","",4,"Pound",30
+"591","Beef For French Dip Sandwich","",4,"Pound",30
+"592","Meat Sauce","",8.2,"Pound",30
+"593","Mashed Potatoes","",9.4,"Pound",30
+"594","Meat Sauce","",4.5,"Pound",30
+"595","Creamy Spinach & Sun Dried Tomato Whole Wheat Penn","",3.6,"Pound",30
+"596","Ranch Roasted Potatoes","",5.1,"Pound",30
+"597","Pernil","",4.3,"Pound",30
+"600","Fried Tater Tots","",5,"Pound",30
+"602","North Deli Bar Waste Module","",4.5,"Pound",30
+"603","North Salad Bar Waste Module","",3.8,"Pound",30
+"604","North Salad Dressing Waste Module","",10.7,"Pound",30
+"605","North Salad Dressing Waste Module","",3.5,"Pound",30
+"606","Breakfast Potatoes","",5.6,"Pound",31
+"607","Oatmeal Hot Cereal","",4.6,"Pound",31
+"608","Scrambled Egg Whites","",3.2,"Pound",31
+"609","Cheesy Scrambled Eggs","",2,"Pound",31
+"610","Scrambled Egg Whites","",2.2,"Pound",31
+"611","Scrambled Eggs","",3.8,"Pound",31
+"612","Scrambled Eggs","",4.4,"Pound",31
+"615","Breakfast Potatoes","",5.8,"Pound",31
+"616","Sesame Nuggets","",0.4,"Pound",31
+"617","Marinara Sauce","",2.2,"Pound",31
+"618","Meat Sauce","",4,"Pound",31
+"619","Pasta Saute Bar","",1.8,"Pound",31
+"621","Fried Chicken Nuggets","",5.5,"Pound",31
+"622","Chicken Quesadillas","",11.2,"Pound",31
+"623","Vegan Steak Tacos","",5.6,"Pound",31
+"624","Fish Taco with Chipotle Cream and Salsa Fresca","",5.8,"Pound",31
+"625","Spanish Rice","",5,"Pound",31
+"626","Marinara Sauce","",7,"Pound",31
+"627","Meat Sauce","",6,"Pound",31
+"628","North Deli Bar Waste Module","",7.7,"Pound",31
+"629","North Salad Dressing Waste Module","",5.3,"Pound",31
+"630","North Salad Bar Waste Module","",9.2,"Pound",31
+"631","Scrambled Egg Whites","",1,"Pound",32
+"632","Scrambled Egg Whites","",1,"Pound",32
+"633","Cheesy Scrambled Eggs","",2.5,"Pound",32
+"634","Cream of Wheat","",6,"Pound",32
+"636","French Dipped Waffles","",4,"Pound",32
+"637","Mashed Potatoes","",20,"Pound",32
+"638","Peas","",6,"Pound",32
+"639","American Chop Suey","",15,"Pound",32
+"641","Straight Cut French Fries","",3,"Pound",32
+"645","Vegan Mongolian Stir Fry","",10.6,"Pound",32
+"646","Meat Sauce","",9.6,"Pound",32
+"647","Roasted Root Vegetables","",11.2,"Pound",32
+"648","BBQ Chicken Drumsticks","",19.8,"Pound",32
+"649","North Salad Bar Waste Module","",15,"Pound",32
+"650","North Salad Dressing Waste Module","",7,"Pound",32
+"651","North Deli Bar Waste Module","",2.4,"Pound",32
+"653","Scrambled Egg Whites","",4.4,"Pound",33
+"654","Cheesy Scrambled Eggs","",5.6,"Pound",33
+"655","Cheesy Scrambled Eggs","",4,"Pound",33
+"656","Oatmeal Hot Cereal","",5.4,"Pound",33
+"657","Cheesy Scrambled Eggs","",3.2,"Pound",33
+"658","Scrambled Eggs","",5.4,"Pound",33
+"660","Oatmeal Hot Cereal","",5,"Pound",33
+"662","Mexican Corn","",7,"Pound",33
+"663","Meat Sauce","",4,"Pound",33
+"668","White Rice","",7,"Pound",33
+"670","Straight Cut French Fries","",4,"Pound",33
+"673","Buffalo Strips","",3.2,"Pound",33
+"674","Zesty Fried Chicken Tenders","",4.4,"Pound",33
+"675","Steamed Broccoli","",5.2,"Pound",33
+"676","North Salad Bar Waste Module","",23,"Pound",33
+"677","North Salad Dressing Waste Module","",3.8,"Pound",33
+"681","Marinara Sauce","",6,"Pound",33
+"682","Scrambled Eggs","",3,"Pound",34
+"683","Cheesy Scrambled Eggs","",2.4,"Pound",34
+"684","Scrambled Egg Whites","",3,"Pound",34
+"686","Bacon","",2,"Pound",34
+"692","Curley Fries","",0.5,"Pound",34
+"693","Broccoli Stromboli","",8,"Pound",34
+"694","Gingered Green Beans and Carrots","",4,"Pound",34
+"695","Sesame Ginger Salmon w/ Mandarin Orange Relish","",3,"Pound",34
+"696","Roasted Garlic Potatoes","",4,"Pound",34
+"697","Stuffed Mushrooms","",2,"Pound",34
+"699","Roasted Garlic Potatoes","",1,"Pound",34
+"702","North Salad Bar Waste Module","",15,"Pound",34
+"703","North Deli Bar Waste Module","",14,"Pound",34
+"705","Breakfast Potatoes","",18.4,"Pound",35
+"707","Scrambled Eggs","",6.4,"Pound",35
+"708","Omelet Bar","",8.6,"Pound",35
+"709","Breakfast Potatoes","",17.2,"Pound",35
+"712","Scrambled Egg Whites","",7.2,"Pound",35
+"716","Fried Tater Tots","",5,"Pound",35
+"718","Baked Ziti","",2.2,"Pound",35
+"719","Chicken Rustica","",6.8,"Pound",35
+"720","North Salad Bar Waste Module","",16.2,"Pound",35
+"721","North Salad Dressing Waste Module","",3.9,"Pound",35
+"722","North Deli Bar Waste Module","",5.6,"Pound",35
+"723","White Rice","",11.6,"Pound",35
+"724","Smashed Yukon Gold Potatoes","",12.6,"Pound",35
+"725","Meat Sauce","",4.6,"Pound",35
+"726","Marinara Sauce","",6,"Pound",35
+"727","Sauteed Vegetable Medley","",4.6,"Pound",35
+"728","Brown Gravy","",1.6,"Pound",35
+"729","Cheesy Scrambled Eggs","",1.6,"Pound",36
+"730","Scrambled Eggs","",2.8,"Pound",36
+"731","Scrambled Eggs","",6.4,"Pound",36
+"732","Oatmeal Hot Cereal","",6.8,"Pound",36
+"733","Scrambled Eggs","",5.2,"Pound",36
+"734","Cheesy Scrambled Eggs","",4.8,"Pound",36
+"735","Scrambled Egg Whites","",3.6,"Pound",36
+"737","Marinara Sauce","",2.2,"Pound",36
+"739","Basmati Rice","",6.6,"Pound",36
+"740","Sole w/ Roasted Tomato & Fennel","",4,"Pound",36
+"741","Crinkle Cut Fries","",5,"Pound",36
+"745","North Deli Bar Waste Module","",5.2,"Pound",36
+"750","Cheesy Scrambled Eggs","",4,"Pound",37
+"751","Scrambled Egg Whites","",2,"Pound",37
+"752","Scrambled Eggs","",1.5,"Pound",37
+"753","Greek Rice Pilaf","",21.3,"Pound",37
+"754","Marinara Sauce","",2.2,"Pound",37
+"755","White Rice","",11.1,"Pound",37
+"757","Roasted Butternut Squash","",4,"Pound",37
+"759","Roasted Yukon Golds","",4,"Pound",37
+"760","North Deli Bar Waste Module","",7,"Pound",37
+"761","North Salad Bar Waste Module","",20,"Pound",37
+"762","North Salad Dressing Waste Module","",14,"Pound",37
+"763","Scrambled Eggs","",3.4,"Pound",38
+"764","Scrambled Eggs","",6,"Pound",38
+"765","Scrambled Egg Whites","",3.2,"Pound",38
+"771","Basmati Rice","",15,"Pound",38
+"772","Rice & Orzo Pilaf","",5,"Pound",38
+"773","BBQ Baked Beans","",7.8,"Pound",38
+"774","Vegetable Lo Mein","",3,"Pound",38
+"775","Pulled Pork Sandwich","",9.2,"Pound",38
+"776","Pulled Pork Sandwich","",11.4,"Pound",38
+"778","Veggie Medley","",5.6,"Pound",38
+"779","Corn","",6.8,"Pound",38
+"780","Vegetable Lo Mein","",10.6,"Pound",38
+"781","Rice & Orzo Pilaf","",14.4,"Pound",38
+"782","BBQ Baked Beans","",16,"Pound",38
+"785","Beer Battered Onion Rings","",2,"Pound",38
+"786","North Salad Bar Waste Module","",19.2,"Pound",38
+"787","North Deli Bar Waste Module","",2.5,"Pound",38
+"788","North Salad Dressing Waste Module","",7,"Pound",38
+"791","Cheesy Scrambled Eggs","",5.4,"Pound",39
+"792","Omelet Bar","",3.6,"Pound",39
+"793","Pork Sausage Links","",8.2,"Pound",39
+"794","Sauteed Onions","",0.2,"Pound",39
+"799","Mashed Red Potatoes with Garlic","",21.8,"Pound",39
+"800","Shrimp Jambalaya","",8.2,"Pound",39
+"801","Roasted Vegetable Pasta","",10.1,"Pound",39
+"802","Meat Sauce","",8.1,"Pound",39
+"803","North Salad Bar Waste Module","",22,"Pound",39
+"804","North Salad Dressing Waste Module","",5,"Pound",39
+"805","North Deli Bar Waste Module","",3.8,"Pound",39
+"810","Scrambled Eggs","",4.8,"Pound",40
+"811","Scrambled Egg Whites","",2.4,"Pound",40
+"812","Scrambled Eggs","",5,"Pound",40
+"813","Scrambled Egg Whites","",6.6,"Pound",40
+"814","Scrambled Eggs","",4,"Pound",40
+"815","Breakfast Potatoes","",7,"Pound",40
+"816","Omelet Bar","",11.6,"Pound",40
+"817","Rice Florentine","",12.2,"Pound",40
+"818","Penne & Sausage Abruzzi","",6,"Pound",40
+"819","Eggplant Caponata","",4.2,"Pound",40
+"821","Ranch Chicken Wings","",5,"Pound",40
+"823","Black Beans & Rice","",11.2,"Pound",40
+"826","Roasted Garlic Potatoes","",6,"Pound",40
+"827","North Deli Bar Waste Module","",2.5,"Pound",40
+"828","North Salad Bar Waste Module","",31,"Pound",40
+"829","North Salad Dressing Waste Module","",7,"Pound",40
+"830","North Deli Bar Waste Module","",4,"Pound",42
+"832","Oatmeal Hot Cereal","",15,"Pound",42
+"833","North Salad Bar Waste Module","",12,"Pound",42
+"834","Marinara Sauce","",8,"Pound",42
+"835","Home Fries","",4,"Pound",42
+"837","North Salad Bar Waste Module","",6,"Pound",42
+"838","North Deli Bar Waste Module","",3.6,"Pound",42
+"839","Basmati Rice","",2,"Pound",42
+"840","Cheesy Scrambled Eggs","",1,"Pound",43
+"841","Buttermilk Pancakes","",15.4,"Pound",43
+"842","Gingered Sweet Potatoes","",8.2,"Pound",43
+"844","Scrambled Eggs","",5.4,"Pound",44
+"845","Cheesy Scrambled Eggs","",6,"Pound",44
+"846","Scrambled Eggs","",4.2,"Pound",44
+"847","Cheesy Scrambled Eggs","",2.6,"Pound",44
+"848","Scrambled Egg Whites","",8.6,"Pound",44
+"849","Oatmeal Hot Cereal","",10.2,"Pound",44
+"852","Roasted Yukon Golds","",9.2,"Pound",44
+"854","Marinara Sauce","",9,"Pound",44
+"855","Meat Sauce","",5.6,"Pound",44
+"856","White Rice","",11.4,"Pound",44
+"857","White Rice","",4.2,"Pound",44
+"858","Roast Turkey","",9,"Pound",44
+"859","Salmon with Leeks and Red Pepper","",2.4,"Pound",44
+"860","Mashed Potatoes","",11,"Pound",44
+"861","Stove Top Stuffing","",10.8,"Pound",44
+"862","White Rice","",10.8,"Pound",44
+"863","Marinara Sauce","",9.8,"Pound",44
+"864","Meat Sauce","",7.6,"Pound",44
+"865","North Salad Bar Waste Module","",4,"Pound",44
+"866","North Deli Bar Waste Module","",1.2,"Pound",44
+"867","North Salad Dressing Waste Module","",2,"Pound",44
+"869","Sausage Patties","",3.5,"Pound",45
+"870","Scrambled Eggs","",5,"Pound",45
+"871","Scrambled Egg Whites","",4,"Pound",45
+"872","Breakfast Potatoes","",4.5,"Pound",45
+"874","Spanish Rice","",16.4,"Pound",45
+"875","Frijoles Refritos Con Queso","",8.4,"Pound",45
+"877","Beef Tacos with Flour Tortilla","",0,"Pound",45
+"880","BBQ Kansas City Pork Spare Ribs","",3,"Pound",45
+"881","Meat Sauce","",4,"Pound",45
+"882","North Salad Dressing Waste Module","",11,"Pound",45
+"883","North Deli Bar Waste Module","",29,"Pound",45
+"884","North Deli Bar Waste Module","",3.6,"Pound",45
+"887","Curley Fries","",1,"Pound",169
+"891","Oatmeal Hot Cereal","",3.4,"Pound",170
+"893","Chef's Choice Pasta du Jour","",1.5,"Pound",170
+"894","Marinara Sauce","",2,"Pound",170
+"898","Oatmeal Hot Cereal","",6,"Pound",172
+"899","Turkey Sausage Links","",2,"Pound",172
+"905","North Salad Dressing Waste Module","",2.5,"Pound",172
+"906","Straight Cut French Fries","",2,"Pound",172
+"907","Vegan Mongolian Stir Fry","",2.8,"Pound",172
+"908","Tokyo Noodles","",8.4,"Pound",172
+"911","Red Petite Potatoes w/Dill","",8.8,"Pound",172
+"912","Meat Sauce","",8.6,"Pound",172
+"913","Marinara Sauce","",2.8,"Pound",172
+"914","Roasted Root Vegetables","",5.2,"Pound",172
+"916","Oatmeal Hot Cereal","",7.2,"Pound",173
+"922","Sauteed Beef Tips","",11.2,"Pound",177
+"923","Roasted Butternut Squash","",7.2,"Pound",177
+"924","Vegetarian Strudel","",5,"Pound",177
+"925","Roasted Yukon Golds","",8.1,"Pound",177
+"926","Chef's Choice Pasta du Jour","",4.6,"Pound",177
+"927","North Deli Bar Waste Module","",10,"Pound",177
+"928","North Salad Dressing Waste Module","",9,"Pound",177
+"929","North Salad Bar Waste Module","",18,"Pound",177
+"932","Corned Beef Hash","",3,"Pound",178
+"933","Corn","",4,"Pound",178
+"934","Rice & Orzo Pilaf","",10,"Pound",178
+"936","Pasta Saute Bar","",3.8,"Pound",178
+"937","Meat Sauce","",0.4,"Pound",178
+"938","Marinara Sauce","",0.5,"Pound",178
+"939","Vegetable Lo Mein","",3.8,"Pound",178
+"940","Pulled Pork for Sandwich","",6.8,"Pound",178
+"941","North Salad Bar Waste Module","",4.5,"Pound",178
+"942","North Salad Dressing Waste Module","",4.4,"Pound",178
+"943","North Deli Bar Waste Module","",7.2,"Pound",178
+"949","Shrimp Jambalaya","",6.6,"Pound",179
+"950","Green Beans","",12.8,"Pound",179
+"951","Mashed Red Potatoes with Garlic","",12,"Pound",179
+"952","Chicken Fricassee w/ Dumplings","",9.6,"Pound",179
+"953","Roasted Vegetable Pasta","",4.8,"Pound",179
+"954","Chef's Choice Pasta du Jour","",13.6,"Pound",179
+"955","Bavarian Pretzel Rolls","",15.6,"Pound",179
+"956","North Salad Bar Waste Module","",7,"Pound",179
+"957","North Salad Dressing Waste Module","",8.6,"Pound",179
+"958","North Deli Bar Waste Module","",6,"Pound",179
+"966","Penne & Sausage Abruzzi","",5,"Pound",180
+"967","Chef's Choice Pasta du Jour","",11,"Pound",180
+"968","Meat Sauce","",10.6,"Pound",180
+"969","Marinara Sauce","",7.2,"Pound",180
+"970","Steamed Broccoli","",4,"Pound",180
+"971","Seasoned Scrod","",0.4,"Pound",180
+"972","Chef's Choice Pasta du Jour","",3.2,"Pound",180
+"973","Vegan Dragon Rice","",7.2,"Pound",180
+"976","North Salad Dressing Waste Module","",4.8,"Pound",180
+"977","North Salad Bar Waste Module","",45,"Pound",180
+"979","North Salad Bar Waste Module","",16,"Pound",181
+"980","North Deli Bar Waste Module","",11,"Pound",181
+"981","North Deli Bar Waste Module","",10,"Pound",181
+"982","Meat Sauce","",1,"Pound",181
+"983","Basmati Rice","",2.6,"Pound",181
+"984","Chef's Choice Pasta du Jour","",1.7,"Pound",181
+"986","North Salad Bar Waste Module","",3.4,"Pound",181
+"987","North Salad Dressing Waste Module","",4.8,"Pound",182
+"990","Oatmeal Hot Cereal","",3.6,"Pound",183
+"991","Cavatappi with Vegetables","",13.4,"Pound",183
+"992","Aztec Vegetables","",10.4,"Pound",183
+"993","Green Fiesta Rice","",9,"Pound",183
+"994","Meat Sauce","",6.8,"Pound",183
+"995","Marinara Sauce","",9.4,"Pound",183
+"996","White Rice","",7,"Pound",183
+"998","Pork Stew with Fennel & Butternut","",13.4,"Pound",183
+"1000","Straight Cut French Fries","",0.5,"Pound",183
+"1004","Meat Sauce","",9,"Pound",183
+"1005","Chef's Choice Pasta du Jour","",10.4,"Pound",183
+"1006","Basmati Rice","",15.4,"Pound",183
+"1008","Roasted Yukon Golds","",16.6,"Pound",183
+"1009","Green Beans w/ Garlic","",15.4,"Pound",183
+"1010","North Salad Bar Waste Module","",6,"Pound",183
+"1011","North Salad Bar Waste Module","",6,"Pound",183
+"1012","North Salad Dressing Waste Module","",6.4,"Pound",183
+"1013","Breakfast Potatoes","",1.8,"Pound",184
+"1014","Oatmeal Hot Cereal","",9.2,"Pound",184
+"1015","Oatmeal Hot Cereal","",11.4,"Pound",184
+"1016","North Deli Bar Waste Module","",4.5,"Pound",183
+"1017","White Rice","",13.6,"Pound",184
+"1018","Roasted Yukon Golds","",9.2,"Pound",184
+"1019","White Rice","",76,"Pound",184
+"1020","White Rice","",7.6,"Pound",184
+"1021","Stove Top Stuffing","",2.8,"Pound",184
+"1022","Mashed Potatoes","",16.6,"Pound",184
+"1023","Salmon with Leeks and Red Pepper","",16,"Pound",184
+"1024","Salmon with Leeks and Red Pepper","",6,"Pound",184
+"1025","Marinara Sauce","",6.6,"Pound",184
+"1026","North Deli Bar Waste Module","",4,"Pound",184
+"1027","North Salad Dressing Waste Module","",3.7,"Pound",184
+"1028","North Salad Bar Waste Module","",3.3,"Pound",184
+"1033","Cream of Wheat","",6.2,"Pound",185
+"1034","BBQ Kansas City Pork Spare Ribs","",4.5,"Pound",185
+"1035","Basmati Rice Pilaf","",0.5,"Pound",185
+"1036","Chef's Choice Pasta du Jour","",0.5,"Pound",185
+"1038","Marinara Sauce","",0.2,"Pound",185
+"1040","Meat Sauce","",0.2,"Pound",185
+"1041","North Salad Bar Waste Module","",1.5,"Pound",185
+"1042","North Salad Dressing Waste Module","",1.3,"Pound",185
+"1045","O'Brien Potatoes","",5,"Pound",186
+"1046","North Deli Bar Waste Module","",5.2,"Pound",186
+"1047","North Salad Bar Waste Module","",9.2,"Pound",186
+"1048","North Salad Dressing Waste Module","",1.6,"Pound",186
+"1053","Straight Cut French Fries","",2,"Pound",186
+"1054","Vegetable Fried Rice","",2,"Pound",186
+"1055","Banana Pancakes","",3.1,"Pound",187
+"1056","Banana Pancakes","",3.1,"Pound",187
+"1057","Oatmeal Hot Cereal","",1.1,"Pound",187
+"1058","Home Fries","",5,"Pound",187
+"1059","White Rice","",18.2,"Pound",187
+"1064","Buttered Noodles","",10,"Pound",187
+"1065","Basmati Rice","",7.6,"Pound",187
+"1066","Chef's Choice Pasta du Jour","",2,"Pound",187
+"1070","Tuscan White Beans","",13.8,"Pound",187
+"1071","Meat Sauce","",1.8,"Pound",187
+"1072","Marinara Sauce","",3,"Pound",187
+"1073","North Deli Bar Waste Module","",9,"Pound",187
+"1074","North Salad Bar Waste Module","",12,"Pound",187
+"1075","American Chop Suey","",6,"Pound",188
+"1077","Roasted Chicken Thigh","",8,"Pound",188
+"1079","Marinara Sauce","",5,"Pound",188
+"1080","Rice Pilaf","",5,"Pound",188
+"1081","Meat Sauce","",5,"Pound",188
+"1082","Tofu Parmesan","",4,"Pound",188
+"1083","Mashed Ranch Potatoes","",11,"Pound",188
+"1084","North Deli Bar Waste Module","",12,"Pound",188
+"1085","North Salad Dressing Waste Module","",4,"Pound",188
+"1086","North Salad Bar Waste Module","",13,"Pound",188
+"1087","French Toast Stix","",4.4,"Pound",189
+"1088","Buttermilk Pancakes","",4.7,"Pound",189
+"1089","French Toast Stix","",2.8,"Pound",189
+"1090","Buttermilk Pancakes","",3.8,"Pound",189
+"1091","Sausage Patties","",5,"Pound",189
+"1092","Corned Beef Hash","",6.2,"Pound",189
+"1093","Cream of Wheat","",7.2,"Pound",189
+"1094","Chef's Choice Pasta du Jour","",0.5,"Pound",189
+"1095","Pork Gravy","",7,"Pound",189
+"1097","Turkey & Swiss Focaccia","",2,"Pound",189
+"1103","North Salad Bar Waste Module","",11.8,"Pound",189
+"1104","North Salad Dressing Waste Module","",3.3,"Pound",189
+"1105","North Deli Bar Waste Module","",4.2,"Pound",189
+"1112","Buttermilk Pancakes","",4.7,"Pound",189
+"1113","French Toast Stix","",4.3,"Pound",189
+"1114","Oatmeal Hot Cereal","",10.4,"Pound",190
+"1115","Oatmeal Hot Cereal","",11,"Pound",190
+"1118","White Rice","",15,"Pound",190
+"1119","North Deli Bar Waste Module","",2,"Pound",190
+"1133","Breakfast Potatoes","",4,"Pound",191
+"1134","Chef's Choice Pasta du Jour","",2,"Pound",191
+"1135","Italian Grilled Vegetables","",1.5,"Pound",191
+"1140","North Salad Bar Waste Module","",21,"Pound",191
+"1141","North Deli Bar Waste Module","",6,"Pound",191
+"1145","Home Fries","",4,"Pound",192
+"1147","Fried Plantains","",1.6,"Pound",192
+"1148","Cuban Yellow Rice","",2,"Pound",192
+"1149","Tofu Marsala","",9.2,"Pound",192
+"1150","Chef's Choice Pasta du Jour","",8.8,"Pound",192
+"1151","Marinara Sauce","",8.2,"Pound",192
+"1152","Meat Sauce","",2,"Pound",192
+"1153","Corn","",1.4,"Pound",192
+"1154","North Salad Bar Waste Module","",12.3,"Pound",192
+"1155","North Deli Bar Waste Module","",4.3,"Pound",192
+"1156","North Salad Dressing Waste Module","",4,"Pound",192
+"1157","Oatmeal Hot Cereal","",6,"Pound",193
+"1158","Meat Sauce","",1.5,"Pound",193
+"1162","Vegetable Korma","",3,"Pound",193
+"1163","Basmati Rice","",0.5,"Pound",193
+"1164","Chef's Choice Pasta du Jour","",0.5,"Pound",193
+"1170","North Deli Bar Waste Module","",4.3,"Pound",193
+"1171","North Salad Bar Waste Module","",3,"Pound",193
+"1172","North Salad Dressing Waste Module","",1.8,"Pound",193
+"1175","Chef's Choice Pasta du Jour","",2,"Pound",194
+"1176","Chef's Choice Pasta du Jour","",2,"Pound",194
+"1178","Meat Sauce","",5,"Pound",194
+"1180","Honey Roasted Parsnips & Sweet Potatoes","",2,"Pound",194
+"1182","Spanish Arroz Amarillo","",9,"Pound",194
+"1183","North Salad Bar Waste Module","",2,"Pound",194
+"1184","North Salad Dressing Waste Module","",6,"Pound",194
+"1185","North Deli Bar Waste Module","",6,"Pound",194
+"1186","North Salad Bar Waste Module","",12,"Pound",194
+"1187","Bacon","",1,"Pound",195
+"1188","Bacon","",4,"Pound",195
+"1189","Pulled Pork for Sandwich","",1,"Pound",195
+"1201","Country Style Hash Browns","",5,"Pound",198
+"1202","Country Style Hash Browns","",5,"Pound",198
+"1204","Chicken Noodle Casserole","",3.6,"Pound",198
+"1205","Chicken Noodle Casserole","",3.6,"Pound",198
+"1206","The Three Sisters Stew","",7.6,"Pound",198
+"1207","Roasted Summer Vegetables","",2.2,"Pound",198
+"1208","Mashed Potatoes","",10.4,"Pound",198
+"1209","Beef Tender Picadillo","",5,"Pound",197
+"1210","Roasted Yukon Golds","",0.4,"Pound",197
+"1211","Roasted Yukon Golds","",0.4,"Pound",197
+"1212","Roasted Yukon Golds","",0.4,"Pound",197
+"1213","The Three Sisters Stew","",7.2,"Pound",198
+"1214","Baked Beans","",5.2,"Pound",198
+"1215","Brown Sauce","",6.4,"Pound",198
+"1216","Cheese Ravioli","",7,"Pound",196
+"1217","Beef For French Dip Sandwich","",4,"Pound",198
+"1221","Pernil","",5.2,"Pound",198
+"1222","Fresh Roasted Carrots","",7.2,"Pound",198
+"1223","Beef Tender Picadillo","",7,"Pound",197
+"1224","Santa Fe Chicken with Corn Salsa","",6.8,"Pound",198
+"1225","Creamy Spinach & Sun Dried Tomato Whole Wheat Penne","",4.4,"Pound",198
+"1226","Meat Sauce","",3.2,"Pound",198
+"1227","Marinara Sauce","",4.8,"Pound",198
+"1228","Marinara Sauce","",4.8,"Pound",198
+"1229","North Deli Bar Waste Module","",3.8,"Pound",198
+"1230","North Salad Bar Waste Module","",13,"Pound",198
+"1231","North Salad Dressing Waste Module","",3,"Pound",198
+"1232","Breakfast Potatoes","",6.6,"Pound",199
+"1233","Chef's Choice Pasta du Jour","",2.2,"Pound",199
+"1234","Marinara Sauce","",4.2,"Pound",199
+"1235","Meat Sauce","",6.2,"Pound",199
+"1237","Beef Steak Tacos","",6.6,"Pound",199
+"1238","North Salad Bar Waste Module","",6.7,"Pound",199
+"1239","North Salad Dressing Waste Module","",1.5,"Pound",199
+"1240","North Deli Bar Waste Module","",12.2,"Pound",199
+"1241","Turkey Sausage Links","",3,"Pound",200
+"1242","Fried Hash Brown Patties","",2,"Pound",200
+"1243","Vegan Mongolian Stir Fry","",12,"Pound",200
+"1244","Chef's Choice Pasta du Jour","",5.5,"Pound",200
+"1245","Tokyo Noodles","",6,"Pound",200
+"1246","Marinara Sauce","",7.4,"Pound",200
+"1247","Meat Sauce","",7.4,"Pound",200
+"1248","Curried Sweet Potato and Apple Pilaf","",9.4,"Pound",200
+"1250","Roasted Root Vegetables","",4.6,"Pound",200
+"1251","BBQ Chicken Drumsticks","",5,"Pound",200
+"1252","North Deli Bar Waste Module","",11,"Pound",200
+"1253","North Salad Bar Waste Module","",21,"Pound",200
+"1254","North Salad Dressing Waste Module","",4,"Pound",200
+"1259","Mexican Corn","",12.6,"Pound",201
+"1260","Mexican Corn","",12.6,"Pound",201
+"1261","El Nacho Grande","",5,"Pound",201
+"1262","Chili con Carne","",4.3,"Pound",201
+"1263","Chili con Carne","",4.3,"Pound",201
+"1264","White Rice","",10.2,"Pound",201
+"1265","Baked Beans","",8.2,"Pound",201
+"1267","North Salad Bar Waste Module","",9,"Pound",201
+"1268","North Deli Bar Waste Module","",4,"Pound",201
+"1269","North Salad Dressing Waste Module","",4,"Pound",201
+"1274","White Rice","",10.1,"Pound",202
+"1275","North Deli Bar Waste Module","",12,"Pound",202
+"1278","North Salad Dressing Waste Module","",2,"Pound",202
+"1279","North Salad Dressing Waste Module","",2,"Pound",202
+"1280","North Salad Bar Waste Module","",32.6,"Pound",202
+"1283","Baked Ziti","",6.4,"Pound",203
+"1285","Mashed Potatoes","",8,"Pound",204
+"1286","Chef's Choice Pasta du Jour","",0.7,"Pound",203
+"1287","Marinara Sauce","",0.2,"Pound",203
+"1288","Sauteed Vegetable Medley","",0.3,"Pound",203
+"1289","Brown Gravy","",0.2,"Pound",203
+"1290","North Salad Bar Waste Module","",10.7,"Pound",203
+"1291","North Salad Dressing Waste Module","",4,"Pound",203
+"1292","North Deli Bar Waste Module","",3.8,"Pound",203
+"1300","Sweet Potato Fries","",1,"Pound",203
+"1305","Corn","",12,"Pound",204
+"1306","Yankee Pot Roast","",6,"Pound",204
+"1307","Basmati Rice","",2,"Pound",204
+"1312","Crinkle Cut Fries","",2,"Pound",204
+"1314","North Deli Bar Waste Module","",2.6,"Pound",204
+"1315","North Salad Bar Waste Module","",10.8,"Pound",204
+"1316","North Salad Dressing Waste Module","",4.3,"Pound",204
+"1317","Country Style Hash Browns","",4,"Pound",205
+"1319","Greek Rice Pilaf","",24,"Pound",205
+"1320","Chef's Choice Pasta du Jour","",5,"Pound",205
+"1321","Marinara Sauce","",0.2,"Pound",205
+"1322","Meat Sauce","",0.2,"Pound",205
+"1324","Roasted Yukon Golds","",6.5,"Pound",205
+"1325","Sauteed Beef Tips","",2,"Pound",205
+"1326","Roasted Butternut Squash","",4,"Pound",205
+"1327","White Rice","",4.2,"Pound",205
+"1332","Straight Cut French Fries","",2,"Pound",205
+"1333","North Salad Bar Waste Module","",20.2,"Pound",205
+"1334","North Salad Dressing Waste Module","",3.6,"Pound",205
+"1335","Tortellini with Roasted Pepper Tomato Sauce","",4.5,"Pound",206
+"1337","Basmati Rice","",2,"Pound",206
+"1339","Pulled Pork for Sandwich","",13.8,"Pound",206
+"1340","Vegetable Lo Mein","",10.4,"Pound",206
+"1341","Corn","",5.8,"Pound",206
+"1351","North Deli Bar Waste Module","",6,"Pound",207
+"1352","North Salad Dressing Waste Module","",3,"Pound",207
+"1353","North Salad Bar Waste Module","",2.5,"Pound",207
+"1372","Rice Florentine","",13,"Pound",208
+"1373","Meat Sauce","",3,"Pound",208
+"1376","Chef's Choice Pasta du Jour","",4.1,"Pound",208
+"1377","Marinara Sauce","",8.2,"Pound",208
+"1378","Vegan Dragon Rice","",14,"Pound",208
+"1380","Baked Chinese Chicken Wings","",5,"Pound",208
+"1381","Steamed Broccoli","",4,"Pound",208
+"1382","North Deli Bar Waste Module","",9.4,"Pound",208
+"1383","North Salad Bar Waste Module","",22,"Pound",208
+"1384","North Salad Dressing Waste Module","",3,"Pound",208
+"1385","Sausage Patties","",6,"Pound",209
+"1386","Corned Beef Hash","",6,"Pound",209
+"1387","Oatmeal Hot Cereal","",3,"Pound",209
+"1388","Oatmeal Hot Cereal","",3,"Pound",209
+"1391","North Salad Bar Waste Module","",7.5,"Pound",209
+"1392","Basmati Rice","",2,"Pound",209
+"1393","North Deli Bar Waste Module","",10,"Pound",209
+"1394","Marinara Sauce","",12,"Pound",209
+"1395","North Salad Dressing Waste Module","",3,"Pound",209
+"1396","Vegan Chicken Diced","",6,"Pound",209
+"1402","Garden Blend Rice","",0.5,"Pound",210
+"1403","Corn","",1.4,"Pound",210
+"1408","Chef's Choice Pasta du Jour","",3,"Pound",210
+"1409","North Salad Bar Waste Module","",3.8,"Pound",210
+"1410","North Salad Dressing Waste Module","",2.4,"Pound",210
+"1411","Buttermilk Pancakes","",9.2,"Pound",211
+"1412","Buttermilk Pancakes","",9.2,"Pound",211
+"1413","Buttermilk Pancakes","",9,"Pound",211
+"1414","Pork Sausage Links","",6.8,"Pound",211
+"1415","Pork Sausage Links","",6.8,"Pound",211
+"1425","North Salad Dressing Waste Module","",33.6,"Pound",211
+"1426","North Salad Dressing Waste Module","",10,"Pound",211
+"1427","North Salad Dressing Waste Module","",10,"Pound",211
+"1428","North Salad Bar Waste Module","",33.6,"Pound",211
+"1429","North Deli Bar Waste Module","",6.1,"Pound",211
+"1430","Sausage Patties","",4,"Pound",213
+"1433","Frijoles Refritos Con Queso","",16.6,"Pound",213
+"1434","Chef's Choice Pasta du Jour","",11.2,"Pound",213
+"1435","Spanish Rice","",17.8,"Pound",213
+"1436","Basmati Rice Pilaf","",8.4,"Pound",213
+"1437","BBQ Kansas City Pork Spare Ribs","",6.8,"Pound",213
+"1438","North Salad Bar Waste Module","",10.5,"Pound",213
+"1439","North Salad Dressing Waste Module","",2.5,"Pound",213
+"1440","North Deli Bar Waste Module","",6.9,"Pound",213
+"1441","North Salad Dressing Waste Module","",2.5,"Pound",213
+"1445","French Toast Stix","",4,"Pound",215
+"1448","Smoky Dogs","",4,"Pound",215
+"1449","Marinara Sauce","",6.4,"Pound",215
+"1450","Italian Grilled Vegetables","",3.2,"Pound",215
+"1451","Italian Grilled Vegetables","",2.6,"Pound",215
+"1456","Crispy Dijon Scrod","",1.2,"Pound",215
+"1457","Tuscan White Beans","",1.8,"Pound",215
+"1458","Buttered Noodles","",2.6,"Pound",215
+"1459","Chef's Choice Pasta du Jour","",2.2,"Pound",215
+"1460","Basmati Rice","",9.8,"Pound",215
+"1461","Meat Sauce","",1.8,"Pound",215
+"1466","North Deli Bar Waste Module","",5.7,"Pound",215
+"1467","North Salad Bar Waste Module","",5,"Pound",214
+"1468","North Salad Dressing Waste Module","",3.2,"Pound",214
+"1473","North Salad Bar Waste Module","",21.6,"Pound",215
+"1474","North Salad Dressing Waste Module","",3.2,"Pound",215
+"1475","North Deli Bar Waste Module","",0.4,"Pound",215
+"1477","Bacon","",1,"Pound",216
+"1478","Corn","",0.5,"Pound",216
+"1480","Oatmeal Hot Cereal","",2,"Pound",216
+"1481","Meat Ravioli","",11.2,"Pound",216
+"1482","Green Beans","",5,"Pound",216
+"1483","Chef's Choice Pasta du Jour","",9.4,"Pound",216
+"1484","Mashed Ranch Potatoes","",11,"Pound",216
+"1485","Meat Ravioli","",8.6,"Pound",216
+"1486","Meat Ravioli","",8.6,"Pound",216
+"1489","North Deli Bar Waste Module","",4,"Pound",216
+"1490","North Deli Bar Waste Module","",3,"Pound",216
+"1491","North Deli Bar Waste Module","",4,"Pound",216
+"1495","Crinkle Cut Fries","",1.2,"Pound",217
+"1496","North Salad Bar Waste Module","",24.8,"Pound",217
+"1497","North Salad Dressing Waste Module","",5.4,"Pound",217
+"1498","North Deli Bar Waste Module","",1,"Pound",217
+"1500","Bacon","",1,"Pound",218
+"1502","White Rice","",4,"Pound",218
+"1503","Corn","",2,"Pound",218
+"1504","Pepper Steak Stir Fry","",3,"Pound",218
+"1505","Chef's Choice Soup du Jour","",8,"Pound",218
+"1506","Meat Sauce","",12,"Pound",218
+"1508","Meat Sauce","",9,"Pound",218
+"1509","Marinara Sauce","",5,"Pound",218
+"1510","Vegan Ravioli Caprese","",4,"Pound",218
+"1511","Chef's Choice Pasta du Jour","",3.2,"Pound",218
+"1512","White Rice","",13,"Pound",218
+"1513","North Deli Bar Waste Module","",1.5,"Pound",218
+"1514","North Salad Dressing Waste Module","",2.7,"Pound",218
+"1515","North Salad Bar Waste Module","",14.3,"Pound",218
+"1519","French Toast Stix","",8.6,"Pound",219
+"1520","Pork Sausage Links","",6,"Pound",219
+"1521","Steamed Broccoli","",2.4,"Pound",219
+"1522","Rice Florentine","",12.2,"Pound",219
+"1523","Chicken and Sausage Gumbo","",4.4,"Pound",219
+"1524","Marinara Sauce","",7.9,"Pound",219
+"1525","Meat Sauce","",5.3,"Pound",219
+"1528","North Deli Bar Waste Module","",11,"Pound",219
+"1529","North Salad Dressing Waste Module","",7.2,"Pound",219
+"1530","North Salad Bar Waste Module","",18.4,"Pound",219
+"1533","Home Fries","",7.6,"Pound",220
+"1534","Cream of Wheat","",11.8,"Pound",220
+"1541","Grilled Chicken Cutlet","",6,"Pound",220
+"1545","Curley Fries","",2.7,"Pound",220
+"1546","North Salad Bar Waste Module","",12.7,"Pound",220
+"1547","North Salad Dressing Waste Module","",4.1,"Pound",220
+"1548","North Deli Bar Waste Module","",7.9,"Pound",220
+"1550","White Rice","",5.3,"Pound",221
+"1555","Steamed Broccoli","",3,"Pound",221
+"1556","Roasted Cardamom Pineapple","",8.2,"Pound",221
+"1558","Marinara Sauce","",3.8,"Pound",221
+"1559","Meat Sauce","",3.6,"Pound",221
+"1560","North Salad Bar Waste Module","",3,"Pound",221
+"1561","North Deli Bar Waste Module","",1.5,"Pound",221
+"1562","North Deli Bar Waste Module","",4.7,"Pound",221
+"1563","Meatballs with Marinara","",0.4,"Pound",222
+"1564","North Deli Bar Waste Module","",6,"Pound",222
+"1565","North Salad Dressing Waste Module","",11.4,"Pound",222
+"1566","North Salad Bar Waste Module","",19.4,"Pound",222
+"1568","Marinara Sauce","",5,"Pound",222
+"1569","Pulled Pork","",3,"Pound",223
+"1570","Bacon","",2,"Pound",223
+"1571","Lasagna Roll Ups","",3,"Pound",223
+"1572","Morrocan Garlic Lemon Chicken","",4,"Pound",223
+"1573","North Salad Bar Waste Module","",7,"Pound",223
+"1574","North Salad Dressing Waste Module","",2.2,"Pound",223
+"1575","Meat Sauce","",1.3,"Pound",223
+"1576","Moroccan Couscous","",2.3,"Pound",223
+"1577","Gingered Green Beans and Carrots","",3,"Pound",223
+"1578","North Deli Bar Waste Module","",4.2,"Pound",223
+"1579","Meat Sauce","",3,"Pound",224
+"1584","North Salad Dressing Waste Module","",4.9,"Pound",224
+"1585","North Salad Bar Waste Module","",5.3,"Pound",224
+"1586","Marinara Sauce","",1.5,"Pound",224
+"1587","Meat Sauce","",1.5,"Pound",224
+"1588","BBQ Baked Beans","",2,"Pound",224
+"1589","Broccoli Macaroni & Cheese","",3,"Pound",224
+"1590","White Rice","",3,"Pound",224
+"1593","White Rice","",1.8,"Pound",225
+"1594","Sauteed Peppers","",0.7,"Pound",225
+"1595","Sauteed Peppers","",0.7,"Pound",225
+"1597","North Salad Bar Waste Module","",21.2,"Pound",225
+"1598","North Deli Bar Waste Module","",3.5,"Pound",225
+"1600","Basmati Rice","",5.1,"Pound",225
+"1601","Linguini w/ Roasted Tomatoes","",3.8,"Pound",225
+"1602","Marinara Sauce","",2.1,"Pound",225
+"1603","Meat Sauce","",2.5,"Pound",225
+"1604","Chef's Choice Pasta du Jour","",4.4,"Pound",225
+"1606","Pernil","",3.7,"Pound",226
+"1607","Santa Fe Chicken with Corn Salsa","",4.1,"Pound",226
+"1608","Ranch Roasted Potatoes","",3.7,"Pound",226
+"1609","White Rice","",3.3,"Pound",226
+"1610","Marinara Sauce","",4.3,"Pound",226
+"1611","Chef's Choice Pasta du Jour","",5.7,"Pound",226
+"1612","Sauteed Kale","",2.5,"Pound",226
+"1613","Fresh Roasted Carrots","",9.8,"Pound",226
+"1618","Beef Steak Tacos","",10,"Pound",227
+"1619","Marinara Sauce","",1.5,"Pound",227
+"1620","North Deli Bar Waste Module","",7.9,"Pound",227
+"1622","North Salad Bar Waste Module","",6.2,"Pound",227
+"1623","Oatmeal Hot Cereal","",5.8,"Pound",227
+"1624","Fried Hash Brown Patties","",1.9,"Pound",228
+"1627","Turkey Sausage Links","",3,"Pound",228
+"1628","White Rice","",3.2,"Pound",228
+"1629","American Chop Suey","",9.6,"Pound",228
+"1630","Apple Cinnamon Bread Pudding","",4.4,"Pound",228
+"1631","Chef's Choice Pasta du Jour","",2.1,"Pound",228
+"1633","Sauteed Pork Cutlet","",4,"Pound",228
+"1634","Tokyo Noodles","",5.4,"Pound",228
+"1635","BBQ Chicken Drumsticks","",3.3,"Pound",228
+"1636","Chef's Choice Pasta du Jour","",0.7,"Pound",228
+"1637","Roasted Root Vegetables","",4.6,"Pound",228
+"1638","Red Petite Potatoes w/Dill","",1.4,"Pound",228
+"1639","Vegan Mongolian Stir Fry","",0.6,"Pound",228
+"1640","Curried Sweet Potato and Apple Pilaf","",0.7,"Pound",228
+"1641","Meat Sauce","",2.9,"Pound",228
+"1642","Marinara Sauce","",2,"Pound",228
+"1643","North Salad Bar Waste Module","",17.4,"Pound",228
+"1646","Chili con Carne","",4,"Pound",229
+"1647","White Rice","",3,"Pound",229
+"1648","El Nacho Grande","",1,"Pound",229
+"1652","Baked Beans","",9.2,"Pound",229
+"1653","Chef's Choice Pasta du Jour","",5.3,"Pound",229
+"1654","North Salad Bar Waste Module","",27,"Pound",229
+"1655","North Salad Dressing Waste Module","",9,"Pound",229
+"1656","North Deli Bar Waste Module","",7.8,"Pound",229
+"1657","Potato Bar Toppings","",5,"Pound",229
+"1658","Blueberry Pancakes","",2.5,"Pound",230
+"1662","Very Berry Topping","",6,"Pound",230
+"1663","Marinara Sauce","",2.8,"Pound",230
+"1664","Meat Sauce","",2.7,"Pound",230
+"1665","Chef's Choice Pasta du Jour","",2.9,"Pound",230
+"1669","Curley Fries","",1.5,"Pound",230
+"1670","North Salad Bar Waste Module","",41,"Pound",230
+"1671","North Salad Dressing Waste Module","",10,"Pound",230
+"1674","Roasted Garlic Potatoes","",2.6,"Pound",230
+"1675","Ham and Pepperoni Stromboli","",1,"Pound",230
+"1694","North Salad Dressing Waste Module","",28.2,"Pound",231
+"1695","North Salad Dressing Waste Module","",8.4,"Pound",231
+"1698","Chipotle Ranch Grilled Chicken","",5.5,"Pound",232
+"1699","Marinara Sauce","",3,"Pound",232
+"1700","Green Beans and Tomatoes","",1.3,"Pound",232
+"1701","Chef's Choice Pasta du Jour","",3.7,"Pound",232
+"1703","Corn","",4.2,"Pound",232
+"1704","North Salad Bar Waste Module","",30.1,"Pound",232
+"1705","North Deli Bar Waste Module","",4.6,"Pound",232
+"1706","North Salad Dressing Waste Module","",2,"Pound",232
+"1711","Greek Rice Pilaf","",7,"Pound",233
+"1712","Yankee Pot Roast","",4,"Pound",232
+"1713","Chicken Chablis","",2.3,"Pound",233
+"1714","Meat Sauce","",4,"Pound",233
+"1715","Marinara Sauce","",4.1,"Pound",233
+"1716","White Rice","",5.2,"Pound",233
+"1717","Sauteed Beef Tips","",2,"Pound",233
+"1721","North Deli Bar Waste Module","",4.5,"Pound",233
+"1722","North Salad Bar Waste Module","",23.4,"Pound",233
+"1723","North Deli Bar Waste Module","",8.5,"Pound",233
+"1724","North Salad Bar Waste Module","",7.9,"Pound",234
+"1725","North Salad Dressing Waste Module","",2.5,"Pound",234
+"1726","North Deli Bar Waste Module","",4.7,"Pound",234
+"1736","Chicken Fricassee w/ Dumplings","",7.9,"Pound",235
+"1737","Green Beans","",0.3,"Pound",235
+"1738","Marinara Sauce","",2.1,"Pound",235
+"1739","Meat Sauce","",2.3,"Pound",235
+"1740","Shrimp Jambalaya","",4.8,"Pound",235
+"1741","Chef's Choice Pasta du Jour","",2.8,"Pound",235
+"1742","Mashed Red Potatoes with Garlic","",3.2,"Pound",235
+"1744","North Salad Bar Waste Module","",19.8,"Pound",235
+"1745","North Salad Dressing Waste Module","",11.4,"Pound",235
+"1751","Breakfast Potatoes","",2,"Pound",236
+"1752","Cream of Wheat","",10,"Pound",236
+"1753","Cross Trax French Fries","",1.5,"Pound",236
+"1759","Chef's Choice Pasta du Jour","",1.5,"Pound",236
+"1760","Vegan Dragon Rice","",4,"Pound",236
+"1762","North Salad Dressing Waste Module","",4.6,"Pound",236
+"1763","North Deli Bar Waste Module","",7,"Pound",237
+"1764","North Salad Bar Waste Module","",14,"Pound",237
+"1765","North Salad Dressing Waste Module","",13,"Pound",237
+"1766","Basmati Rice","",11,"Pound",237
+"1767","Meat Sauce","",9,"Pound",237
+"1768","Meat Sauce","",9,"Pound",237
+"1769","Marinara Sauce","",9,"Pound",237
+"1770","Pork Milanese","",5,"Pound",237
+"1771","Vegan Chicken Diced","",3,"Pound",237
+"1772","Puerto Rican Rice & Beans","",12,"Pound",237
+"1773","North Salad Bar Waste Module","",6.7,"Pound",238
+"1774","North Salad Dressing Waste Module","",4,"Pound",238
+"1798","Cavatappi with Vegetables","",21,"Pound",239
+"1799","White Rice","",8,"Pound",239
+"1800","Green Fiesta Rice","",6.2,"Pound",239
+"1805","Chef's Choice Pasta du Jour","",4,"Pound",240
+"1806","White Rice","",4,"Pound",240
+"1808","Marinara Sauce","",4,"Pound",240
+"1811","Chef's Choice Pasta du Jour","",18,"Pound",241
+"1812","Parslied Carrots","",3.6,"Pound",241
+"1813","Basmati Rice Pilaf","",10.2,"Pound",241
+"1814","Macaroni & Cheese","",9.6,"Pound",241
+"1815","Grilled Chicken w/ Chimichurri Sauce","",0.6,"Pound",241
+"1816","BBQ Kansas City Pork Spare Ribs","",1.4,"Pound",241
+"1817","Meat Sauce","",4.6,"Pound",241
+"1818","Marinara Sauce","",0.5,"Pound",241
+"1819","Cornbread","",7,"Pound",241
+"1823","North Salad Dressing Waste Module","",5.4,"Pound",241
+"1824","North Deli Bar Waste Module","",7.3,"Pound",241
+"1825","North Salad Bar Waste Module","",33.8,"Pound",241
+"1826","Breakfast Potatoes","",22,"Pound",242
+"1835","Marinara Sauce","",2.3,"Pound",253
+"1836","Basmati Rice","",6.9,"Pound",253
+"1837","Chef's Choice Pasta du Jour","",3,"Pound",253
+"1838","North Salad Bar Waste Module","",10.6,"Pound",253
+"1839","North Salad Dressing Waste Module","",2.8,"Pound",253
+"1840","North Deli Bar Waste Module","",1.2,"Pound",253
+"1841","North Deli Bar Waste Module","",2.6,"Pound",254
+"1842","North Salad Bar Waste Module","",13.4,"Pound",254
+"1843","North Salad Dressing Waste Module","",14.4,"Pound",254
+"1844","Sauteed Kale","",0.4,"Pound",254
+"1846","Marinara Sauce","",1,"Pound",254
+"1847","Meat Sauce","",2.4,"Pound",254
+"1848","Grilled Hot Dogs w/ Toasted Roll","",15,"Pound",254
+"1849","Grilled Cheese","",3,"Pound",254
+"1850","Vegan Sesame Nuggets","",4,"Pound",256
+"1851","Vegetable Spring Rolls","",10,"Pound",256
+"1852","Basmati Rice Pilaf","",23,"Pound",256
+"1853","Grilled Guinness Bratwurst","",2.2,"Pound",256
+"1854","Vegan Steak Tacos","",0.3,"Pound",256
+"1855","Meat Sauce","",2,"Pound",256
+"1856","Meat Sauce","",2,"Pound",256
+"1857","Flour Tortillas","",2,"Pound",256
+"1861","Baked Beans","",4,"Pound",257
+"1863","Chef's Choice Pasta du Jour","",0.5,"Pound",257
+"1867","Steamed Broccoli","",4,"Pound",257
+"1868","Marinara Sauce","",1.2,"Pound",257
+"1869","North Deli Bar Waste Module","",7.5,"Pound",257
+"1870","North Salad Dressing Waste Module","",3.6,"Pound",257
+"1871","North Salad Bar Waste Module","",23,"Pound",257
+"1873","Very Berry Topping","",1.2,"Pound",258
+"1874","Crinkle Cut Fries","",1,"Pound",258
+"1879","Marinara Sauce","",3,"Pound",258
+"1881","Marinara Sauce","",3,"Pound",258
+"1882","North Deli Bar Waste Module","",9.6,"Pound",258
+"1883","North Salad Bar Waste Module","",17,"Pound",258
+"1884","North Salad Dressing Waste Module","",4,"Pound",258
+"1885","White Rice","",4.8,"Pound",259
+"1886","Meatballs with Marinara","",4,"Pound",259
+"1887","Smashed Yukon Gold Potatoes","",8.3,"Pound",259
+"1890","Sauteed Vegetable Medley","",2.8,"Pound",259
+"1892","Chef's Choice Pasta du Jour","",2.9,"Pound",259
+"1894","Baked Ziti","",3.6,"Pound",259
+"1897","Meat Sauce","",3.2,"Pound",259
+"1898","Marinara Sauce","",32,"Pound",259
+"1899","North Deli Bar Waste Module","",9.4,"Pound",259
+"1900","Turkey Sausage Links","",4.6,"Pound",260
+"1903","Home Fries","",1.8,"Pound",260
+"1905","Green Beans and Tomatoes","",0.6,"Pound",260
+"1906","Vegan Pepper Steak Stir Fry","",6.6,"Pound",260
+"1909","Corn","",2,"Pound",260
+"1910","Mashed Potatoes","",12.1,"Pound",260
+"1911","Meat Sauce","",1.6,"Pound",260
+"1912","Marinara Sauce","",1.3,"Pound",260
+"1913","Linguini  with White Beans, Garlic & Herbs","",2.7,"Pound",260
+"1918","North Salad Bar Waste Module","",9.6,"Pound",260
+"1919","North Deli Bar Waste Module","",1.1,"Pound",260
+"1920","North Deli Bar Waste Module","",4.4,"Pound",260
+"1926","Marinara Sauce","",2.6,"Pound",261
+"1927","North Deli Bar Waste Module","",4.8,"Pound",261
+"1928","North Salad Dressing Waste Module","",25.3,"Pound",261
+"1929","North Salad Dressing Waste Module","",5.6,"Pound",261
+"1934","Straight Cut French Fries","",1.3,"Pound",261
+"1935","Straight Cut French Fries","",1.3,"Pound",261
+"1939","Rice & Orzo Pilaf","",3.4,"Pound",262
+"1941","Vegetable Lo Mein","",5,"Pound",262
+"1942","Chef's Choice Pasta du Jour","",2.3,"Pound",262
+"1943","North Salad Bar Waste Module","",20.3,"Pound",262
+"1944","North Deli Bar Waste Module","",9.5,"Pound",262
+"1946","Sausage For Grinder","",3.1,"Pound",263
+"1948","Sauteed Onions","",0.8,"Pound",263
+"1949","Sauteed Peppers","",0.7,"Pound",263
+"1950","White Rice","",1.6,"Pound",263
+"1951","Peach Cobbler","",2,"Pound",263
+"1952","Peach Cobbler","",2.8,"Pound",263
+"1954","Roasted Vegetable Pasta","",3.5,"Pound",263
+"1955","Mashed Red Potatoes with Garlic","",4.2,"Pound",263
+"1956","Mashed Red Potatoes with Garlic","",9.6,"Pound",263
+"1957","Chef's Choice Pasta du Jour","",0.9,"Pound",263
+"1958","Marinara Sauce","",3,"Pound",263
+"1959","Meat Sauce","",3,"Pound",263
+"1960","North Deli Bar Waste Module","",5.5,"Pound",263
+"1961","North Salad Bar Waste Module","",3,"Pound",263
+"1962","North Salad Bar Waste Module","",12.5,"Pound",263
+"1965","Curley Fries","",1.9,"Pound",263
+"1966","Breakfast Potatoes","",2.4,"Pound",264
+"1967","Vegan Dragon Rice","",18,"Pound",264
+"1968","Chef's Choice Pasta du Jour","",3,"Pound",264
+"1969","Roasted Garlic Potatoes","",4,"Pound",264
+"1970","Steamed Broccoli","",3,"Pound",264
+"1971","North Deli Bar Waste Module","",2,"Pound",264
+"1972","North Salad Bar Waste Module","",12,"Pound",264
+"1977","Honey Chipotle Chicken","",6,"Pound",265
+"1979","North Deli Bar Waste Module","",7,"Pound",265
+"1980","North Salad Bar Waste Module","",17,"Pound",265
+"1981","Puerto Rican Rice & Beans","",6,"Pound",265
+"1983","Vegan Chicken Diced","",1.8,"Pound",265
+"1984","Zucchini Medley","",15,"Pound",265
+"1986","Gingered Sweet Potatoes","",11.2,"Pound",266
+"1987","Corn","",5.2,"Pound",266
+"1988","Garden Blend Rice","",6,"Pound",266
+"1989","Chef's Choice Pasta du Jour","",2,"Pound",266
+"1990","Grilled Chicken Bella","",4.2,"Pound",266
+"1991","Eggplant Parmesan","",3.5,"Pound",266
+"1992","Meat Sauce","",4,"Pound",266
+"1993","Marinara Sauce","",3.2,"Pound",266
+"1995","North Salad Dressing Waste Module","",6.4,"Pound",266
+"1998","Oatmeal Hot Cereal","",10,"Pound",267
+"1999","Country Style Hash Browns","",2,"Pound",267
+"2002","Straight Cut French Fries","",0.5,"Pound",267
+"2005","North Deli Bar Waste Module","",13.2,"Pound",267
+"2007","Basmati Rice","",7.3,"Pound",267
+"2008","Memphis Style BBQ Chicken Thighs","",4.2,"Pound",267
+"2009","Roasted Yukon Golds","",2.1,"Pound",267
+"2010","Three Cheese Enchiladas","",4.2,"Pound",267
+"2011","North Salad Bar Waste Module","",26.3,"Pound",267
+"2012","North Salad Bar Waste Module","",26.3,"Pound",267
+"2013","North Salad Bar Waste Module","",26.3,"Pound",267
+"2014","North Deli Bar Waste Module","",5,"Pound",267
+"2024","North Salad Dressing Waste Module","",6.2,"Pound",268
+"2025","North Salad Bar Waste Module","",17.5,"Pound",268
+"2026","North Deli Bar Waste Module","",10.5,"Pound",268
+"2028","Grilled Cheese","",6,"Pound",268
+"2032","Breakfast Potatoes","",4,"Pound",269
+"2044","North Salad Bar Waste Module","",22.5,"Pound",269
+"2047","Sauteed Peppers","",3.2,"Pound",270
+"2048","Sauteed Onions","",2.1,"Pound",270
+"2049","Cheese Sauce","",2,"Pound",270
+"2051","Scalloped Potatoes","",14.1,"Pound",270
+"2053","White Rice","",8.1,"Pound",270
+"2054","Chef's Choice Pasta du Jour","",3.8,"Pound",270
+"2055","Meat Sauce","",4.5,"Pound",270
+"2056","Corn","",1.8,"Pound",270
+"2057","White Rice","",4,"Pound",270
+"2058","General Tso's Chicken","",3,"Pound",270
+"2059","North Salad Bar Waste Module","",5,"Pound",270
+"2060","North Salad Dressing Waste Module","",3,"Pound",270
+"2061","North Deli Bar Waste Module","",4.6,"Pound",270
+"2066","Oatmeal Hot Cereal","",2.4,"Pound",271
+"2068","Turkey Sausage Links","",1.9,"Pound",271
+"2069","Oatmeal Hot Cereal","",6.8,"Pound",271
+"2070","Buttermilk Pancakes","",8,"Pound",300
+"2072","Very Berry Topping","",1.5,"Pound",300
+"2073","Corn","",2,"Pound",300
+"2074","Mashed Ranch Potatoes","",9,"Pound",300
+"2075","North Deli Bar Waste Module","",8,"Pound",300
+"2076","North Salad Bar Waste Module","",15,"Pound",300
+"2078","Green Beans","",3,"Pound",300
+"2079","Mashed Ranch Potatoes","",6,"Pound",300
+"2080","North Salad Dressing Waste Mod","",4,"Pound",300
+"2081","Chef's Choice Pasta du Jour","",3,"Pound",300
+"2082","Chef's Choice Pasta du Jour","",2.1,"Pound",300
+"2083","Marinara Sauce","",1.5,"Pound",300
+"2084","Meat Sauce","",1.5,"Pound",300
+"2085","Rice Pilaf","",2.6,"Pound",300
+"2086","Mashed Ranch Potatoes","",4.2,"Pound",300
+"2088","Baked Pork Chops","",2.4,"Pound",301
+"2089","Creole Rice & Beans","",4.2,"Pound",301
+"2090","Peas","",3.6,"Pound",301
+"2091","Mashed Potatoes","",4,"Pound",301
+"2092","Pork Gravy","",4.6,"Pound",301
+"2093","Chef's Choice Pasta du Jour","",3.2,"Pound",301
+"2094","Roasted Root Vegetables","",5.8,"Pound",301
+"2095","Meat Sauce","",4.6,"Pound",301
+"2096","Marinara Sauce","",2.6,"Pound",301
+"2097","Crinkle Cut Fries","",1.5,"Pound",301
+"2098","Dr. Praeger's Burger w/ Bun","",1,"Pound",301
+"2099","Grilled Chicken Cutlet","",4,"Pound",301
+"2100","Grilled Hot Dogs","",1,"Pound",301
+"2101","Grilled Cheese","",4,"Pound",301
+"2102","Deli Bar Waste Module","",8,"Pound",301
+"2103","Salad Dressing Waste Module","",3.6,"Pound",301
+"2104","Salad Bar Waste Module","",16.4,"Pound",301
+"2106","Country Style Hash Browns","",3,"Pound",302
+"2107","Oatmeal Hot Cereal","",10,"Pound",302
+"2108","Corn","",6.2,"Pound",302
+"2109","White Rice","",7.2,"Pound",302
+"2111","Pepper Steak Stir Fry","",10,"Pound",302
+"2113","Chef's Choice Pasta du Jour","",7.8,"Pound",302
+"2115","Meat Sauce","",11,"Pound",302
+"2117","Steamed Broccoli","",7.2,"Pound",302
+"2118","Pot Roast Potatoes","",8,"Pound",302
+"2119","Wild Mushroom Risotto","",5.4,"Pound",302
+"2120","White Rice","",4.2,"Pound",302
+"2121","Chef's Choice Pasta du Jour","",1.4,"Pound",302
+"2122","White Rice","",4,"Pound",302
+"2123","Vegan Ravioli Caprese","",3,"Pound",302
+"2124","Meat Sauce","",9,"Pound",302
+"2125","Salad Dressing Waste Module","",4,"Pound",302
+"2126","Salad Bar Waste Module","",19,"Pound",302
+"2127","Salad Bar Waste Module","",19,"Pound",302
+"2128","Deli Bar Waste Module","",5.6,"Pound",302
+"2131","Straight Cut French Fries","",3,"Pound",303
+"2134","Chicken and Sausage Gumbo","",5,"Pound",303
+"2135","Sauteed Kale","",2,"Pound",303
+"2136","Deli Bar Waste Module","",9.7,"Pound",303
+"2137","Salad Bar Waste Module","",14.6,"Pound",303
+"2138","Salad Dressing Waste Module","",3.8,"Pound",303
+"2139","Salad Dressing Waste Module","",3.8,"Pound",303
+"2140","Turkey Sausage Links","",2.2,"Pound",304
+"2141","Green Bean Saute","",6.3,"Pound",304
+"2143","Chef's Choice Pasta du Jour","",3.2,"Pound",304
+"2144","Tofu Marsala","",5.3,"Pound",304
+"2146","Corn","",2,"Pound",304
+"2147","Fried Plantains","",6,"Pound",304
+"2149","Grilled Hot Dogs","",9,"Pound",304
+"2151","Grilled Cheese","",10,"Pound",304
+"2153","Deli Bar Waste Module","",6.8,"Pound",304
+"2154","Salad Dressing Waste Module","",2.4,"Pound",304
+"2155","Salad Bar Waste Module","",11.7,"Pound",304
+"2157","Cinnamon Rolls","",15,"Pound",305
+"2159","Parslied Carrots","",7.2,"Pound",305
+"2160","Salad Bar Waste Module","",6.5,"Pound",305
+"2161","Deli Bar Waste Module","",3.5,"Pound",305
+"2162","Salad Dressing Waste Module","",3,"Pound",305
+"2163","Chicken Tikka Masala","",7.2,"Pound",305
+"2164","Vegetable Korma","",4.8,"Pound",305
+"2165","Basmati Rice","",1.8,"Pound",305
+"2167","Chef's Choice Pasta du Jour","",4.6,"Pound",305
+"2168","Meat Sauce","",5.8,"Pound",305
+"2169","Marinara Sauce","",7.2,"Pound",305
+"2170","Steamed Broccoli","",5.4,"Pound",305
+"2171","Vegan Sweet & Sour Tempeh","",10.4,"Pound",306
+"2172","White Rice","",11,"Pound",306
+"2173","Baked Sweet Potato","",10.8,"Pound",306
+"2174","Chef's Choice Pasta du Jour","",3,"Pound",306
+"2175","Chef's Choice Pasta du Jour","",3,"Pound",306
+"2176","Meat Sauce","",8.1,"Pound",306
+"2177","Marinara Sauce","",9,"Pound",306
+"2178","Chef's Choice Pasta du Jour","",7.6,"Pound",306
+"2179","Grilled Chicken Cutlet","",2,"Pound",306
+"2182","Crinkle Cut Fries","",0.5,"Pound",306
+"2186","Deli Bar Waste Module","",2.5,"Pound",307
+"2187","Salad Dressing Waste Module","",1.5,"Pound",307
+"2188","Deli Bar Waste Module","",2.5,"Pound",307
+"2190","Beer Battered Onion Rings","",3,"Pound",308
+"2194","Parsley Noodles","",3.8,"Pound",308
+"2195","Swedish Meatballs","",17,"Pound",308
+"2196","BBQ Baked Beans","",6.6,"Pound",308
+"2198","Green Beans w/ Garlic","",8.6,"Pound",308
+"2200","Honey Glazed Roasted Carrots","",13,"Pound",308
+"2201","Chef's Choice Pasta du Jour","",3.6,"Pound",308
+"2202","Marinara Sauce","",7.4,"Pound",308
+"2203","Meat Sauce","",8.1,"Pound",308
+"2204","Salad Dressing Waste Module","",7.3,"Pound",308
+"2205","Salad Dressing Waste Module","",5.1,"Pound",308
+"2206","Deli Bar Waste Module","",3.6,"Pound",308
+"2207","Cream of Wheat","",20,"Pound",309
+"2208","Home Fries","",3.8,"Pound",309
+"2209","French Toast Stix","",3.4,"Pound",309
+"2221","Salad Bar Waste Module","",18,"Pound",309
+"2222","Salad Dressing Waste Module","",3.8,"Pound",309
+"2223","White Rice","",3,"Pound",310
+"2224","Mashed Potatoes","",6,"Pound",310
+"2225","Mashed Potatoes","",23.8,"Pound",310
+"2226","White Bean & Butternut Stew","",9,"Pound",310
+"2227","Breakfast Potatoes","",3,"Pound",311
+"2228","Vegan Steak Tacos","",2,"Pound",311
+"2229","Beef Steak Tacos","",2,"Pound",311
+"2232","Spanish Rice","",3,"Pound",311
+"2233","Chef's Choice Pasta du Jour","",1.5,"Pound",311
+"2234","Meat Sauce","",1,"Pound",311
+"2235","Marinara Sauce","",2,"Pound",311
+"2236","Salad Bar Waste Module","",12.7,"Pound",311
+"2237","Salad Dressing Waste Module","",6.8,"Pound",311
+"2238","French Dipped Waffles","",7.6,"Pound",312
+"2239","Curried Sweet Potato and Apple","",4,"Pound",312
+"2240","BBQ Chicken Drumsticks","",11,"Pound",312
+"2241","Red Petite Potatoes w/Dill","",10,"Pound",312
+"2243","Vegan Mongolian Stir Fry","",5,"Pound",312
+"2244","Chef's Choice Pasta du Jour","",4,"Pound",312
+"2245","Marinara Sauce","",5,"Pound",312
+"2246","Meat Sauce","",6,"Pound",312
+"2247","Tokyo Noodles","",12,"Pound",312
+"2248","American Chop Suey","",3,"Pound",312
+"2249","Mashed Potatoes","",5,"Pound",312
+"2250","Stove Top Stuffing","",6,"Pound",312
+"2251","Roast Turkey","",3,"Pound",312
+"2252","Mexican Corn","",6.1,"Pound",313
+"2253","El Nacho Grande","",2.1,"Pound",313
+"2254","Chili con Carne","",8.4,"Pound",313
+"2256","White Rice","",10,"Pound",313
+"2257","Chef's Choice Pasta du Jour","",8,"Pound",313
+"2258","Marinara Sauce","",10,"Pound",313
+"2259","Baked Beans","",14.2,"Pound",313
+"2261","Tokyo Noodles","",12,"Pound",312
+"2262","Marinara Sauce","",5.1,"Pound",313
+"2263","Meat Sauce","",7,"Pound",313
+"2264","Chef's Choice Pasta du Jour","",3,"Pound",313
+"2265","Steamed Broccoli","",2.8,"Pound",313
+"2266","Salad Dressing Waste Module","",7,"Pound",313
+"2267","Salad Bar Waste Module","",19,"Pound",313
+"2272","Basmati Rice","",2,"Pound",316
+"2273","Marinara Sauce","",2,"Pound",316
+"2275","Mashed Potatoes","",5,"Pound",316
+"2276","Parslied Carrots","",1.5,"Pound",316
+"2278","Straight Cut French Fries","",7,"Pound",317
+"2280","Meat Sauce","",2,"Pound",317
+"2283","French Dipped Waffles","",2.5,"Pound",318
+"2284","Grilled Tuna Steak w/ Sriracha","",3,"Pound",318
+"2285","Pulled Pork","",11,"Pound",318
+"2286","Rice & Orzo Pilaf","",15,"Pound",318
+"2287","BBQ Baked Beans","",5,"Pound",318
+"2288","Veggie Medley","",6,"Pound",318
+"2289","Corn","",12,"Pound",318
+"2290","Chef's Choice Pasta du Jour","",0.5,"Pound",318
+"2291","Meat Sauce","",3.5,"Pound",318
+"2292","Vegetable Lo Mein","",11,"Pound",318
+"2293","Salad Bar Waste Module","",8.5,"Pound",318
+"2294","Salad Dressing Waste Module","",6.1,"Pound",318
+"2295","Curley Fries","",2,"Pound",319
+"2301","Salad Dressing Waste Module","",4.8,"Pound",319
+"2302","Salad Bar Waste Module","",12.1,"Pound",319
+"2303","Eggplant Caponata","",12.1,"Pound",320
+"2304","Chef's Choice Pasta du Jour","",4.5,"Pound",320
+"2305","Meat Sauce","",11,"Pound",320
+"2312","Cross Trax French Fries","",1.2,"Pound",320
+"2313","Deli Bar Waste Module","",9.6,"Pound",320
+"2314","Salad Dressing Waste Module","",7,"Pound",320
+"2315","Salad Bar Waste Module","",4.3,"Pound",320
+"2316","Salad Dressing Waste Module","",4.2,"Pound",321
+"2317","Salad Bar Waste Module","",6,"Pound",321
+"2318","Deli Bar Waste Module","",6.4,"Pound",321
+"2321","Very Berry Topping","",0.3,"Pound",322
+"2322","Salad Bar Waste Module","",20.6,"Pound",322
+"2323","Salad Dressing Waste Module","",6.6,"Pound",322
+"2326","Green Fiesta Rice","",3.5,"Pound",323
+"2327","White Rice","",4.6,"Pound",323
+"2328","Grilled Cheese","",6,"Pound",323
+"2331","Memphis Style BBQ Chicken Thig","",10,"Pound",323
+"2332","Basmati Rice","",3.7,"Pound",323
+"2333","Green Beans w/ Garlic","",3.2,"Pound",323
+"2334","Chef's Choice Pasta du Jour","",3.5,"Pound",323
+"2335","Meat Sauce","",1.4,"Pound",323
+"2336","Marinara Sauce","",21,"Pound",323
+"2337","Deli Bar Waste Module","",1.5,"Pound",323
+"2338","Salad Bar Waste Module","",5,"Pound",323
+"2339","Bacon","",3,"Pound",324
+"2341","Oatmeal Hot Cereal","",4,"Pound",324
+"2342","Mashed Potatoes","",2,"Pound",324
+"2343","Peas","",1,"Pound",324
+"2344","Stove Top Stuffing","",3.5,"Pound",324
+"2346","Roast Turkey","",2,"Pound",324
+"2347","White Rice","",3,"Pound",324
+"2348","Marinara Sauce","",1,"Pound",324
+"2349","Meat Sauce","",1,"Pound",324
+"2350","Chef's Choice Pasta du Jour","",1.5,"Pound",324
+"2356","Sausage Patties","",4,"Pound",325
+"2357","Frijoles Refritos Con Queso","",8.9,"Pound",325
+"2358","Deli Bar Waste Module","",8,"Pound",325
+"2359","Basmati Rice Pilaf","",7.2,"Pound",325
+"2362","Marinara Sauce","",2.3,"Pound",325
+"2363","Parslied Carrots","",1,"Pound",325
+"2365","Salad Bar Waste Module","",15.7,"Pound",325
+"2366","Salad Dressing Waste Module","",2.5,"Pound",325
+"2369","O'Brien Potatoes","",5,"Pound",326
+"2373","Steamed Broccoli","",2,"Pound",326
+"2376","Salad Bar Waste Module","",16.9,"Pound",326
+"2378","Grilled Cheese","",5,"Pound",326
+"2380","Deli Bar Waste Module","",5,"Pound",326
+"2381","Meat Sauce","",4.3,"Pound",326
+"2386","White Rice","",5.9,"Pound",327
+"2388","Smoky Dogs","",3,"Pound",327
+"2389","Marinara Sauce","",9,"Pound",327
+"2390","Buttered Noodles","",3.2,"Pound",327
+"2391","Buttered Noodles","",3.2,"Pound",327
+"2392","Tuscan White Beans","",2,"Pound",327
+"2393","Basmati Rice","",4.1,"Pound",327
+"2399","Cross Trax French Fries","",3,"Pound",327
+"2400","Salad Bar Waste Module","",21,"Pound",327
+"2419","Meat Sauce","",1.8,"Pound",329
+"2420","Roasted Root Vegetables","",3.2,"Pound",329
+"2421","Baked Pork Chops","",5,"Pound",329
+"2422","Grilled Cheese","",1,"Pound",329
+"2426","Creole Rice & Beans","",6.2,"Pound",329
+"2427","Mashed Potatoes","",0.8,"Pound",329
+"2429","Salad Dressing Waste Module","",6.4,"Pound",329
+"2430","Salad Dressing Waste Module","",8.3,"Pound",329
+"2431","Deli Bar Waste Module","",0.3,"Pound",329
+"2432","Bacon","",1,"Pound",330
+"2433","Country Style Hash Browns","",2.8,"Pound",330
+"2436","Beer Battered Onion Rings","",1.5,"Pound",330
+"2437","Deli Bar Waste Module","",2,"Pound",330
+"2442","Meat Sauce","",3.4,"Pound",330
+"2443","Pot Roast Potatoes","",3.5,"Pound",330
+"2444","Steamed Broccoli","",1.6,"Pound",330
+"2445","White Rice","",1.9,"Pound",330
+"2446","Salad Bar Waste Module","",12.3,"Pound",330
+"2447","Salad Dressing Waste Module","",0.8,"Pound",330
+"2453","Chef's Choice Pasta du Jour","",4.1,"Pound",331
+"2454","Meat Sauce","",7.4,"Pound",331
+"2455","White Rice","",4.9,"Pound",331
+"2456","Chicken and Sausage Gumbo","",5,"Pound",331
+"2457","Bourbon & Black Strap Sweet Po","",3,"Pound",331
+"2458","Meat Sauce","",8,"Pound",331
+"2459","Italian Grilled Vegetables","",7,"Pound",331
+"2460","Chef's Choice Pasta du Jour","",2,"Pound",331
+"2461","Bourbon & Black Strap Sweet Po","",4,"Pound",331
+"2462","Chicken and Sausage Gumbo","",6,"Pound",331
+"2463","White Rice","",4,"Pound",331
+"2467","Chef's Choice Pasta du Jour","",7.2,"Pound",332
+"2468","Sloppy Joes on a Bun","",3.8,"Pound",332
+"2469","Meat Sauce","",5.6,"Pound",332
+"2470","Marinara Sauce","",5.5,"Pound",332
+"2471","Green Bean Saute","",4,"Pound",332
+"2472","Meat Sauce","",3.4,"Pound",332
+"2473","Marinara Sauce","",4,"Pound",332
+"2474","Cuban Pork Loin","",6,"Pound",332
+"2475","Sauteed Vegetable Medley","",7.8,"Pound",332
+"2476","Corn","",6.4,"Pound",332
+"2478","Chef's Choice Pasta du Jour","",8,"Pound",332
+"2479","Cuban Yellow Rice","",10,"Pound",332
+"2480","Country Style Hash Browns","",3,"Pound",333
+"2483","Chocolate Chip Pancakes","",3.5,"Pound",334
+"2484","Waffles","",2.5,"Pound",334
+"2485","Salad Dressing Waste Module","",4,"Pound",334
+"2486","Salad Bar Waste Module","",17,"Pound",334
+"2487","Grilled Chicken Cutlet","",6,"Pound",334
+"2489","Spanish Arroz Amarillo","",6,"Pound",334
+"2493","Mini Potato Pancakes","",2,"Pound",335
+"2497","Straight Cut French Fries","",1.5,"Pound",335
+"2500","Gingered Green Beans and Carro","",8,"Pound",335
+"2503","Roasted Yukon Golds","",7,"Pound",335
+"2504","Deli Bar Waste Module","",4,"Pound",335
+"2505","Salad Dressing Waste Module","",7,"Pound",335
+"2506","Salad Bar Waste Module","",3.5,"Pound",335
+"2507","Meat Sauce","",5,"Pound",336
+"2508","Marinara Sauce","",3,"Pound",336
+"2509","Parsley Noodles","",1,"Pound",336
+"2510","Broccoli Macaroni & Cheese","",1.5,"Pound",336
+"2513","Bacon","",4.8,"Pound",337
+"2515","French Toast Stix","",8,"Pound",337
+"2518","White Rice","",9,"Pound",337
+"2519","Chef's Choice Pasta du Jour","",6,"Pound",337
+"2520","Chef's Choice Pasta du Jour","",7,"Pound",337
+"2521","Marinara Sauce","",5.8,"Pound",337
+"2523","Roasted Yukon Golds","",9,"Pound",337
+"2524","Basmati Rice","",4.2,"Pound",337
+"2526","Ranch Roasted Potatoes","",4.6,"Pound",338
+"2527","Pernil","",6,"Pound",338
+"2528","Chef's Choice Pasta du Jour","",1.6,"Pound",338
+"2529","Grilled Hot Dogs","",8,"Pound",338
+"2530","Grilled Chicken Cutlet","",12,"Pound",338
+"2531","Grilled Cheese","",1,"Pound",338
+"2533","Deli Bar Waste Module","",4.3,"Pound",338
+"2534","Salad Bar Waste Module","",16.8,"Pound",338
+"2535","Salad Dressing Waste Module","",4.1,"Pound",338
+"2552","Fried Hash Brown Patties","",4,"Pound",340
+"2553","Turkey Sausage Links","",3,"Pound",340
+"2558","Deli Bar Waste Module","",7.3,"Pound",340
+"2559","Salad Bar Waste Module","",12.4,"Pound",340
+"2560","Red Petite Potatoes w/Dill","",3,"Pound",340
+"2562","Marinara Sauce","",0.8,"Pound",340
+"2563","Blueberry Pancakes","",3.5,"Pound",341
+"2564","Crispy Dijon Scrod","",16,"Pound",341
+"2566","Deli Bar Waste Module","",12.7,"Pound",341
+"2567","Meat Sauce","",4.2,"Pound",341
+"2569","Baked Beans","",2.2,"Pound",341
+"2570","Grilled Chicken Cutlet","",4,"Pound",341
+"2571","Grilled Cheese","",8,"Pound",341
+"2572","Hamburger No Bun","",8,"Pound",341
+"2573","Straight Cut French Fries","",0.5,"Pound",341
+"2574","Salad Bar Waste Module","",18.8,"Pound",341
+"2575","Salad Dressing Waste Module","",7.4,"Pound",341
+"2576","Salad Dressing Waste Module","",7.4,"Pound",341
+"2578","Curley Fries","",0.5,"Pound",342
+"2594","Grilled Chicken Cutlet","",6,"Pound",343
+"2598","Home Fries","",1,"Pound",344
+"2599","Frittata (basic)","",2,"Pound",344
+"2600","Deli Bar Waste Module","",4.2,"Pound",344
+"2601","Hamburger No Bun","",5,"Pound",344
+"2603","Marinara Sauce","",3.6,"Pound",344
+"2604","Meat Sauce","",4.6,"Pound",344
+"2605","Chef's Choice Pasta du Jour","",9.6,"Pound",344
+"2606","Linguini  with White Beans, Ga","",3.2,"Pound",344
+"2607","Corn","",10.2,"Pound",344
+"2608","Scrod w/ Fresh Dill","",4.6,"Pound",344
+"2609","Yankee Pot Roast","",8,"Pound",344
+"2610","Basmati Rice","",7,"Pound",344
+"2611","Mashed Potatoes","",20,"Pound",344
+"2613","Green Beans and Tomatoes","",5.8,"Pound",344
+"2614","Vegan Pepper Steak Stir Fry","",5.4,"Pound",344
+"2617","Frittata (basic)","",25,"Pound",346
+"2618","Sausage Patties","",4,"Pound",346
+"2619","Basmati Rice","",4,"Pound",346
+"2621","Spanish Rice","",8.9,"Pound",346
+"2622","Chef's Choice Pasta du Jour","",2,"Pound",346
+"2623","Green Beans","",8.4,"Pound",347
+"2624","Shrimp Jambalaya","",8,"Pound",347
+"2625","Chicken Fricassee w/ Dumplings","",5,"Pound",347
+"2626","Chef's Choice Pasta du Jour","",5,"Pound",347
+"2627","Marinara Sauce","",5,"Pound",347
+"2628","Meat Sauce","",6,"Pound",347
+"2629","Roasted Vegetable Pasta","",4.4,"Pound",347
+"2630","White Rice","",10,"Pound",347
+"2634","Omelet Bar","",12,"Pound",348
+"2635","Breakfast Potatoes","",7.4,"Pound",348
+"2636","Breakfast Potatoes","",4.2,"Pound",348
+"2639","Baked Chinese Chicken Wings","",2,"Pound",348
+"2641","Vegan Dragon Rice","",6,"Pound",348
+"2642","Deli Bar Waste Module","",6,"Pound",348
+"2644","Salad Bar Waste Module","",12,"Pound",348
+"2649","Vegan Chicken Diced","",2,"Pound",349
+"2650","Deli Bar Waste Module","",3.8,"Pound",349
+"2651","Salad Dressing Waste Module","",3,"Pound",349
+"2652","Salad Bar Waste Module","",14.6,"Pound",349
+"2653","Salad Bar Waste Module","",14.6,"Pound",349
+"2654","Marinara Sauce","",3,"Pound",350
+"2655","Meat Sauce","",2.5,"Pound",350
+"2656","Eggplant Parmesan","",4.2,"Pound",350
+"2657","Corn","",6.4,"Pound",350
+"2658","Gingered Sweet Potatoes","",11,"Pound",350
+"2659","Garden Blend Rice","",4.2,"Pound",350
+"2661","Texas BBQ Beef Tender","",2.8,"Pound",350
+"2663","Grilled Cheese","",9,"Pound",351
+"2664","Grilled Hot Dogs","",6,"Pound",351
+"2665","Hamburger No Bun","",4,"Pound",351
+"2666","Straight Cut French Fries","",3,"Pound",351
+"2668","Roasted Yukon Golds","",1.6,"Pound",351
+"2669","Chef's Choice Pasta du Jour","",3,"Pound",351
+"2670","Marinara Sauce","",0.5,"Pound",351
+"2671","Meat Sauce","",2.7,"Pound",351
+"2672","Salad Bar Waste Module","",15.6,"Pound",351
+"2673","Salad Dressing Waste Module","",12,"Pound",351
+"2676","Waffles","",19,"Pound",352
+"2677","Breakfast Potatoes","",2,"Pound",352
+"2678","Chef's Choice Pasta du Jour","",2,"Pound",352
+"2679","Marinara Sauce","",0.5,"Pound",352
+"2680","Meat Sauce","",0.5,"Pound",352
+"2681","Stove Top Stuffing","",10,"Pound",352
+"2682","Frijoles Refritos Con Queso","",3,"Pound",353
+"2683","Spanish Rice","",10,"Pound",353
+"2685","Meat Sauce","",8,"Pound",353
+"2686","Chef's Choice Pasta du Jour","",4,"Pound",353
+"2688","Sauteed Kale","",4.1,"Pound",353
+"2691","O'Brien Potatoes","",1.2,"Pound",354
+"2692","Meat Sauce","",3.6,"Pound",354
+"2693","Marinara Sauce","",7.6,"Pound",354
+"2694","Chef's Choice Pasta du Jour","",4,"Pound",354
+"2695","Salad Bar Waste Module","",7.1,"Pound",354
+"2698","Deli Bar Waste Module","",7,"Pound",354
+"2699","BBQ Baked Beans","",5.5,"Pound",364
+"2700","Chef's Choice Pasta du Jour","",5.6,"Pound",364
+"2701","Marinara Sauce","",1.2,"Pound",364
+"2702","Meat Sauce","",1.5,"Pound",364
+"2704","Honey Glazed Roasted Carrots","",6.2,"Pound",364
+"2705","Green Beans w/ Garlic","",6.2,"Pound",364
+"2706","Swedish Meatballs","",4.8,"Pound",364
+"2707","Salad Dressing Waste Module","",12,"Pound",364
+"2708","Frittata (basic)","",2,"Pound",365
+"2709","Salad Bar Waste Module","",15.4,"Pound",365
+"2710","Salad Dressing Waste Module","",4.4,"Pound",365
+"2711","Deli Bar Waste Module","",6.6,"Pound",365
+"2712","Beef Tender Picadillo","",5,"Pound",365
+"2713","Linguini w/ Roasted Tomatoes","",5.4,"Pound",365
+"2714","Steamed Broccoli","",2.6,"Pound",365
+"2715","Marinara Sauce","",6.6,"Pound",365
+"2717","Boneless Chicken Romano","",5.2,"Pound",365
+"2718","Chef's Choice Pasta du Jour","",3.8,"Pound",365
+"2719","Frittata (basic)","",5,"Pound",366
+"2720","Frittata (basic)","",10,"Pound",366
+"2721","Pork Sausage Links","",7,"Pound",366
+"2723","Oatmeal Hot Cereal","",1,"Pound",366
+"2724","White Bean & Butternut Stew","",5,"Pound",366
+"2725","Baked Beans","",4.2,"Pound",366
+"2726","Creamy Spinach & Sun Dried Tom","",3.8,"Pound",366
+"2727","Fresh Roasted Carrots","",3,"Pound",366
+"2728","Meat Sauce","",6.1,"Pound",366
+"2729","Chef's Choice Pasta du Jour","",4,"Pound",366
+"2730","Ranch Roasted Potatoes","",5,"Pound",366
+"2731","Ranch Roasted Potatoes","",5,"Pound",366
+"2732","Grilled Hot Dogs","",10,"Pound",366
+"2736","Crinkle Cut Fries","",2,"Pound",367
+"2737","Crinkle Cut Fries","",2,"Pound",367
+"2739","Deli Bar Waste Module","",5.6,"Pound",367
+"2740","Salad Dressing Waste Module","",3,"Pound",367
+"2741","Salad Bar Waste Module","",5.5,"Pound",367
+"2742","Meat Sauce","",2,"Pound",367
+"2743","Spanish Rice","",4,"Pound",367
+"2746","Sauteed Pork Cutlet","",7.4,"Pound",368
+"2747","BBQ Chicken Drumsticks","",19.6,"Pound",368
+"2748","Vegan Mongolian Stir Fry","",5.2,"Pound",368
+"2749","Red Petite Potatoes w/Dill","",16.4,"Pound",368
+"2750","Roasted Root Vegetables","",5,"Pound",368
+"2751","Tokyo Noodles","",11.4,"Pound",368
+"2752","Curried Sweet Potato and Apple","",14.4,"Pound",368
+"2753","Marinara Sauce","",4.8,"Pound",368
+"2754","Meat Sauce","",5.6,"Pound",368
+"2755","Chef's Choice Pasta du Jour","",8.2,"Pound",368
+"2756","Cheese Stuffed Italian Meatloa","",2.3,"Pound",371
+"2757","Honey Barbeque Chicken Thighs","",3.3,"Pound",371
+"2758","Sauteed Vegetable Medley","",2.1,"Pound",371
+"2759","White Rice","",4,"Pound",371
+"2760","Smashed Yukon Gold Potatoes","",5.2,"Pound",371
+"2761","Baked Ziti","",3.6,"Pound",371
+"2762","Meatballs with Marinara","",2.3,"Pound",371
+"2763","Chef's Choice Pasta du Jour","",2.7,"Pound",371
+"2764","Marinara Sauce","",1.2,"Pound",371
+"2765","Meat Sauce","",1.7,"Pound",371
+"2766","Chef's Choice Pasta du Jour","",2,"Pound",372
+"2767","Linguini  with White Beans, Ga","",3,"Pound",372
+"2768","Basmati Rice","",4,"Pound",372
+"2769","Mashed Potatoes","",5,"Pound",372
+"2770","Scrod w/ Fresh Dill","",2,"Pound",372
+"2771","Yankee Pot Roast","",2,"Pound",372
+"2772","Parslied Carrots","",4,"Pound",372
+"2773","Meat Sauce","",4,"Pound",372
+"2774","Corn","",6,"Pound",372
+"2775","Marinara Sauce","",7,"Pound",372
+"2776","Salad Bar Waste Module","",12.2,"Pound",372
+"2777","Salad Dressing Waste Module","",4.2,"Pound",372
+"2778","Banana Pancakes","",4.6,"Pound",373
+"2779","French Toast Stix","",3.8,"Pound",373
+"2780","Greek Rice Pilaf","",8,"Pound",373
+"2781","Yankee Pot Roast","",3,"Pound",372
+"2782","Marinara Sauce","",1,"Pound",373
+"2783","Meat Sauce","",1,"Pound",373
+"2784","Chef's Choice Pasta du Jour","",1.1,"Pound",373
+"2788","Straight Cut French Fries","",1.5,"Pound",373
+"2789","Meat Sauce","",2,"Pound",373
+"2790","Meat Sauce","",2,"Pound",373
+"2792","Chef's Choice Pasta du Jour","",3,"Pound",373
+"2793","White Rice","",1,"Pound",373
+"2794","Roasted Butternut Squash","",3.1,"Pound",373
+"2795","Sauteed Mushrooms","",1.3,"Pound",373
+"2796","Roasted Yukon Golds","",3.3,"Pound",373
+"2797","Sauteed Beef Tips","",6.7,"Pound",373
+"2804","Meat Sauce","",2,"Pound",375
+"2805","Shrimp Jambalaya","",3.6,"Pound",375
+"2807","Salad Bar Waste Module","",17,"Pound",375
+"2808","Chef's Choice Pasta du Jour","",2.5,"Pound",375
+"2810","Grilled Chicken Cutlet","",6,"Pound",375
+"2813","Roasted Vegetable Pasta","",6.5,"Pound",375
+"2814","Roasted Vegetable Pasta","",6.5,"Pound",375
+"2816","Breakfast Potatoes","",3.2,"Pound",376
+"2817","Frittata (basic)","",1.9,"Pound",376
+"2818","Eggplant Caponata","",2.1,"Pound",376
+"2819","Marinara Sauce","",2.8,"Pound",376
+"2820","Rice Florentine","",1.8,"Pound",376
+"2821","Meat Sauce","",2.4,"Pound",376
+"2822","Chef's Choice Pasta du Jour","",0.9,"Pound",376
+"2824","Shrimp Jambalaya","",3.2,"Pound",375
+"2826","Marinara Sauce","",2.3,"Pound",376
+"2827","Roasted Garlic Potatoes","",2,"Pound",376
+"2828","Steamed Broccoli","",0.9,"Pound",376
+"2830","Salad Bar Waste Module","",16.8,"Pound",376
+"2831","Salad Dressing Waste Module","",9.4,"Pound",376
+"2832","Very Berry Topping","",4.4,"Pound",378
+"2836","Corn","",2,"Pound",378
+"2837","Eggplant Parmesan","",0.3,"Pound",378
+"2838","Chef's Choice Pasta du Jour","",2.2,"Pound",378
+"2839","Zucchini Medley","",2.8,"Pound",378
+"2840","Garden Blend Rice","",3.6,"Pound",378
+"2843","Chef's Choice Pasta du Jour","",0.5,"Pound",378
+"2844","Meat Sauce","",1.4,"Pound",378
+"2845","Marinara Sauce","",1.7,"Pound",379
+"2847","Straight Cut French Fries","",1.2,"Pound",378
+"2848","Onion Rye Loaf","",0.8,"Pound",377
+"2852","Salad Dressing Waste Module","",5,"Pound",379
+"2853","Salad Bar Waste Module","",4,"Pound",379
+"2854","Basmati Rice","",3,"Pound",379
+"2855","Roasted Yukon Golds","",3,"Pound",379
+"2856","Chef's Choice Pasta du Jour","",0.9,"Pound",379
+"2857","Meat Sauce","",1,"Pound",379
+"2858","Marinara Sauce","",1.1,"Pound",379
+"2862","Mashed Potatoes","",4,"Pound",380
+"2863","White Rice","",4,"Pound",380
+"2866","Marinara Sauce","",1.5,"Pound",380
+"2867","Meat Sauce","",1.7,"Pound",380
+"2868","Chef's Choice Pasta du Jour","",3,"Pound",380
+"2869","Roasted Yukon Golds","",2.1,"Pound",380
+"2870","BBQ Kansas City Pork Spare Rib","",4,"Pound",381
+"2872","Parslied Carrots","",3,"Pound",381
+"2874","Frittata (basic)","",2.4,"Pound",383
+"2875","Banana Pancakes","",2.4,"Pound",383
+"2876","Oatmeal Hot Cereal","",7.3,"Pound",383
+"2881","Straight Cut French Fries","",0.5,"Pound",384
+"2883","Green Beans","",1.2,"Pound",384
+"2884","Roasted Cauliflower","",1.6,"Pound",384
+"2885","Rice Pilaf","",2.2,"Pound",384
+"2887","Tofu Parmesan","",18,"Pound",384
+"2888","Chef's Choice Pasta du Jour","",0.5,"Pound",384
+"2889","Marinara Sauce","",2.5,"Pound",384
+"2890","Meat Sauce","",2.6,"Pound",384
+"2892","Mashed Potatoes","",8.4,"Pound",385
+"2893","Peas","",0.3,"Pound",385
+"2894","Roasted Root Vegetables","",4,"Pound",385
+"2898","Chef's Choice Pasta du Jour","",1.6,"Pound",385
+"2899","Meat Sauce","",1.7,"Pound",385
+"2900","Salad Bar Waste Module","",27.4,"Pound",385
+"2901","Grilled Chicken Cutlet","",2,"Pound",387
+"2912","Salad Bar Waste Module","",10,"Pound",388
+"2913","Salad Dressing Waste Module","",4,"Pound",388
+"2917","Country Style Hash Browns","",2.8,"Pound",389
+"2919","Roasted Cardamom Pineapple","",2.4,"Pound",389
+"2920","Steamed Broccoli","",1.6,"Pound",389
+"2921","Chef's Choice Pasta du Jour","",2.8,"Pound",389
+"2922","Meat Sauce","",2.5,"Pound",389
+"2923","Marinara Sauce","",1.2,"Pound",389
+"2924","Basmati Rice","",4,"Pound",389
+"2925","White Rice","",4,"Pound",389
+"2926","Salad Dressing Waste Module","",2,"Pound",389
+"2927","Salad Bar Waste Module","",3.5,"Pound",389
+"2931","Marinara Sauce","",1,"Pound",390
+"2932","Meat Sauce","",1,"Pound",390
+"2933","Vegan Sweet & Sour Tempeh","",1.5,"Pound",390
+"2935","Spanish Arroz Amarillo","",3,"Pound",390
+"2937","Deli Bar Waste Module","",5.8,"Pound",390
+"2938","Salad Bar Waste Module","",12.6,"Pound",390
+"2944","Honey Glazed Roasted Carrots","",5.1,"Pound",392
+"2945","Meat Sauce","",5.5,"Pound",392
+"2946","Marinara Sauce","",5.7,"Pound",392
+"2947","Marinara Sauce","",5.7,"Pound",392
+"2948","Swedish Meatballs","",6.5,"Pound",392
+"2949","Parsley Noodles","",1.6,"Pound",392
+"2950","Honey Glazed Roasted Carrots","",2.4,"Pound",392
+"2951","Green Beans w/ Garlic","",2.1,"Pound",392
+"2954","BBQ Baked Beans","",2.6,"Pound",392
+"2955","Salad Bar Waste Module","",2.7,"Pound",392
+"2956","Salad Dressing Waste Module","",7,"Pound",392
+"2957","White Rice","",4.3,"Pound",392
+"2958","Deli Bar Waste Module","",4,"Pound",392
+"2959","Beef Tender Picadillo","",2.7,"Pound",393
+"2960","Roasted Yukon Golds","",3.6,"Pound",393
+"2961","Basmati Rice","",3.5,"Pound",393
+"2962","Linguini w/ Roasted Tomatoes","",2,"Pound",393
+"2963","Chef's Choice Pasta du Jour","",1.2,"Pound",393
+"2964","Marinara Sauce","",1.7,"Pound",393
+"2965","Meat Sauce","",3.4,"Pound",393
+"2966","Salad Bar Waste Module","",20.6,"Pound",393
+"2967","Salad Dressing Waste Module","",3,"Pound",393
+"2968","Deli Bar Waste Module","",11.6,"Pound",393
+"2974","Marinara Sauce","",2,"Pound",394
+"2975","Mashed Potatoes","",4.5,"Pound",394
+"2976","Chef's Choice Pasta du Jour","",3.6,"Pound",394
+"2979","Shoestring Fries","",0.5,"Pound",394
+"2982","White Rice","",5.8,"Pound",394
+"2983","Marinara Sauce","",2,"Pound",394
+"2984","Salad Dressing Waste Module","",3.2,"Pound",394
+"2985","Salad Bar Waste Module","",7,"Pound",394
+"2986","Flour Tortillas","",4.3,"Pound",395
+"2987","Spanish Rice","",6,"Pound",395
+"2989","Vegan Steak Tacos","",1,"Pound",395
+"2990","Chef's Choice Pasta du Jour","",3,"Pound",395
+"2991","Meat Sauce","",2,"Pound",395
+"2992","Marinara Sauce","",1,"Pound",395
+"2993","Nacho Cheese Sauce","",3,"Pound",395
+"2994","Apple Pancakes","",10,"Pound",396
+"2995","Fried Hash Brown Patties","",10,"Pound",396
+"2996","Fried Hash Brown Patties","",10,"Pound",396
+"2997","Fried Hash Brown Patties","",10,"Pound",396
+"2998","Fried Hash Brown Patties","",10,"Pound",396
+"2999","Fried Hash Brown Patties","",10,"Pound",396
+"3000","Fried Hash Brown Patties","",10,"Pound",396
+"3001","Frittata (basic)","",4,"Pound",396
+"3002","Frittata (basic)","",4,"Pound",396
+"3003","Marinara Sauce","",1.2,"Pound",396
+"3004","Meat Sauce","",1.2,"Pound",396
+"3005","Mashed Potatoes","",2,"Pound",396
+"3006","Peas","",0.9,"Pound",396
+"3007","Turkey Gravy","",3,"Pound",396
+"3009","Curried Sweet Potato and Apple","",2,"Pound",396
+"3010","Chef's Choice Pasta du Jour","",0.9,"Pound",396
+"3011","Red Petite Potatoes w/Dill","",2,"Pound",396
+"3012","Tokyo Noodles","",1.1,"Pound",396
+"3014","Roasted Root Vegetables","",1.5,"Pound",396
+"3018","Baked Beans","",4.5,"Pound",397
+"3019","Buffalo Strips","",6.3,"Pound",397
+"3020","Cheddar Biscuits","",15,"Pound",397
+"3022","Steamed Broccoli","",6,"Pound",397
+"3024","Meat Sauce","",3,"Pound",397
+"3025","Marinara Sauce","",3,"Pound",397
+"3026","Chef's Choice Pasta du Jour","",1.1,"Pound",397
+"3028","Crinkle Cut Fries","",1,"Pound",400
+"3029","Grilled Hot Dogs","",2,"Pound",400
+"3031","Basmati Rice","",10,"Pound",400
+"3032","Mashed Potatoes","",18,"Pound",400
+"3033","Yankee Pot Roast","",11.3,"Pound",400
+"3034","Parslied Carrots","",7.4,"Pound",400
+"3035","Corn","",10.5,"Pound",400
+"3036","Linguini  with White Beans, Ga","",8.9,"Pound",400
+"3037","Chef's Choice Pasta du Jour","",7.5,"Pound",400
+"3038","Marinara Sauce","",4.1,"Pound",400
+"3039","Meat Sauce","",10.5,"Pound",400
+"3041","French Toast Stix","",2.5,"Pound",401
+"3042","Greek Rice Pilaf","",2,"Pound",401
+"3043","Greek Rice Pilaf","",2,"Pound",401
+"3044","Marinara Sauce","",1,"Pound",401
+"3045","Meat Sauce","",1.1,"Pound",401
+"3046","Yankee Pot Roast","",1,"Pound",400
+"3048","Straight Cut French Fries","",1.5,"Pound",401
+"3052","White Rice","",3.2,"Pound",401
+"3053","Marinara Sauce","",6,"Pound",401
+"3054","Meat Sauce","",5.2,"Pound",401
+"3055","Roasted Butternut Squash","",3,"Pound",401
+"3056","Roasted Yukon Golds","",5,"Pound",401
+"3058","Frittata (basic)","",1,"Pound",402
+"3060","Oatmeal Hot Cereal","",18.2,"Pound",402
+"3061","Chef's Choice Pasta du Jour","",7.4,"Pound",402
+"3063","Vegetable Lo Mein","",1,"Pound",402
+"3064","Meat Sauce","",4.1,"Pound",402
+"3065","Marinara Sauce","",3.3,"Pound",402
+"3066","Chef's Choice Pasta du Jour","",4.2,"Pound",402
+"3067","Veggie Medley","",5.1,"Pound",402
+"3068","Corn","",6.9,"Pound",402
+"3069","Pulled Pork","",8.7,"Pound",402
+"3070","Rice & Orzo Pilaf","",13.4,"Pound",402
+"3071","BBQ Baked Beans","",12,"Pound",402
+"3072","Oatmeal Hot Cereal","",2.2,"Pound",403
+"3075","Mini Potato Pancakes","",1.2,"Pound",403
+"3076","Rotini w/ Vegetables & Roasted","",9.2,"Pound",403
+"3077","Peach Cobbler","",3,"Pound",403
+"3078","Meat Sauce","",1.4,"Pound",403
+"3079","Sauteed Peppers","",3,"Pound",403
+"3080","Corn","",5.8,"Pound",403
+"3081","Sauteed Onions","",0.2,"Pound",403
+"3082","White Rice","",5.2,"Pound",403
+"3083","Cheese Sauce","",5,"Pound",403
+"3084","Shaved Steak for Sandwich","",6.8,"Pound",403
+"3085","White Rice","",8.2,"Pound",403
+"3086","White Rice","",16,"Pound",403
+"3087","Shrimp Jambalaya","",7.8,"Pound",403
+"3088","Mashed Red Potatoes with Garli","",8.9,"Pound",403
+"3089","Meat Sauce","",3,"Pound",403
+"3090","Marinara Sauce","",2.5,"Pound",403
+"3091","Chicken Fricassee w/ Dumplings","",3,"Pound",403
+"3093","Salad Bar Waste Module","",23.8,"Pound",404
+"3094","Salad Dressing Waste Module","",6.2,"Pound",404
+"3097","Crinkle Cut Fries","",2,"Pound",405
+"3104","Straight Cut French Fries","",2.6,"Pound",406
+"3105","Corn","",6.2,"Pound",406
+"3106","Gingered Sweet Potatoes","",13.7,"Pound",406
+"3112","Green Beans w/ Garlic","",2.3,"Pound",407
+"3113","Meat Sauce","",1.3,"Pound",407
+"3115","Pork Stew with Fennel & Butter","",11.6,"Pound",407
+"3116","Deli Bar Waste Module","",6.4,"Pound",407
+"3117","Basmati Rice","",12,"Pound",407
+"3119","Salad Bar Waste Module","",17.3,"Pound",407
+"3120","Grilled Cheese","",2,"Pound",407
+"3121","Hamburger No Bun","",3,"Pound",407
+"3122","Grilled Hot Dogs","",3,"Pound",407
+"3123","Oatmeal Hot Cereal","",16,"Pound",408
+"3124","Frittata (basic)","",3.6,"Pound",408
+"3125","Breakfast Potatoes","",5.6,"Pound",408
+"3128","Crinkle Cut Fries","",2,"Pound",408
+"3132","Meat Sauce","",1.5,"Pound",408
+"3133","White Rice","",2,"Pound",408
+"3134","Stove Top Stuffing","",1.3,"Pound",408
+"3135","Salad Dressing Waste Module","",5,"Pound",408
+"3136","Deli Bar Waste Module","",6.4,"Pound",408
+"3137","Buttermilk Pancakes","",45,"Pound",476
+"3138","French Toast","",15,"Pound",476
+"3139","Banana Bread","",24,"Pound",476
+"3145","Cheese Ravioli","",10,"Pound",476
+"3146","Grilled Havana Chicken w/ Avoc","",5.2,"Pound",476
+"3147","Roasted Red Potatoes","",7.6,"Pound",476
+"3148","Green Beans w/ Garlic","",5.4,"Pound",476
+"3149","Chef's Choice Pasta du Jour","",4.4,"Pound",476
+"3150","Meat Sauce","",3.8,"Pound",476
+"3151","Meat Sauce","",3.8,"Pound",476
+"3152","Marinara Sauce","",4.6,"Pound",476
+"3153","Honey Glazed Roasted Carrots","",11,"Pound",476
+"3154","Veggie Muffuletta","",21,"Pound",476
+"3155","Mashed Potatoes","",50,"Pound",476
+"3156","Swedish Meatballs","",2.8,"Pound",476
+"3157","Broccoli Macaroni & Cheese","",4.2,"Pound",476
+"3158","Honey Glazed Roasted Carrots","",6,"Pound",476
+"3159","Mashed Potatoes","",14,"Pound",476
+"3160","Chef's Choice Pasta du Jour","",10,"Pound",476
+"3161","Marinara Sauce","",2.6,"Pound",476
+"3162","Meat Sauce","",6,"Pound",476
+"3163","Salad Bar Waste Module","",8,"Pound",476
+"3168","Salad Dressing Waste Module","",2.3,"Pound",476
+"3169","Buttermilk Pancakes","",82,"Pound",477
+"3171","Scrambled Eggs","",25,"Pound",477
+"3180","Grilled Hot Dogs","",3,"Pound",477
+"3183","Meat Sauce","",0.5,"Pound",477
+"3184","Linguini w/ Roasted Tomatoes","",0.2,"Pound",477
+"3186","Salad Dressing Waste Module","",14,"Pound",477
+"3188","Country Style Hash Browns","",10,"Pound",478
+"3196","Cross Trax French Fries","",2,"Pound",478
+"3202","Fried Tater Tots","",3,"Pound",478
+"3203","Salad Dressing Waste Module","",5.5,"Pound",478
+"3204","Salad Bar Waste Module","",11.2,"Pound",478
+"3213","Mashed Potatoes","",8,"Pound",479
+"3214","White Bean & Butternut Stew","",5,"Pound",479
+"3215","Grilled Chicken Cutlet","",1,"Pound",479
+"3216","Grilled Chicken Cutlet","",1,"Pound",479
+"3217","Salad Bar Waste Module","",16,"Pound",479
+"3218","Salad Dressing Waste Module","",3,"Pound",479
+"3219","Salad Bar Waste Module","",16,"Pound",479
+"3234","Grilled Cheese","",2,"Pound",481
+"3237","Straight Cut French Fries","",2,"Pound",481
+"3238","Straight Cut French Fries","",2,"Pound",481
+"3239","Cheesy Scrambled Eggs","",9.8,"Pound",482
+"3240","Scrambled Eggs","",10,"Pound",482
+"3250","Grilled Chicken Cutlet","",7,"Pound",482
+"3258","Salad Bar Waste Module","",5,"Pound",482
+"3259","Salad Dressing Waste Module","",8,"Pound",482
+"3274","Smashed Yukon Gold Potatoes","",10,"Pound",483
+"3275","Vegetable Chili","",5.8,"Pound",483
+"3277","Meatballs with Marinara","",12.8,"Pound",483
+"3278","Baked Ziti","",5.8,"Pound",483
+"3279","Grilled Hot Dogs","",3,"Pound",483
+"3280","Grilled Cheese","",8,"Pound",483
+"3281","Hamburger No Bun","",26,"Pound",483
+"3282","Grilled Chicken Cutlet","",8,"Pound",483
+"3291","Wrap n' Roll Bar","",9.4,"Pound",484
+"3292","Pot Roast Potatoes","",6.8,"Pound",484
+"3293","Corn","",3.4,"Pound",484
+"3294","Yankee Pot Roast","",3.4,"Pound",484
+"3295","Basmati Rice","",1.6,"Pound",484
+"3296","Linguini  with White Beans, Ga","",3.4,"Pound",484
+"3305","Garlic Bread","",6.2,"Pound",485
+"3306","Lemon Butter Scrod","",7.4,"Pound",485
+"3307","Chef's Choice Pasta du Jour","",8.6,"Pound",485
+"3308","Grilled Chicken Cutlet","",2,"Pound",485
+"3309","Italian Grilled Vegetables","",0.4,"Pound",485
+"3310","Chef's Choice Pasta du Jour","",10.4,"Pound",485
+"3311","Roasted Yukon Golds","",13.6,"Pound",485
+"3312","Vegetarian Strudel","",5,"Pound",485
+"3313","Vegetarian Strudel","",5,"Pound",485
+"3314","Roasted Butternut Squash","",13.4,"Pound",485
+"3315","Chicken Chablis","",11.4,"Pound",485
+"3316","Sauteed Mushrooms","",7.4,"Pound",485
+"3317","White Rice","",11.8,"Pound",485
+"3318","Meat Sauce","",5.6,"Pound",485
+"3319","Marinara Sauce","",4.4,"Pound",485
+"3320","Sauteed Beef Tips","",25,"Pound",485
+"3321","Mac & Cheese Bar","",14.2,"Pound",485
+"3322","Scrambled Eggs","",7,"Pound",486
+"3323","Cheesy Scrambled Eggs","",7,"Pound",486
+"3324","Scrambled Egg Whites","",7,"Pound",486
+"3326","Baked Chicken Fillet Sandwich","",6.5,"Pound",486
+"3327","Cowboy Sausage & Sweet Molasse","",19,"Pound",486
+"3328","Tortellini with Roasted Pepper","",9,"Pound",486
+"3329","Sicilian Broccoli","",6.5,"Pound",486
+"3330","Basmati Rice","",12,"Pound",486
+"3331","Pasta Saute Bar","",1.5,"Pound",486
+"3332","BBQ Baked Beans","",0.9,"Pound",486
+"3333","Rice & Orzo Pilaf","",0.8,"Pound",486
+"3334","Corn","",1.6,"Pound",486
+"3335","Cheesy Scrambled Eggs","",3.1,"Pound",487
+"3336","Scrambled Eggs","",4.4,"Pound",487
+"3337","Pork Sausage Links","",4.6,"Pound",487
+"3338","Oatmeal Hot Cereal","",4.3,"Pound",487
+"3339","Buffalo Mac n' Chicken","",4.5,"Pound",487
+"3340","White Rice","",6.1,"Pound",487
+"3341","Chef's Choice Pasta du Jour","",3.4,"Pound",487
+"3342","Southwest Vegetable Wrap","",3.8,"Pound",487
+"3343","Sauteed Peppers","",1.3,"Pound",487
+"3344","Sauteed Onions","",1.3,"Pound",487
+"3345","Italian Sausage Links","",7.4,"Pound",487
+"3346","Meat Sauce","",2.3,"Pound",487
+"3347","Marinara Sauce","",2.7,"Pound",487
+"3348","Meatball Grinder","",8.9,"Pound",487
+"3349","Chipotle Ranch Grilled Chicken","",2,"Pound",487
+"3350","Roasted Vegetable Pasta","",3.3,"Pound",487
+"3351","Green Beans","",1,"Pound",487
+"3352","Slow Cooked Barbeque Beef Bris","",0.8,"Pound",487
+"3353","Chef's Choice Pasta du Jour","",1.4,"Pound",487
+"3354","Marinara Sauce","",0.4,"Pound",487
+"3361","Eggplant Caponata","",8,"Pound",488
+"3362","Green Beans","",4.5,"Pound",488
+"3363","Chef's Choice Pasta du Jour","",7.3,"Pound",488
+"3364","Penne & Sausage Abruzzi","",12,"Pound",488
+"3366","Buffalo Mac n' Chicken","",10,"Pound",488
+"3367","Steamed Broccoli","",4,"Pound",488
+"3368","Ranch Chicken Wings","",3,"Pound",488
+"3369","Ranch Chicken Wings","",3,"Pound",488
+"3370","Hard Boiled Eggs","",30,"Pound",489
+"3371","Sausage Patties","",15,"Pound",489
+"3372","Home Fries","",20,"Pound",489
+"3374","Scrambled Egg Whites","",10,"Pound",489
+"3377","Grilled Hot Dogs","",4,"Pound",489
+"3379","Grilled Chicken Cutlet","",5,"Pound",489
+"3383","Chef's Choice Pasta du Jour","",5,"Pound",489
+"3384","Marinara Sauce","",5,"Pound",489
+"3385","Meat Sauce","",7,"Pound",489
+"3386","Corn","",4,"Pound",489
+"3387","Rotini w/ Vegetables & Roasted","",9,"Pound",489
+"3390","Cheese Pizza","",9,"Pound",489
+"3391","Cheesy Scrambled Eggs","",10,"Pound",490
+"3392","Mini Potato Pancakes","",3,"Pound",490
+"3395","Scrambled Eggs","",10,"Pound",490
+"3406","Texas BBQ Beef Tender","",5.2,"Pound",490
+"3407","Chef's Choice Pasta du Jour","",3.2,"Pound",490
+"3408","Gingered Sweet Potatoes","",2.2,"Pound",490
+"3409","Deli Bar Waste Module","",5.8,"Pound",490
+"3410","Salad Dressing Waste Module","",8.5,"Pound",490
+"3411","Salad Bar Waste Module","",15,"Pound",490
+"3412","Salad Bar Waste Module","",15,"Pound",490
+"3414","Bacon","",10,"Pound",491
+"3415","Cheesy Scrambled Eggs","",5,"Pound",491
+"3416","Scrambled Egg Whites","",2,"Pound",491
+"3418","Scrambled Eggs","",15,"Pound",491
+"3419","Mini Potato Pancakes","",5,"Pound",491
+"3420","Hard Boiled Eggs","",10,"Pound",491
+"3422","Grilled Chicken Cutlet","",6,"Pound",492
+"3425","Mac & Cheese Bar","",9.7,"Pound",492
+"3426","Mac & Cheese Bar","",9.7,"Pound",492
+"3427","Mac & Cheese Bar","",9.7,"Pound",492
+"3428","Mac & Cheese Bar","",9.7,"Pound",492
+"3429","Mac & Cheese Bar","",9.7,"Pound",492
+"3430","Mac & Cheese Bar","",9.7,"Pound",492
+"3431","Mac & Cheese Bar","",9.7,"Pound",492
+"3432","Chicken Tacos","",8.4,"Pound",493
+"3433","Frijoles Refritos Con Queso","",8.6,"Pound",493
+"3434","Chef's Choice Pasta du Jour","",7.8,"Pound",493
+"3435","Marinara Sauce","",6,"Pound",493
+"3436","Meat Sauce","",6.8,"Pound",493
+"3437","Straight Cut French Fries","",6,"Pound",494
+"3438","Grilled Cheese","",1.8,"Pound",494
+"3444","Smoky Dogs with BBQ Peppers an","",5,"Pound",495
+"3446","Grilled Chicken Athena","",5.6,"Pound",495
+"3447","Basmati Rice","",5.6,"Pound",495
+"3448","Pork Cutlet Piccata","",6.4,"Pound",495
+"3450","Buttered Noodles","",5.8,"Pound",495
+"3451","Crispy Dijon Scrod","",3.8,"Pound",495
+"3452","Marinara Sauce","",7.4,"Pound",495
+"3453","Tuscan White Beans","",11.8,"Pound",495
+"3459","Scrambled Eggs","",15.4,"Pound",497
+"3460","Cheesy Scrambled Eggs","",9.6,"Pound",497
+"3474","Cider Braised Pot Roast","",2,"Pound",498
+"3481","Mac & Cheese Bar","",1,"Pound",499
+"3482","French Quarter Steak","",4,"Pound",499
+"3483","Bourbon & Black Strap Sweet Po","",2,"Pound",499
+"3484","Marinara Sauce","",2,"Pound",499
+"3485","Meat Sauce","",1,"Pound",499
+"3486","White Rice","",1,"Pound",499
+"3487","White Rice","",1,"Pound",499
+"3488","Breakfast Potatoes","",2.6,"Pound",500
+"3491","Cheesy Scrambled Eggs","",6.8,"Pound",500
+"3492","Scrambled Eggs","",6.8,"Pound",500
+"3493","Strawberry Topping","",1.6,"Pound",500
+"3494","Oatmeal Hot Cereal","",3.8,"Pound",500
+"3509","Roasted Red Potatoes","",3,"Pound",523
+"3510","Cross Trax French Fries","",3.2,"Pound",523
+"3513","Bacon Chili Cheese Burger","",10,"Pound",523
+"3515","French Toast Stix","",44,"Pound",524
+"3516","Banana Pancakes","",40,"Pound",524
+"3523","Hamburger No Bun","",8,"Pound",524
+"3525","Soup Bar","",8,"Pound",524
+"3526","Creole Rice & Beans","",8,"Pound",525
+"3527","Mashed Potatoes","",15,"Pound",525
+"3528","Marinara Sauce","",0.6,"Pound",525
+"3529","Peas","",3.2,"Pound",525
+"3531","Mashed Potatoes","",3,"Pound",525
+"3533","Hamburger No Bun","",5,"Pound",525
+"3535","Creole Rice & Beans","",4.8,"Pound",525
+"3536","Beer Battered Onion Rings","",1,"Pound",526
+"3539","White Rice","",1,"Pound",526
+"3540","Brown Gravy","",1,"Pound",526
+"3541","Cider Braised Pot Roast","",5,"Pound",526
+"3545","Tofu Marsala","",7.8,"Pound",528
+"3546","Sauteed Vegetable Medley","",4.2,"Pound",528
+"3547","Cuban Yellow Rice","",9,"Pound",528
+"3548","Cuban Pork Loin","",6.2,"Pound",528
+"3549","Salad Bar Waste Module","",17.4,"Pound",528
+"3550","Salad Dressing Waste Module","",5.8,"Pound",528
+"3551","Grilled Cheese","",9,"Pound",528
+"3552","Salad Dressing Waste Module","",5.8,"Pound",528
+"3553","Grilled Hot Dogs","",6,"Pound",528
+"3556","Deli Bar Waste Module","",9,"Pound",528
+"3557","White Rice","",7,"Pound",529
+"3558","Parslied Carrots","",2,"Pound",529
+"3571","White Rice","",6.6,"Pound",530
+"3572","Shrimp Quesadilla","",9.2,"Pound",530
+"3573","Stuffed Peppers w/ Couscous","",8,"Pound",530
+"3574","Spanish Arroz Amarillo","",9,"Pound",530
+"3575","Chicken Rustica","",3.8,"Pound",530
+"3576","Spanish Arroz Amarillo","",9,"Pound",530
+"3577","Autumn Medley","",0.1,"Pound",530
+"3578","Honey Roasted Parsnips & Sweet","",4,"Pound",530
+"3579","Meatballs with Marinara","",6.4,"Pound",530
+"3580","Spaghetti","",4.8,"Pound",530
+"3581","Marinara Sauce","",3,"Pound",530
+"3582","Grilled Hot Dogs","",5,"Pound",530
+"3583","Grilled Chicken Cutlet","",6,"Pound",530
+"3584","Hamburger No Bun","",1,"Pound",530
+"3586","Deli Bar Waste Module","",8,"Pound",530
+"3590","Straight Cut French Fries","",2,"Pound",531
+"3591","Roasted Yukon Golds","",3,"Pound",531
+"3592","Corn","",3.8,"Pound",531
+"3593","Meat Sauce","",1.8,"Pound",531
+"3594","Marinara Sauce","",5.8,"Pound",531
+"3595","Combo Rye Bread","",2.2,"Pound",531
+"3596","Breakfast Potatoes","",4,"Pound",532
+"3599","Salad Dressing Waste Module","",5.6,"Pound",532
+"3600","Salad Bar Waste Module","",21.2,"Pound",532
+"3601","Deli Bar Waste Module","",7.8,"Pound",532
+"3602","French Toast Stix","",6,"Pound",533
+"3604","Mini Potato Pancakes","",1.8,"Pound",533
+"3605","Blueberry Topping","",7.2,"Pound",533
+"3606","Hard Boiled Eggs","",4.8,"Pound",533
+"3607","Pulled Pork","",6,"Pound",533
+"3608","Grilled Chicken Cutlet","",6,"Pound",533
+"3611","Curley Fries","",1,"Pound",533
+"3612","Beef Tender Picadillo","",4.6,"Pound",533
+"3614","Basmati Rice","",12.4,"Pound",533
+"3615","Roasted Yukon Golds","",7.4,"Pound",533
+"3616","Steamed Broccoli","",4.8,"Pound",533
+"3617","Chef's Choice Pasta du Jour","",4,"Pound",533
+"3618","Marinara Sauce","",9.4,"Pound",533
+"3619","Meat Sauce","",3,"Pound",533
+"3620","Bean Enchilada","",4,"Pound",534
+"3621","Grilled Cheese","",11,"Pound",534
+"3622","Grilled Hot Dogs","",7,"Pound",534
+"3623","Grilled Cheese","",6,"Pound",536
+"3626","Curley Fries","",2,"Pound",538
+"3627","Grilled Hot Dogs","",3,"Pound",538
+"3629","Salad Bar Waste Module","",1.6,"Pound",538
+"3630","Salad Dressing Waste Module","",4,"Pound",538
+"3631","White Rice","",2,"Pound",538
+"3632","White Rice","",2,"Pound",538
+"3633","Marinara Sauce","",0.2,"Pound",538
+"3636","Home Fries","",1.2,"Pound",540
+"3637","Oatmeal Hot Cereal","",4.5,"Pound",540
+"3638","Salad Bar Waste Module","",15.8,"Pound",540
+"3639","Salad Dressing Waste Module","",3.6,"Pound",540
+"3649","Salad Dressing Waste Module","",2,"Pound",544
+"3650","Salad Bar Waste Module","",12.7,"Pound",545
+"3651","Salad Dressing Waste Module","",3.3,"Pound",545
+"3652","Puerto Rican Rice & Beans","",2,"Pound",545
+"3653","Nacho Bar","",4.5,"Pound",545
+"3654","Basmati Rice","",2,"Pound",545
+"3656","French Toast Stix","",15,"Pound",547
+"3657","Stir Fry Bar","",2,"Pound",548
+"3662","Crinkle Cut Fries","",1.9,"Pound",548
+"3664","Stove Top Stuffing","",9.6,"Pound",548
+"3665","Peas","",7.8,"Pound",548
+"3666","Turkey Gravy","",4.8,"Pound",548
+"3667","White Rice","",12,"Pound",548
+"3668","Meat Sauce","",7.8,"Pound",548
+"3669","Chef's Choice Pasta du Jour","",4,"Pound",548
+"3673","Parslied Carrots","",7.5,"Pound",549
+"3675","Grilled Hot Dogs","",10,"Pound",550
+"3679","Salad Dressing Waste Module","",11,"Pound",551
+"3680","Salad Bar Waste Module","",3.7,"Pound",551
+"3681","Crinkle Cut Fries","",0.5,"Pound",553
+"3686","Pork Gravy","",2,"Pound",553
+"3687","Mashed Potatoes","",8,"Pound",553
+"3689","Creole Rice & Beans","",2,"Pound",553
+"3694","Sloppy Joes on a Bun","",11.4,"Pound",556
+"3695","Tofu Marsala","",7.4,"Pound",556
+"3698","Cuban Pork Loin","",9.4,"Pound",556
+"3699","Chef's Choice Pasta du Jour","",4.6,"Pound",560
+"3700","Breakfast Potatoes","",5.8,"Pound",560
+"3703","Hamburger No Bun","",8,"Pound",560
+"3709","Sauteed Onions","",3.2,"Pound",561
+"3710","Sauteed Peppers","",2.4,"Pound",561
+"3711","Black Beans & Rice","",2,"Pound",562
+"3712","Ranch Roasted Potatoes","",2,"Pound",562
+"3714","Beef For French Dip Sandwich","",20,"Pound",562
+"3717","Straight Cut French Fries","",4.5,"Pound",565
+"3725","Breakfast Potatoes","",4.3,"Pound",567
+"3733","Mashed Potatoes","",4,"Pound",568
+"3734","Basmati Rice","",2,"Pound",568
+"3735","Salad Dressing Waste Module","",4,"Pound",568
+"3736","Salad Bar Waste Module","",19.2,"Pound",568
+"3738","Straight Cut French Fries","",3,"Pound",569
+"3741","Grilled Chicken Cutlet","",3,"Pound",569
+"3742","Chicken Chablis","",2.2,"Pound",569
+"3744","Roasted Butternut Squash","",8.4,"Pound",569
+"3745","White Rice","",9.2,"Pound",569
+"3746","Chef's Choice Pasta du Jour","",5.2,"Pound",569
+"3747","Meat Sauce","",5.8,"Pound",569
+"3749","Fried Hash Brown Patties","",0.5,"Pound",570
+"3751","Corn","",2.5,"Pound",570
+"3752","Chefs Choice Pasta du Jour","",5,"Pound",570
+"3753","Rice & Orzo Pilaf","",10,"Pound",570
+"3754","Vegetable Lo Mein","",15,"Pound",570
+"3755","Vegan Tortellini","",5,"Pound",570
+"3756","Marinara Sauce","",3,"Pound",570
+"3757","Meat Sauce","",3,"Pound",570
+"3759","Frittata (basic)","",10,"Pound",571
+"3762","Salad Dressing Waste Module","",0.7,"Pound",574
+"3763","Salad Bar Waste Module","",2,"Pound",574
+"3765","Texas BBQ Beef Tender","",3.4,"Pound",574
+"3766","Garden Blend Rice","",11.6,"Pound",574
+"3767","Corn","",4.8,"Pound",574
+"3769","Marinara Sauce","",5.4,"Pound",574
+"3770","Meat Sauce","",3.2,"Pound",574
+"3771","Chefs Choice Pasta du Jour","",6.2,"Pound",574
+"3776","Straight Cut French Fries","",3,"Pound",575
+"3778","Deli Bar Waste Module","",5,"Pound",575
+"3780","Turkey Gravy","",2,"Pound",576
+"3781","Salad Bar Waste Module","",12.2,"Pound",576
+"3782","Salad Dressing Waste Module","",4,"Pound",576
+"3783","Breakfast Potatoes","",6,"Pound",577
+"3784","Frittata (basic)","",1,"Pound",577
+"3785","Blueberry Pancakes","",0,"Pound",577
+"3787","Lentil Taco in a Hard Shell","",4.2,"Pound",577
+"3788","Frijoles Refritos Con Queso","",11.8,"Pound",577
+"3793","Oatmeal Hot Cereal","",6.5,"Pound",578
+"3794","Frittata (basic)","",2.2,"Pound",578
+"3795","Salad Dressing Waste Module","",10,"Pound",578
+"3796","Salad Bar Waste Module","",15,"Pound",578
+"3797","Corn","",1,"Pound",578
+"3798","Chefs Choice Pasta du Jour","",6,"Pound",578
+"3799","Fresh Cut Zucchini","",2,"Pound",578
+"3800","General Tsos Chicken","",3,"Pound",578
+"3801","Marinara Sauce","",2.5,"Pound",578
+"3802","Meat Sauce","",3,"Pound",578
+"3803","Roasted Red Dill Potatoes","",0.5,"Pound",578
+"3804","Veggie Strip Stir Fry","",5,"Pound",578
+"3805","White Rice","",2,"Pound",578
+"3808","Creole Rice & Beans","",6,"Pound",581
+"3809","Baked Pork Chops","",2,"Pound",581
+"3810","Mashed Potatoes","",5,"Pound",581
+"3811","Marinara Sauce","",1,"Pound",581
+"3812","Peas","",5,"Pound",581
+"3814","Crinkle Cut Fries","",2,"Pound",581
+"3815","Dr. Praegers Burger w/ Bun","",2,"Pound",581
+"3817","Grilled Cheese","",9,"Pound",581
+"3825","Home Fries","",1,"Pound",584
+"3830","Cuban Pork Loin","",10,"Pound",584
+"3831","Meat Sauce","",5,"Pound",584
+"3832","Corn","",6,"Pound",584
+"3833","Pasta Saute Bar","",5,"Pound",584
+"3834","Sauteed Vegetable Medley","",4,"Pound",584
+"3835","Cuban Yellow Rice","",8,"Pound",584
+"3836","Frittata (basic)","",2,"Pound",585
+"3837","Frittata (basic)","",2,"Pound",585
+"3841","Grilled Hot Dogs","",1,"Pound",585
+"3844","Salad Dressing Waste Module","",7,"Pound",585
+"3845","Salad Dressing Waste Module","",5.2,"Pound",585
+"3846","Vegetable Korma","",2,"Pound",585
+"3862","Beer Battered Onion Rings","",1,"Pound",588
+"3867","Oatmeal Hot Cereal","",5.2,"Pound",590
+"3868","Roasted Summer Vegetables","",28,"Pound",590
+"3869","Mashed Potatoes","",22,"Pound",590
+"3875","Breakfast Potatoes","",3,"Pound",591
+"3876","Basmati Rice Pilaf","",14.2,"Pound",591
+"3877","Kapusta & Noodles","",6.8,"Pound",591
+"3878","Salad Dressing Waste Module","",15.5,"Pound",591
+"3879","Deli Bar Waste Module","",7.4,"Pound",591
+"3882","Crinkle Cut Fries","",15,"Pound",591
+"3884","Grilled Chicken Cutlet","",10,"Pound",591
+"3885","Beef Brisket Tacos","",5.2,"Pound",591
+"3886","Lentil Taco in a Hard Shell","",6.6,"Pound",591
+"3887","Spanish Rice","",11,"Pound",591
+"3889","Chefs Choice Pasta du Jour","",6,"Pound",591
+"3890","Meat Sauce","",2.6,"Pound",591
+"3891","Marinara Sauce","",4.8,"Pound",591
+"3894","Marinara Sauce","",1,"Pound",592
+"3907","Steamed Broccoli","",1,"Pound",593
+"3908","White Rice","",3,"Pound",594
+"3910","Chicken Piccata","",5,"Pound",594
+"3911","Marinara Sauce","",6,"Pound",594
+"3913","Roasted Garlic Potatoes","",10,"Pound",594
+"3914","Meat Sauce","",5,"Pound",594
+"3915","Gingered Green Beans and Carrots","",4,"Pound",594
+"3916","Curley Fries","",2,"Pound",594
+"3921","Salad Bar Waste Module","",16.6,"Pound",595
+"3922","Salad Dressing Waste Module","",7.8,"Pound",595
+"3924","Green Beans and Tomatoes","",1,"Pound",596
+"3925","Home Fries","",25,"Pound",596
+"3927","Basmati Rice","",5,"Pound",596
+"3928","Brown Gravy","",2,"Pound",596
+"3929","Corn","",5,"Pound",596
+"3930","Linguini  with White Beans, Garlic & Herbs","",15,"Pound",596
+"3931","Mashed Potatoes","",10,"Pound",596
+"3932","Yankee Pot Roast","",10,"Pound",596
+"3933","Chefs Choice Pasta du Jour","",6,"Pound",596
+"3935","Grilled Chicken Cutlet","",6,"Pound",596
+"3936","Grilled Hot Dogs","",7,"Pound",596
+"3938","Salad Dressing Waste Module","",2.4,"Pound",596
+"3939","Salad Bar Waste Module","",10,"Pound",596
+"3944","Straight Cut French Fries","",2,"Pound",597
+"3946","Sauteed Beef Tips","",5.3,"Pound",597
+"3947","Chicken Chablis","",4.2,"Pound",597
+"3948","Vegetarian Strudel","",3.8,"Pound",597
+"3949","Roasted Yukon Golds","",2.4,"Pound",597
+"3950","White Rice","",13.6,"Pound",597
+"3951","Roasted Butternut Squash","",7.6,"Pound",597
+"3952","Chefs Choice Pasta du Jour","",4.2,"Pound",597
+"3953","Sauteed Mushrooms","",0.4,"Pound",597
+"3954","Marinara Sauce","",2.8,"Pound",597
+"3955","Meat Sauce","",5.6,"Pound",597
+"3958","Rice & Orzo Pilaf","",8.6,"Pound",598
+"3959","BBQ Baked Beans","",5.8,"Pound",598
+"3960","Pulled Pork","",11.8,"Pound",598
+"3961","Pork Sausage Links","",2.6,"Pound",599
+"3963","Mini Potato Pancakes","",1.9,"Pound",599
+"3971","Strawberry Pancakes","",1.6,"Pound",600
+"3977","Cross Trax French Fries","",1,"Pound",600
+"3983","Corned Beef Hash","",8.4,"Pound",601
+"3987","Meat Sauce","",6,"Pound",601
+"3990","Puerto Rican Rice & Beans","",6,"Pound",601
+"3992","Corn","",4.2,"Pound",602
+"3993","Grilled Chicken Bella","",2.4,"Pound",602
+"3994","Garden Blend Rice","",12,"Pound",602
+"3997","Potato Bar Toppings","",8.6,"Pound",602
+"3998","Chefs Choice Pasta du Jour","",1.6,"Pound",602
+"3999","Meat Sauce","",0.5,"Pound",602
+"4000","Marinara Sauce","",8.6,"Pound",602
+"4002","Southwest Caesar Grain Salad","",5,"Pound",603
+"4010","Salad Dressing Waste Module","",7.6,"Pound",603
+"4011","Salad Bar Waste Module","",16.6,"Pound",603
+"4012","Deli Bar Waste Module","",14.7,"Pound",603
+"4014","Chicken Tacos","",23.2,"Pound",605
+"4019","Shoestring Fries","",2,"Pound",605
+"4026","Cheese Sauce","",6.2,"Pound",606
+"4027","Sauteed Peppers","",3.6,"Pound",606
+"4028","Scalloped Potatoes","",7.2,"Pound",606
+"4029","General Tsos Chicken","",11.2,"Pound",606
+"4031","Veggie Strip Stir Fry","",5.8,"Pound",606
+"4032","Corn","",9.2,"Pound",606
+"4033","Fresh Cut Zucchini","",9.6,"Pound",606
+"4034","Marinara Sauce","",6.2,"Pound",606
+"4035","Meat Sauce","",5,"Pound",606
+"4036","Chefs Choice Pasta du Jour","",7,"Pound",606
+"4037","Chefs Choice Pasta du Jour","",7,"Pound",606
+"4039","Chef's Choice Pasta du Jour","",2,"Pound",617
+"4041","Falafel w/ Tahini","",4,"Pound",617
+"4042","Meat Sauce","",2,"Pound",617
+"4043","Beef Tender Picadillo","",10,"Pound",617
+"4045","Chefs Choice Pasta du Jour","",6,"Pound",617
+"4046","Grilled Chicken Cutlet","",5,"Pound",617
+"4047","Grilled Cheese","",4,"Pound",617
+"4049","Curley Fries","",4,"Pound",617
+"4050","Basmati Rice","",2,"Pound",617
+"4054","Oatmeal Hot Cereal","",8.2,"Pound",618
+"4055","Cream of Wheat","",7.6,"Pound",618
+"4059","Red Petite Potatoes w/Dill","",13,"Pound",620
+"4060","Roasted Root Vegetables","",5,"Pound",620
+"4061","Vegan Mongolian Stir Fry","",6,"Pound",620
+"4062","Vegan Mongolian Stir Fry","",6,"Pound",620
+"4063","Roasted Root Vegetables","",4.8,"Pound",620
+"4064","Salad Bar Waste Module","",5.8,"Pound",622
+"4065","Salad Dressing Waste Module","",4.1,"Pound",622
+"4068","Vegan Pepper Steak Stir Fry","",2.8,"Pound",624
+"4079","Brown Gravy","",11,"Pound",624
+"4081","Basmati Rice","",4,"Pound",626
+"4082","Corn","",30,"Pound",626
+"4083","Sticky Rice","",4.7,"Pound",626
+"4084","Rice & Orzo Pilaf","",2.2,"Pound",626
+"4085","Vegetable Lo Mein","",3.5,"Pound",626
+"4086","Basmati Rice","",2,"Pound",629
+"4088","Puerto Rican Rice & Beans","",5,"Pound",629
+"4092","Crinkle Cut Fries","",0.5,"Pound",629
+"4093","Garden Blend Rice","",3.6,"Pound",630
+"4094","Grilled Chicken Bella","",3.2,"Pound",630
+"4095","Gingered Sweet Potatoes","",6.8,"Pound",630
+"4097","Chefs Choice Pasta du Jour","",5.6,"Pound",630
+"4098","Meat Sauce","",0.4,"Pound",630
+"4099","Marinara Sauce","",7.4,"Pound",630
+"4100","Sticky Rice","",3,"Pound",630
+"4101","Frittata (basic)","",1,"Pound",631
+"4103","French Toast Stix","",2.8,"Pound",631
+"4109","Salad Dressing Waste Module","",2.3,"Pound",631
+"4110","Brown Sauce","",5.8,"Pound",632
+"4111","Green Beans","",5.4,"Pound",632
+"4113","Turkey Gravy","",5.2,"Pound",632
+"4114","White Rice","",10.8,"Pound",632
+"4115","RoastedTurkey","",9.2,"Pound",632
+"4116","Peas","",8.6,"Pound",632
+"4117","Marinara Sauce","",7.4,"Pound",632
+"4118","Meat Sauce","",8.6,"Pound",632
+"4119","Chefs Choice Pasta du Jour","",6.6,"Pound",632
+"4120","Stove Top Stuffing","",7.4,"Pound",632
+"4132","Cream of Wheat","",2.5,"Pound",634
+"4134","Oatmeal Hot Cereal","",0,"Pound",634
+"4136","Salad Dressing Waste Module","",7,"Pound",665
+"4137","Salad Bar Waste Module","",0.5,"Pound",665
+"4138","Salad Dressing Waste Module","",7,"Pound",665
+"4139","Frittata (basic)","",1.1,"Pound",666
+"4140","Oatmeal Hot Cereal","",2.5,"Pound",666
+"4150","Crinkle Cut Fries","",0.5,"Pound",667
+"4151","Onion Rolls","",20,"Pound",667
+"4154","Turkey Gravy","",1,"Pound",667
+"4155","Stove Top Stuffing","",4,"Pound",667
+"4157","Sticky Rice","",0,"Pound",669
+"4171","Cross Trax French Fries","",2,"Pound",670
+"4177","Spinach Saute","",1.9,"Pound",670
+"4178","Sticky Rice","",2.6,"Pound",670
+"4179","Salad Bar Waste Module","",9.8,"Pound",670
+"4180","Deli Bar Waste Module","",2.4,"Pound",670
+"4181","Roasted Red Dill Potatoes","",10,"Pound",671
+"4183","American Chop Suey","",1,"Pound",671
+"4186","Bacon","",0.5,"Pound",671
+"4189","Mashed Ranch Potatoes","",4,"Pound",671
+"4191","Meat Ravioli","",0.5,"Pound",671
+"4193","Sticky Rice","",2,"Pound",671
+"4194","Rice Pilaf","",5,"Pound",671
+"4195","Meat Sauce","",1,"Pound",671
+"4196","Marinara Sauce","",3,"Pound",671
+"4201","Deli Bar Waste Module","",3.4,"Pound",671
+"4202","Deli Bar Waste Module","",3.4,"Pound",671
+"4224","Salad Bar Waste Module","",8.2,"Pound",674
+"4225","Pumpkin Pancakes","",15,"Pound",675
+"4231","Cuban Pork Loin","",4.1,"Pound",675
+"4232","Cuban Yellow Rice","",3.3,"Pound",675
+"4233","Corn","",1.8,"Pound",675
+"4234","Tuscan Potatoes","",2.7,"Pound",675
+"4235","Marinara Sauce","",3.4,"Pound",675
+"4236","Meat Sauce","",2,"Pound",675
+"4237","Pasta Saute Bar","",1.6,"Pound",675
+"4238","Salad Bar Waste Module","",7.1,"Pound",675
+"4239","Salad Dressing Waste Module","",2,"Pound",675
+"4240","Deli Bar Waste Module","",4.8,"Pound",675
+"4242","O'Brien Potatoes","",0.7,"Pound",677
+"4243","Waffles","",1.2,"Pound",677
+"4245","Stuffed Peppers w/ Couscous","",8,"Pound",677
+"4248","Spanish Arroz Amarillo","",6.2,"Pound",677
+"4249","2 oz. Chipotle Cheddar Corn Muffin","",4.7,"Pound",677
+"4250","Autumn Medley","",5.3,"Pound",677
+"4251","Chefs Choice Pasta du Jour","",2.9,"Pound",677
+"4252","Meatballs with Marinara","",8.3,"Pound",677
+"4253","Meat Sauce","",3.4,"Pound",677
+"4254","Marinara Sauce","",4.2,"Pound",677
+"4255","Sticky Rice","",10,"Pound",677
+"4260","Crinkle Cut Fries","",1.2,"Pound",677
+"4262","New York Style Cheesecake","",12,"Pound",677
+"4266","Moroccan Couscous","",2.7,"Pound",678
+"4267","Roasted Yukon Golds","",2.2,"Pound",678
+"4268","Breakfast Potatoes","",3.1,"Pound",679
+"4269","Chorizo Sausage & Potatoes","",4.6,"Pound",679
+"4271","Meat Sauce","",2,"Pound",679
+"4275","Boneless Chicken Romano","",3.3,"Pound",680
+"4276","Basmati Rice","",4.4,"Pound",680
+"4277","Beef Tender Picadillo","",1.7,"Pound",680
+"4278","Roasted Yukon Golds","",4.2,"Pound",680
+"4279","Steamed Broccoli","",2.2,"Pound",680
+"4280","Falafel w/ Tahini","",5.1,"Pound",680
+"4281","Tahini Dipping Sauce","",1.9,"Pound",680
+"4282","Chefs Choice Pasta du Jour","",3.2,"Pound",680
+"4283","Meat Sauce","",2.6,"Pound",680
+"4284","Marinara Sauce","",4.1,"Pound",680
+"4285","Honey Wheat Bread","",1.8,"Pound",680
+"4286","Marinara Sauce","",1.1,"Pound",681
+"4287","Meat Sauce","",2.6,"Pound",681
+"4288","Pernil","",1.6,"Pound",681
+"4289","Sauteed Kale","",0.8,"Pound",681
+"4291","Brown Rice","",1.3,"Pound",681
+"4292","Ranch Roasted Potatoes","",1.8,"Pound",681
+"4293","Chefs Choice Pasta du Jour","",3.3,"Pound",681
+"4294","Mashed Potatoes","",10.7,"Pound",683
+"4295","Stove Top Stuffing","",20,"Pound",683
+"4296","BBQ Chicken Drumsticks","",7,"Pound",683
+"4297","Red Petite Potatoes w/Dill","",12,"Pound",683
+"4298","Roasted Root Vegetables","",3,"Pound",683
+"4299","Sticky Rice","",2.2,"Pound",683
+"4300","Crispy Dijon Scrod","",1.7,"Pound",684
+"4301","Baked Potatoes","",6.7,"Pound",684
+"4302","Meat Sauce","",2.4,"Pound",684
+"4303","Salad Bar Waste Module","",10.6,"Pound",684
+"4304","Salad Dressing Waste Module","",6.2,"Pound",684
+"4305","Marinara Sauce","",3.7,"Pound",684
+"4306","Chefs Choice Pasta du Jour","",3.6,"Pound",684
+"4307","Baked Beans","",3.1,"Pound",684
+"4308","Baked Beans","",6.4,"Pound",684
+"4309","Sticky Rice","",6.4,"Pound",684
+"4310","Salad Bar Waste Module","",2,"Pound",685
+"4312","Breakfast Potatoes","",1.9,"Pound",686
+"4314","Cheese Stuffed Italian Meatloaf","",5.6,"Pound",686
+"4315","Sauteed Vegetable Medley","",6,"Pound",686
+"4316","Baked Ziti","",7,"Pound",686
+"4317","Grilled Cheese","",5,"Pound",686
+"4318","Grilled Hot Dogs","",5,"Pound",686
+"4319","Linguini  with White Beans, Garlic & Herbs","",1,"Pound",687
+"4320","Parslied Carrots","",0.2,"Pound",687
+"4321","Meat Sauce","",0.5,"Pound",687
+"4322","Chefs Choice Pasta du Jour","",0.5,"Pound",687
+"4323","Corn","",0.8,"Pound",687
+"4324","Bacon","",2,"Pound",688
+"4333","Blended Burger No Bun","",5,"Pound",689
+"4334","Grilled Chicken Cutlet","",2,"Pound",689
+"4335","Pulled Pork","",2.5,"Pound",689
+"4336","BBQ Baked Beans","",4.3,"Pound",689
+"4337","Corn","",2.6,"Pound",689
+"4338","Veggie Medley","",3.8,"Pound",689
+"4339","Vegetable Lo Mein","",1.7,"Pound",689
+"4340","Rice & Orzo Pilaf","",6.2,"Pound",689
+"4341","Chefs Choice Pasta du Jour","",2.3,"Pound",689
+"4342","Meat Sauce","",4.1,"Pound",689
+"4343","Marinara Sauce","",1,"Pound",689
+"4345","Grilled Hot Dogs","",10,"Pound",689
+"4346","Pork Sausage Links","",5,"Pound",690
+"4349","Hard Boiled Eggs","",20,"Pound",690
+"4351","French Toast","",3.8,"Pound",691
+"4352","Steamed Broccoli","",1.5,"Pound",691
+"4353","Baked Chinese Chicken Wings","",3.2,"Pound",691
+"4354","Chefs Choice Pasta du Jour","",3.3,"Pound",691
+"4358","Meat Sauce","",3.6,"Pound",691
+"4359","Marinara Sauce","",2.5,"Pound",691
+"4360","Buttermilk Biscuit","",2.8,"Pound",691
+"4364","Corned Beef Hash","",1,"Pound",692
+"4371","Basmati Rice","",3,"Pound",694
+"4373","Marinara Sauce","",4,"Pound",694
+"4375","Green Beans w/ Garlic","",1,"Pound",694
+"4380","Waffles","",10,"Pound",695
+"4381","Buttermilk Pancakes","",3,"Pound",695
+"4382","Chefs Choice Pasta du Jour","",3.6,"Pound",695
+"4383","Mashed Potatoes","",3.9,"Pound",695
+"4384","Meat Sauce","",3.1,"Pound",695
+"4385","Peas","",4.2,"Pound",695
+"4386","RoastedTurkey","",4.9,"Pound",695
+"4388","Stove Top Stuffing","",3.2,"Pound",695
+"4389","White Rice","",4.3,"Pound",695
+"4391","Sticky Rice","",5,"Pound",696
+"4393","Meat Sauce","",2,"Pound",695
+"4395","Meat Sauce","",4,"Pound",696
+"4396","Grilled Chicken Cutlet","",12,"Pound",696
+"4399","Grilled Cheese","",2,"Pound",696
+"4406","Cheddar Biscuits","",1.4,"Pound",698
+"4407","Sticky Rice","",2.3,"Pound",698
+"4408","Basmati Rice","",3.4,"Pound",698
+"4409","Crispy Dijon Scrod","",1,"Pound",698
+"4410","Tuscan White Beans","",2.6,"Pound",698
+"4411","Pork Cutlet Piccata","",1.3,"Pound",698
+"4412","Spinach Saute","",0.6,"Pound",698
+"4413","Grilled Chicken Athena","",1.5,"Pound",698
+"4414","Chefs Choice Pasta du Jour","",3.1,"Pound",698
+"4415","Marinara Sauce","",1.7,"Pound",698
+"4416","Mashed Ranch Potatoes","",10,"Pound",699
+"4418","Green Beans","",5,"Pound",699
+"4419","Meat Ravioli","",5,"Pound",699
+"4420","Tofu Parmesan","",2,"Pound",699
+"4421","Creole Rice & Beans","",5,"Pound",700
+"4427","Meat Sauce","",4,"Pound",700
+"4428","Salad Bar Waste Module","",8.7,"Pound",700
+"4429","Salad Dressing Waste Module","",4.7,"Pound",700
+"4432","Crinkle Cut Fries","",1.5,"Pound",700
+"4434","Brown Gravy","",2,"Pound",701
+"4435","Cider Braised Pot Roast","",20,"Pound",701
+"4436","Marinara Sauce","",5,"Pound",701
+"4437","White Rice","",5,"Pound",701
+"4438","Marinara Sauce","",5,"Pound",701
+"4439","Sugar & Spice Salmon","",1,"Pound",701
+"4440","Pot Roast Potatoes","",20,"Pound",701
+"4441","Pot Roast Potatoes","",5.6,"Pound",701
+"4442","Brown Gravy","",6.2,"Pound",701
+"4443","Sugar & Spice Salmon","",0.7,"Pound",701
+"4444","White Rice","",6.2,"Pound",701
+"4445","Steamed Broccoli","",3.9,"Pound",701
+"4446","Wild Mushroom Risotto","",2.6,"Pound",701
+"4447","Vegan Ravioli Caprese","",5.1,"Pound",701
+"4448","Chefs Choice Pasta du Jour","",3.3,"Pound",701
+"4449","Marinara Sauce","",2,"Pound",701
+"4450","Meat Sauce","",2.5,"Pound",701
+"4451","Dill Bread","",0.7,"Pound",701
+"4452","Pork Sausage Links","",4.6,"Pound",702
+"4453","French Toast Stix","",2.5,"Pound",702
+"4454","Breakfast Potatoes","",5.9,"Pound",702
+"4458","Brown Rice","",2.5,"Pound",702
+"4459","Chicken and Sausage Gumbo","",4.2,"Pound",702
+"4460","Bourbon & Black Strap Sweet Potatoes","",1.5,"Pound",702
+"4461","Chefs Choice Pasta du Jour","",3.4,"Pound",702
+"4462","Meat Sauce","",0.9,"Pound",702
+"4463","Marinara Sauce","",2.2,"Pound",702
+"4464","Sauteed Kale","",1.2,"Pound",702
+"4470","Pea and Potato Samosa","",1.7,"Pound",704
+"4471","Basmati Rice","",2,"Pound",704
+"4472","West Indian Braised Pork Chop","",4.6,"Pound",704
+"4473","Vegetable Korma","",2.1,"Pound",704
+"4474","Sticky Rice","",7.6,"Pound",704
+"4475","Naan Bread","",1.3,"Pound",704
+"4476","Steamed Broccoli","",1.6,"Pound",704
+"4477","Chefs Choice Pasta du Jour","",2.9,"Pound",704
+"4478","Marinara Sauce","",4.2,"Pound",704
+"4479","Meat Sauce","",2.1,"Pound",704
+"4485","Chicken Rustica","",2.6,"Pound",705
+"4486","Honey Roasted Parsnips & Sweet Potatoes","",3,"Pound",705
+"4487","Spanish Arroz Amarillo","",6.5,"Pound",705
+"4488","Autumn Medley","",3.3,"Pound",705
+"4489","Shrimp Quesadilla","",3.4,"Pound",705
+"4490","Sticky Rice","",4.9,"Pound",705
+"4491","2 oz. Chipotle Cheddar Corn Muffin","",2.9,"Pound",705
+"4492","Stuffed Peppers w/ Couscous","",2,"Pound",705
+"4493","Spaghetti","",2.1,"Pound",705
+"4494","Meatballs with Marinara","",3.2,"Pound",705
+"4495","Marinara Sauce","",1.9,"Pound",705
+"4496","Meat Sauce","",2.2,"Pound",705
+"4500","Swedish Meatballs","",3,"Pound",707
+"4501","Green Beans w/ Garlic","",2,"Pound",707
+"4502","Sticky Rice","",1,"Pound",707
+"4503","Meat Sauce","",3,"Pound",707
+"4504","Marinara Sauce","",3,"Pound",707
+"4509","Curley Fries","",1.5,"Pound",708
+"4511","Steamed Broccoli","",2,"Pound",708
+"4512","Roasted Yukon Golds","",3,"Pound",708
+"4513","Boneless Chicken Romano","",5,"Pound",708
+"4514","Falafel w/ Tahini","",7,"Pound",708
+"4515","Meat Sauce","",0.5,"Pound",708
+"4516","Basmati Rice","",6,"Pound",708
+"4517","Honey Wheat Bread","",1,"Pound",708
+"4518","Marinara Sauce","",0.5,"Pound",708
+"4519","Strawberry Pancakes","",6,"Pound",709
+"4520","Frittata (basic)","",30,"Pound",709
+"4525","Black Beans & Rice","",3.4,"Pound",709
+"4526","Creamy Spinach & Sun Dried Tomato Whole Wheat Penne","",8.9,"Pound",709
+"4527","Fresh Roasted Carrots","",1.3,"Pound",709
+"4528","Pernil","",2.7,"Pound",709
+"4529","Ranch Roasted Potatoes","",1.1,"Pound",709
+"4532","Fried Chicken Nuggets","",15,"Pound",710
+"4533","Chefs Choice Pasta du Jour","",10,"Pound",710
+"4534","Sticky Rice","",10,"Pound",710
+"4535","Chefs Choice Pasta du Jour","",10,"Pound",710
+"4536","Grilled Guinness Bratwurst","",5,"Pound",710
+"4537","Breakfast Potatoes","",20,"Pound",710
+"4541","Crinkle Cut Fries","",1,"Pound",710
+"4551","Hard Boiled Eggs","",20,"Pound",714
+"4552","Buttermilk Pancakes","",6,"Pound",714
+"4553","Breakfast Potatoes","",10,"Pound",714
+"4554","Marinara Sauce","",0.5,"Pound",714
+"4555","Cheese Stuffed Italian Meatloaf","",4,"Pound",714
+"4557","White Rice","",0.6,"Pound",714
+"4558","Smashed Yukon Gold Potatoes","",2.3,"Pound",714
+"4559","Baked Ziti","",3.6,"Pound",714
+"4571","Crinkle Cut Fries","",2.3,"Pound",715
+"4573","Parslied Carrots","",12,"Pound",715
+"4576","Scrod w/ Fresh Dill","",4,"Pound",715
+"4577","Basmati Rice","",3.5,"Pound",715
+"4581","Roasted Yukon Golds","",5.6,"Pound",716
+"4582","Sauteed Beef Tips","",1,"Pound",716
+"4585","Marinara Sauce","",2.9,"Pound",716
+"4587","Banana Pancakes","",0,"Pound",716
+"4590","Tortellini with Roasted Pepper Tomato Sauce","",12,"Pound",717
+"4592","Rice & Orzo Pilaf","",8,"Pound",717
+"4601","Pork Sausage Links","",3,"Pound",718
+"4604","Marinara Sauce","",2.6,"Pound",718
+"4606","Grilled Hot Dogs","",1,"Pound",718
+"4607","Grilled Chicken Cutlet","Dinner",6,"Pound",729
+"4608","Sticky Rice","Dinner",4,"Pound",729
+"4609","Vegan Ravioli Caprese","Dinner",14,"Pound",729
+"4610","Grilled Hot Dogs","Dinner",2,"Pound",729
+"4611","Grilled Cheese","Dinner",0.3,"Pound",729
+"4612","Brown Gravy","Dinner",5,"Pound",729
+"4613","Cider Braised Pot Roast","Dinner",5.6,"Pound",729
+"4614","White Rice","Dinner",11.4,"Pound",729
+"4615","Marinara Sauce","Dinner",4,"Pound",729
+"4616","Meat Sauce","Dinner",8.8,"Pound",729
+"4621","Meat Sauce","Lunch",15,"Pound",730
+"4624","Meat Sauce","Dinner",8,"Pound",731
+"4635","Deli Bar Waste Module","Dinner",8.1,"Pound",733
+"4636","Salad Dressing Waste Module","Dinner",7.1,"Pound",733
+"4637","Stuffed Peppers w/ Couscous","Dinner",1,"Pound",733
+"4638","Spanish Arroz Amarillo","Dinner",10.8,"Pound",733
+"4639","Shrimp Quesadilla","Dinner",0.2,"Pound",733
+"4640","Autumn Medley","Dinner",3.4,"Pound",733
+"4641","Chicken Rustica","Dinner",7.2,"Pound",733
+"4642","Honey Roasted Parsnips & Sweet Potatoes","Dinner",7.4,"Pound",733
+"4643","Meatballs with Marinara","Dinner",9.8,"Pound",733
+"4644","Spaghetti","Dinner",5.4,"Pound",733
+"4645","Marinara Sauce","Dinner",7.6,"Pound",733
+"4646","Marinara Sauce","Dinner",2.4,"Pound",733
+"4647","2 oz. Chipotle Cheddar Corn Muffin","Dinner",5,"Pound",733
+"4653","Marinara Sauce","Dinner",2,"Pound",735
+"4654","Sticky Rice","Dinner",1,"Pound",735
+"4656","Swedish Meatballs","Dinner",4,"Pound",735
+"4657","White Rice","Dinner",1,"Pound",735
+"4660","Curley Fries","Dinner",0.5,"Pound",736
+"4661","Roasted Red Dill Potatoes","Dinner",10,"Pound",736
+"4666","Country Style Hash Browns","Breakfast",4,"Pound",737
+"4667","Pork Sausage Links","Breakfast",3.2,"Pound",737
+"4668","Frittata (basic)","Breakfast",5,"Pound",737
+"4669","Beef For French Dip","Lunch",1,"Pound",737
+"4670","Brown Sauce","Lunch",7,"Pound",737
+"4671","White Bean & Butternut Stew","Lunch",15.2,"Pound",737
+"4672","Marinara Sauce","Lunch",3.7,"Pound",737
+"4673","Meat Sauce","Lunch",5,"Pound",737
+"4674","Roasted Summer Vegetables","Lunch",12.1,"Pound",737
+"4676","Spanish Rice","Dinner",3.5,"Pound",738
+"4677","Beef Brisket Tacos","Dinner",3.3,"Pound",738
+"4678","Lentil Taco in a Hard Shell","Dinner",4.2,"Pound",738
+"4679","Meat Sauce","Dinner",2.1,"Pound",738
+"4680","Nacho Cheese Sauce","Dinner",1.4,"Pound",738
+"4681","Marinara Sauce","Dinner",1.2,"Pound",738
+"4688","Steamed Broccoli","Dinner",6.8,"Pound",740
+"4690","Straight Cut French Fries","Dinner",0.5,"Pound",740
+"4694","Broccoli Stromboli","Dinner",0.8,"Pound",741
+"4695","Sticky Rice","Dinner",1.5,"Pound",741
+"4696","Chicken Piccata","Dinner",2.5,"Pound",741
+"4697","Soy-Maple Salmon","Dinner",2,"Pound",741
+"4698","Roasted Garlic Potatoes","Dinner",4,"Pound",741
+"4700","Brown Gravy","Dinner",5,"Pound",742
+"4701","Cheese Stuffed Italian Meatloaf","Dinner",4,"Pound",742
+"4703","Meat Sauce","Dinner",2,"Pound",742
+"4704","Marinara Sauce","Dinner",1,"Pound",742
+"4708","Sweet Potato Fries","Dinner",2.5,"Pound",742
+"4721","Crinkle Cut Fries","Dinner",8,"Pound",743
+"4731","Straight Cut French Fries","Dinner",23,"Pound",744
+"4747","Slow Cooked Barbeque Beef Brisket","Dinner",3,"Pound",746
+"4749","Vegan Dragon Rice","Dinner",16.8,"Pound",747
+"4750","Roasted Garlic Potatoes","Dinner",5,"Pound",747
+"4751","Ranch Chicken Wings","Dinner",3.6,"Pound",747
+"4752","Steamed Broccoli","Dinner",6.8,"Pound",747
+"4753","Blended Burger No Bun","Dinner",2,"Pound",747
+"4756","Buffalo Wings","Dinner",10,"Pound",747
+"4757","Baked Chinese Chicken Wings","Dinner",6.8,"Pound",747
+"4758","Meat Sauce","Dinner",7.8,"Pound",747
+"4759","Marinara Sauce","Dinner",5.8,"Pound",747
+"4760","BBQ Chicken Sandwich","Lunch",2.6,"Pound",748
+"4761","Corned Beef Hash","Lunch",3.6,"Pound",748
+"4762","Cheese Blintzes","Lunch",1.4,"Pound",748
+"4763","Autumn Medley","Dinner",10,"Pound",748
+"4766","Puerto Rican Rice & Beans","Dinner",5,"Pound",748
+"4771","Crinkle Cut Fries","Dinner",1.5,"Pound",748
+"4775","Meat Sauce","Dinner",1,"Pound",749
+"4776","Marinara Sauce","Dinner",1,"Pound",749
+"4777","Potato Bar Toppings","Dinner",1,"Pound",749
+"4778","Grilled Hot Dogs","Dinner",1,"Pound",749
+"4799","Marinara Sauce","Dinner",15,"Pound",751
+"4808","Basmati Rice Pilaf","Dinner",5,"Pound",752
+"4812","Meat Sauce","Dinner",2,"Pound",752
+"4815","Scrambled Eggs","Breakfast",2.9,"Pound",753
+"4821","Vegetable Egg Rolls","Dinner",4,"Pound",753
+"4822","Grilled Chicken Cutlet","Dinner",6,"Pound",753
+"4824","Buttermilk Pancakes","Breakfast",30,"Pound",757
+"4825","Scrambled Eggs","Breakfast",15,"Pound",757
+"4826","Waffles","Breakfast",10,"Pound",757
+"4827","Cream of Wheat","Breakfast",20,"Pound",757
+"4828","Frittata (basic)","Breakfast",6,"Pound",757
+"4835","Straight Cut French Fries","Dinner",2.3,"Pound",758
+"4838","Marinara Sauce","Dinner",3,"Pound",758
+"4850","Butter-Crumb Scrod","Lunch",4,"Pound",760
+"4851","Parslied Carrots","Lunch",4,"Pound",760
+"4858","Marinara Sauce","Dinner",10,"Pound",761
+"4860","Meat Sauce","Dinner",6,"Pound",761
+"4861","Sticky Rice","Dinner",19,"Pound",761
+"4871","Beef Tender Picadillo","Dinner",5,"Pound",764
+"4874","Meat Sauce","Dinner",5,"Pound",764
+"4875","Sticky Rice","Dinner",10,"Pound",764
+"4876","Roasted Yukon Golds","Dinner",5,"Pound",764
+"4882","Creamy Spinach & Sun Dried Tomato Whole Wheat Penne","Dinner",6,"Pound",765
+"4884","Ranch Roasted Potatoes","Dinner",4,"Pound",765
+"4885","Fresh Roasted Carrots","Dinner",5.4,"Pound",765
+"4886","Meat Sauce","Dinner",4.6,"Pound",765
+"4887","Pernil","Dinner",3.5,"Pound",765
+"4888","Marinara Sauce","Dinner",4.2,"Pound",765
+"4892","Mashed Potatoes","Lunch",14,"Pound",767
+"4893","Sticky Rice","Lunch",4.7,"Pound",767
+"4894","RoastedTurkey","Lunch",5.2,"Pound",767
+"4901","Cheese Stuffed Italian Meatloaf","Dinner",2,"Pound",770
+"4902","Grilled Italian Chicken","Dinner",16,"Pound",770
+"4903","Baked Ziti","Dinner",3,"Pound",770
+"4910","Basmati Rice","Dinner",5,"Pound",771
+"4911","Brown Gravy","Dinner",4,"Pound",771
+"4912","Linguini  with White Beans, Garlic & Herbs","Dinner",3,"Pound",771
+"4913","Mashed Potatoes","Dinner",1,"Pound",771
+"4916","Bacon","Breakfast",15,"Pound",772
+"4920","Straight Cut French Fries","Dinner",5,"Pound",772
+"4934","Baked Chicken Fillet","Lunch",6,"Pound",775
+"4935","Corn","Lunch",4.2,"Pound",775
+"4941","Frittata (basic)","Breakfast",2,"Pound",1031
+"4942","Cream of Wheat","Breakfast",1.8,"Pound",1031
+"4943","Scrambled Eggs","Breakfast",1,"Pound",1031
+"4944","Buttermilk Pancakes","Breakfast",3,"Pound",1031
+"4945","Breakfast Potatoes","Breakfast",2,"Pound",1031
+"4946","Frittata (basic)","Breakfast",1,"Pound",1030
+"4947","Oatmeal Hot Cereal","Breakfast",1.2,"Pound",1030
+"4948","NOT SO CRABBY Vegan Crab Cakes","Dinner",4,"Pound",1030
+"4949","Three Cheese Enchiladas","Dinner",4,"Pound",1030
+"4950","Honey Lime Sweet Potato","Lunch",0,"Pound",1030
+"4951","Fiesta Lime Chicken","Lunch",2,"Pound",1030
+"4952","Cavatappi with Vegetables","Lunch",0.5,"Pound",1030
+"4953","Green Fiesta Rice","Lunch",4,"Pound",1030
+"4954","Seafood Stuffed Scrod","Lunch",2,"Pound",1030
+"4955","Aztec Vegetables","Lunch",1,"Pound",1030
+"4956","Scrambled Eggs","Breakfast",0,"Pound",1030
+"4957","Buttermilk Pancakes","Breakfast",4,"Pound",1030
+"4958","Frittata (basic)","Breakfast",1,"Pound",1030
+"4959","Oatmeal Hot Cereal","Breakfast",1,"Pound",1030
+"4960","Cream of Wheat","Breakfast",4,"Pound",1032
+"4961","Scrambled Eggs","Breakfast",1.5,"Pound",1032
+"4962","Frittata (basic)","Breakfast",3,"Pound",1032
+"4963","Oatmeal Hot Cereal","Breakfast",3,"Pound",1032
+"4964","Salad Dressing Waste Module","Dinner",3,"Pound",1032
+"4965","Marinara Sauce","Lunch",3,"Pound",1032
+"4966","Meat Sauce","Lunch",3,"Pound",1032
+"4967","Burrito w/ Black Bean and Yams","Lunch",7,"Pound",1032
+"4968","Chefs Choice Pasta du Jour","Dinner",5,"Pound",1032
+"4969","Meat Sauce","Dinner",5,"Pound",1032
+"4970","Sauteed Kale","Dinner",1.2,"Pound",1032
+"4971","Deli Bar Waste Module","Dinner",7.8,"Pound",1032
+"4972","OBrien Potatoes","Breakfast",4.8,"Pound",1033
+"4973","Marinara Sauce","Dinner",4.2,"Pound",1033
+"4974","Meat Sauce","Dinner",6,"Pound",1033
+"4975","Chefs Choice Pasta du Jour","Dinner",6,"Pound",1033
+"4976","Roasted Red Dill Potatoes","Dinner",6.4,"Pound",1033
+"4977","Grilled Chicken Breast","Dinner",3,"Pound",1033
+"4978","Grilled Hot Dogs","Dinner",1,"Pound",1033
+"4979","Baked Beans","Lunch",4.8,"Pound",1034
+"4980","Baked Vegan Sesame Nuggets","Lunch",1,"Pound",1034
+"4981","Buffalo Cauliflower","Lunch",2,"Pound",1034
+"4982","Crispy Dijon Scrod","Dinner",1,"Pound",1035
+"4983","Tuscan White Beans","Dinner",1.5,"Pound",1035
+"4984","Roasted Vegetable Red Lentil Pasta","Dinner",3.5,"Pound",1035
+"4985","Salad Bar Waste Module","Dinner",18.4,"Pound",1035
+"4986","Mashed Ranch Potatoes","Dinner",8.8,"Pound",1035
+"4987","Roasted Chicken Thigh","Dinner",0.25,"Pound",1035
+"4988","Rice Pilaf","Dinner",4.6,"Pound",1035
+"4989","Mashed Ranch Potatoes","Dinner",1.5,"Pound",1035
+"4990","Tortilla Crusted Scrod","Dinner",5,"Pound",1035
+"4991","Tortilla Crusted Scrod","Dinner",0.5,"Pound",1036
+"4992","Roasted Cauliflower","Dinner",0.5,"Pound",1036
+"4993","Tofu Parmesan","Dinner",0.5,"Pound",1036
+"4994","Meat Sauce","Dinner",2,"Pound",1036
+"4995","Grilled Chicken Breast","Dinner",2,"Pound",1036
+"4996","Grilled Cheese","Dinner",0.25,"Pound",1037
+"4997","Crinkle Cut Fries","Dinner",5,"Pound",1037
+"4998","Beef Gravy","Dinner",2,"Pound",1037
+"4999","Mushroom Bulgogi Tacos","Dinner",1,"Pound",1037
+"5000","Sticky Rice","Dinner",2.3,"Pound",1037
+"5001","New Orleans Scrod","Dinner",1.8,"Pound",1037
+"5002","Creole Rice & Beans","Dinner",7,"Pound",1037
+"5003","Peas","Dinner",5,"Pound",1037
+"5007","Scrambled Eggs","Breakfast",0,"Pound",1037
+"5008","Scrambled Eggs","Breakfast",2,"Pound",1037
+"5009","Buttermilk Pancakes","Breakfast",3.44,"Pound",1037
+"5010","Scrambled Eggs","Breakfast",3,"Pound",1038
+"5011","Blueberry Pancakes","Breakfast",4,"Pound",1038
+"5012","Frittata (basic)","Breakfast",3,"Pound",1038
+"5013","Bacon","Breakfast",2,"Pound",1038
+"5014","French Toast","Breakfast",2.4,"Pound",1040
+"5015","Blueberry Pancakes","Breakfast",3,"Pound",1040
+"5016","Brown Rice","Lunch",3,"Pound",1040
+"5017","Chefs Choice Pasta du Jour","Lunch",2.2,"Pound",1040
+"5018","Basmati Rice","Dinner",0.5,"Pound",1040
+"5019","Chickpea Rotini With Cajun Cream Sauce","Dinner",1.7,"Pound",1040
+"5020","Meat Sauce","Dinner",1.5,"Pound",1041
+"5021","Deli Bar Waste Module","Dinner",1.5,"Pound",1041
+"5022","Salad Bar Waste Module","Dinner",12.2,"Pound",1041
+"5023","Scrambled Eggs","Breakfast",5.6,"Pound",1041
+"5024","Buttermilk Pancakes","Breakfast",3,"Pound",1041
+"5025","OBrien Potatoes","Breakfast",3,"Pound",1041
+"5026","Frittata (basic)","Breakfast",3.2,"Pound",1041
+"5027","Oatmeal Hot Cereal","Breakfast",7.4,"Pound",1041
+"5028","Baked Scrod with Chili Lime Butter","Lunch",3,"Pound",1039
+"5029","Red Lentil Penne & Veggies in Wine Sauce","Lunch",3,"Pound",1039
+"5030","Tamarind Glazed Salmon","Dinner",6,"Pound",1040
+"5031","Taco Bar","Dinner",2.5,"Pound",1041
+"5032","Grilled Hot Dogs","Dinner",7,"Pound",1041
+"5033","Crinkle Cut Fries","Dinner",4,"Pound",1041
+"5034","Grilled Chicken Breast","Dinner",5,"Pound",1041
+"5035","Grilled Cheese","Dinner",2,"Pound",1041
+"5036","Frittata (basic)","Breakfast",3,"Pound",1045
+"5037","Strawberry Pancakes","Breakfast",0,"Pound",1045
+"5038","Italian Sausage Links","Lunch",7,"Pound",1044
+"5039","Southwest Vegetable Wrap","Lunch",3,"Pound",1044
+"5040","Sauteed Peppers","Lunch",8,"Pound",1044
+"5041","Roasted Yukon Golds","Dinner",2.1,"Pound",1044
+"5042","Basmati Rice","Dinner",4.1,"Pound",1044
+"5043","Deli Bar Waste Module","Dinner",1.5,"Pound",1043
+"5044","Ranch Roasted Potatoes","Dinner",3,"Pound",1043
+"5045","Black Beans & Rice","Dinner",12,"Pound",1046
+"5046","Pernil","Dinner",8,"Pound",1046
+"5047","Stir Fry Bar","Dinner",5.7,"Pound",1046
+"5048","Cheese Pizza","Dinner",6.4,"Pound",1046
+"5049","Buttermilk Pancakes","Breakfast",4.8,"Pound",1046
+"5050","Chocolate Chip Pancakes","Breakfast",1.2,"Pound",1046
+"5051","Frittata (basic)","Breakfast",2.2,"Pound",1046
+"5052","Scrambled Eggs","Breakfast",2.8,"Pound",1046
+"5053","Breakfast Potatoes","Breakfast",4.8,"Pound",1046
+"5054","Apple Pancakes","Breakfast",4.6,"Pound",1047
+"5055","Apple Pancakes","Breakfast",3.6,"Pound",1047
+"5056","Frittata (basic)","Breakfast",7,"Pound",1047
+"5061","French Toast Stix","Breakfast",2.2,"Pound",1048
+"5062","Scrambled Eggs","Breakfast",3,"Pound",1048
+"5063","Blueberry Pancakes","Breakfast",1.2,"Pound",1048
+"5064","OBrien Potatoes","Breakfast",4.8,"Pound",1048
+"5065","Frittata (basic)","Breakfast",2.2,"Pound",1048
+"5066","Straight Cut French Fries","Dinner",0.3,"Pound",1048
+"5067","Grilled Hot Dogs","Dinner",14,"Pound",1048
+"5068","Grilled Chicken Breast","Dinner",2,"Pound",1048
+"5069","Home Fries","Breakfast",3.6,"Pound",1051
+"5070","Buttermilk Pancakes","Breakfast",2.6,"Pound",1051
+"5071","Turkey Sausage Links","Breakfast",1.8,"Pound",1051
+"5072","Frittata (basic)","Breakfast",6.4,"Pound",1051
+"5073","Marinara Sauce","Dinner",2,"Pound",1050
+"5074","Meat Sauce","Dinner",3,"Pound",1050
+"5075","Brown Rice","Dinner",4,"Pound",1050
+"5076","Deli Bar Waste Module","Dinner",3.8,"Pound",1050
+"5077","Sweet Potato Fries","Dinner",5,"Pound",1050
+"5079","Buttermilk Pancakes","Breakfast",3.4,"Pound",1052
+"5080","Scrambled Eggs","Breakfast",8.2,"Pound",1052
+"5081","Scrambled Eggs","Breakfast",3.6,"Pound",1052
+"5082","Frittata (basic)","Breakfast",4,"Pound",1052
+"5083","Country Style Hash Browns","Breakfast",7.6,"Pound",1052
+"5084","Banana Pancakes","Breakfast",2.2,"Pound",1052
+"5085","Tuscan White Beans","Lunch",7,"Pound",1052
+"5086","Marinara Sauce","Lunch",2,"Pound",1052
+"5087","Meat Sauce","Lunch",2.9,"Pound",1052
+"5088","Roasted Butternut Squash","Dinner",7,"Pound",1052
+"5089","Roasted Yukon Golds","Dinner",0.5,"Pound",1052
+"5090","Sauteed Beef Tips with Vegetables","Dinner",5.2,"Pound",1052
+"5091","Vegetarian Strudel","Dinner",4.3,"Pound",1052
+"5092","White Rice","Dinner",7.8,"Pound",1052
+"5093","Marinara Sauce","Dinner",4.1,"Pound",1052
+"5094","Chicken Chablis","Dinner",2,"Pound",1052
+"5095","Green Bean Saute","Dinner",1.3,"Pound",1052
+"5096","Meat Sauce","Dinner",2.7,"Pound",1052
+"5097","Sausage Patties","Breakfast",5,"Pound",1053
+"5098","Hard Boiled Eggs","Breakfast",1,"Pound",1053
+"5099","Apple Pancakes","Breakfast",6,"Pound",1053
+"5100","Waffles","Breakfast",3,"Pound",1053
+"5101","Cream of Wheat","Breakfast",1,"Pound",1053
+"5102","Oatmeal Hot Cereal","Breakfast",3,"Pound",1053
+"5103","Marinara Sauce","Dinner",1.2,"Pound",1053
+"5104","Vegetable Lo Mein With Tofu","Dinner",2.4,"Pound",1053
+"5105","Pumpkin Pancakes","Breakfast",2.2,"Pound",1054
+"5106","Pumpkin Pancakes","Breakfast",3.8,"Pound",1054
+"5107","Pumpkin Pancakes","Breakfast",2.8,"Pound",1054
+"5113","Scrambled Eggs","Breakfast",1,"Pound",1055
+"5114","Strawberry Pancakes","Breakfast",5,"Pound",1055
+"5115","Strawberry Pancakes","Breakfast",7,"Pound",1055
+"5116","Taco Bar","Dinner",2,"Pound",1055
+"5117","Tortilla Chips","Dinner",4.6,"Pound",1056
+"5118","Pork Milanese","Dinner",2.8,"Pound",1056
+"5119","Puerto Rican Rice & Beans","Dinner",8.6,"Pound",1056
+"5120","Seasonal Veggie Medley","Dinner",3.4,"Pound",1056
+"5121","Chefs Choice Pasta du Jour","Dinner",2.6,"Pound",1056
+"5122","Marinara Sauce","Dinner",4.8,"Pound",1056
+"5123","Meat Sauce","Dinner",4.8,"Pound",1056
+"5124","Meat Sauce","Dinner",1.8,"Pound",1057
+"5125","Italian Baked Scrod","Dinner",2.1,"Pound",1057
+"5126","Grilled Cheese","Dinner",2,"Pound",1057
+"5127","Grilled Hot Dogs","Dinner",1,"Pound",1057
+"5128","Grilled Chicken Breast","Dinner",6,"Pound",1057
+"5129","Crinkle Cut Fries","Dinner",2.5,"Pound",1057
+"5130","Country Style Hash Browns","Breakfast",3.4,"Pound",1058
+"5131","Buttermilk Pancakes","Breakfast",3.6,"Pound",1058
+"5132","French Toast Stix","Breakfast",4,"Pound",1058
+"5133","Frittata (basic)","Breakfast",7.6,"Pound",1058
+"5134","Scrambled Eggs","Breakfast",4.8,"Pound",1058
+"5135","Frittata (basic)","Breakfast",3.5,"Pound",1059
+"5136","Scrambled Eggs","Breakfast",3,"Pound",1059
+"5137","Frittata (basic)","Breakfast",5.2,"Pound",1060
+"5138","Scrambled Eggs","Breakfast",4,"Pound",1060
+"5139","Oatmeal Hot Cereal","Breakfast",9.8,"Pound",1060
+"5140","Breakfast Potatoes","Breakfast",0.5,"Pound",1060
+"5141","French Toast","Breakfast",2.4,"Pound",1060
+"5142","Buttermilk Pancakes","Breakfast",3.7,"Pound",1060
+"5143","Buttermilk Pancakes","Breakfast",3.4,"Pound",1061
+"5144","Buttermilk Pancakes","Breakfast",3.4,"Pound",1061
+"5145","Frittata (basic)","Breakfast",6.8,"Pound",1061
+"5146","OBrien Potatoes","Breakfast",5.2,"Pound",1061
+"5147","Scrambled Eggs","Breakfast",2,"Pound",1061
+"5148","Salmon with Leeks and Red Pepper","Dinner",4,"Pound",1059
+"5149","Mashed Potatoes","Dinner",11,"Pound",1059
+"5150","Peas","Dinner",3,"Pound",1059
+"5151","Meat Sauce","Dinner",1.8,"Pound",1059
+"5152","Buttermilk Pancakes","Lunch",1.8,"Pound",1064
+"5153","Scrambled Eggs","Lunch",3.8,"Pound",1064
+"5154","Frittata (basic)","Breakfast",3,"Pound",1065
+"5155","Scrambled Eggs","Breakfast",2,"Pound",1065
+"5156","Buttermilk Pancakes","Breakfast",3.2,"Pound",1065
+"5157","Country Style Hash Browns","Breakfast",4.2,"Pound",1065
+"5158","Frittata (basic)","Breakfast",7.6,"Pound",1065
+"5159","Scrambled Eggs","Breakfast",3,"Pound",1066
+"5160","Breakfast Potatoes","Breakfast",2,"Pound",1066
+"5161","Blueberry Pancakes","Breakfast",0.5,"Pound",1066
+"5162","Blueberry Pancakes","Breakfast",0.1,"Pound",1066
+"5163","Scrambled Eggs","Breakfast",6,"Pound",1067
+"5164","Pumpkin Pancakes","Breakfast",2.6,"Pound",1067
+"5165","Frittata (basic)","Breakfast",4,"Pound",1067
+"5166","Home Fries","Breakfast",2.1,"Pound",1067
+"5167","Scrambled Eggs","Breakfast",9,"Pound",1067
+"5168","Frittata (basic)","Breakfast",2,"Pound",1067
+"5169","Bacon","Breakfast",1.5,"Pound",1067
+"5170","Pumpkin Pancakes","Breakfast",1.5,"Pound",1067
+"5171","Frittata (basic)","Breakfast",4.6,"Pound",1069
+"5172","Grilled Cheese","Dinner",5,"Pound",1069
+"5173","Grilled Chicken Breast","Dinner",4,"Pound",1069
+"5174","Grilled Hot Dogs","Dinner",1,"Pound",1069
+"5175","Crinkle Cut Fries","Dinner",6,"Pound",1069
+"5176","Hard Boiled Eggs","Lunch",2,"Pound",1071
+"5177","Chefs Choice Pasta du Jour","Lunch",1.5,"Pound",1071
+"5178","Buttermilk Pancakes","Breakfast",2.6,"Pound",1072
+"5179","Home Fries","Breakfast",3.1,"Pound",1072
+"5180","Southwest Vegetable Wrap","Lunch",10,"Pound",1072
+"5181","Sauteed Peppers","Lunch",3,"Pound",1072
+"5182","Sauteed Onions","Lunch",2.7,"Pound",1072
+"5183","Meatball  in Marinara Sauce","Lunch",7,"Pound",1072
+"5184","Italian Sausage Links","Lunch",5.3,"Pound",1072
+"5185","Fresh Cut Zucchini","Lunch",0.3,"Pound",1072
+"5186","Farro and Sweet Potato Bake","Lunch",8.1,"Pound",1072
+"5187","Grilled Cheese","Dinner",2,"Pound",1072
+"5188","Grilled Hot Dogs","Dinner",1,"Pound",1072
+"5189","Grilled Chicken Breast","Dinner",6,"Pound",1072
+"5190","Brown Rice","Dinner",7.4,"Pound",1074
+"5191","Brown Rice","Dinner",13.8,"Pound",1074
+"5192","Scrambled Eggs","Breakfast",3.4,"Pound",1074
+"5193","Strawberry Pancakes","Breakfast",3.6,"Pound",1074
+"5194","Frittata (basic)","Breakfast",5.4,"Pound",1074
+"5195","Roasted Root Vegetables","Dinner",2,"Pound",1076
+"5196","Sauteed Pork Cutlet","Dinner",3.1,"Pound",1076
+"5197","Chefs Choice Pasta du Jour","Dinner",3,"Pound",1076
+"5198","Meatless Mongolian Stir Fry","Dinner",3.7,"Pound",1076
+"5199","Sticky Rice","Dinner",3.8,"Pound",1076
