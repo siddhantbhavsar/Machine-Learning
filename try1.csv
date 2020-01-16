@@ -1,0 +1,562 @@
+,Location,locationId,clientId,itemName,Freq
+0,Westford,53,46000015070,Chicken Tenders,1202
+1,Westford,53,46000060414,Macaroni & Cheese,881
+2,Westford,53,46000057474,Mashed Potatoes,534
+3,Westford,53,46000057221,VEGETABLES GRILLED HB,433
+4,Westford,53,46000022020,SHEPHERDS PIE BEEF HB,356
+5,Westford,53,46000064890,Green Beans with Roasted Garlic,339
+6,Westford,53,46000064940,Scrambled Eggs,227
+7,Westford,53,46000029505,Garlic Parm Pork Loin with Broccoli Rabe,223
+8,Westford,53,46000029306,Sauerkraut & Sweet Potato Pierogis,220
+9,Westford,53,46000024415,Rosemary Roasted Potatoes with Lemon,215
+10,Westford,53,46000028909,Mustard Ale Glazed Chicken Breast,190
+11,Westford,53,46000064891,Steamed Broccoli,187
+12,Westford,53,46000059704,Teriyaki Chicken Thighs,183
+13,Westford,53,46000060011,Maple Dry Rub Bacon,163
+14,Westford,53,46000024654,Breakfast Sausage,161
+15,Westford,53,46000029305,Creamy Smoked Mushroom Meatloaf,153
+16,Westford,53,46000028899,Balsamic Chicken Thighs,147
+17,Westford,53,46000058382,Breakfast Potatoes,141
+18,Westford,53,46000059679,Sautéed Peppers & Onions,141
+19,Westford,53,46000064881,FRENCH TOAST CHALLAH HB,138
+20,Westford,53,46000028908,Apple Cider Glazed Carrots,131
+21,Westford,53,46000059700,OMELETTE HAM CHEESE HB,124
+22,Westford,53,46000008992,EGG BELL PEPPER HB,118
+23,Westford,53,46000057669,Buttered Cabbage,118
+24,Westford,53,46000029500,Pollock Puttanesca,113
+25,Westford,53,46000063711,Garlic Parmesan Chicken Wings,112
+26,Westford,53,46000025805,YUCCA FRIES CILANTRO LIME HB,109
+27,Westford,53,28452000000,Grilled Chicken Breast,103
+28,Westford,53,46000050492,Scrambled Egg Whites,103
+29,Westford,53,46000055863,Romaine Lettuce,102
+30,Westford,53,46000059680,Sautéed Mushrooms with Garlic,100
+31,Westford,53,46000063826,HUEVOS RANCHEROS HB,97
+32,Westford,53,46000011487,Pierogis with Fried Onions,95
+33,Westford,53,46000055911,Red Quinoa,95
+34,Westford,53,46000006106,Chicken Parmesan,90
+35,Westford,53,46000008487,Cucumbers,87
+36,Westford,53,46000008060,BBQ Beef Meatloaf,86
+37,Westford,53,46000012679,Orange Chicken,83
+38,Westford,53,26488200000,Steel Cut Oatmeal,81
+39,Westford,53,46000011094,Texas Barbeque Ribs,79
+40,Westford,53,46000057439,Chicken Tikka Masala,77
+41,Westford,53,46000005678,Chicken Cacciatore,76
+42,Westford,53,46000029300,Butternut Orange Cauliflower Wedges,74
+43,Westford,53,46000064879,Tater Tots,72
+44,Westford,53,46000020407,Maple Roasted Sweet Potatoes,70
+45,Westford,53,46000055751,Broccoli,66
+46,Westford,53,46000055832,Hard Boiled Egg,64
+47,Westford,53,46000030026,Roasted Salt & Pepper Turkey Breast & Gravy,62
+48,Westford,53,46000055881,Organic Red Onions,61
+49,Westford,53,46000007360,Organic Fresh Fields Greens,60
+50,Westford,53,46000007337,Cooked Red Beets,57
+51,Westford,53,46000055765,Red Cabbage,57
+52,Westford,53,46000055775,Cauliflower,57
+53,Westford,53,46000028996,Paleo Friendly Roasted Zucchini,53
+54,Westford,53,46000060636,Feta Cheese,53
+55,Westford,53,46000063814,Tofu Pepper Scramble,53
+56,Westford,53,46000055794,Organic Corn,52
+57,Westford,53,46000064385,Brown Rice,52
+58,Westford,53,46000055772,Shredded Carrots,51
+59,Westford,53,46000064603,Golden Sesame Tofu,51
+60,Westford,53,46000063709,Buffalo Chicken Wings,50
+61,Westford,53,46000007289,Baked Barbeque Chicken,49
+62,Westford,53,46000063907,Carrot Harissa Salad,48
+63,Westford,53,46000011087,Zucchini Noodles,47
+64,Westford,53,46000021881,Roasted Chicken with Paprika & Olives,46
+65,Westford,53,46000028995,Paleo Friendly Roasted Butternut Squash,46
+66,Westford,53,46000055736,Mixed Bell Peppers,46
+67,Westford,53,46000060410,Cheese Lasagna,46
+68,Westford,53,46000028993,Paleo Friendly Roasted Red Bell Peppers,44
+69,Westford,53,46000055714,Arugula,44
+70,Westford,53,46000058735,Dolmas,44
+71,Westford,53,46000028906,Pickled Pepper Brussels Sprouts,43
+72,Westford,53,46000055777,Celery,43
+73,Westford,53,46000016104,Organic Rainbow Cherry Tomato,42
+74,Westford,53,46000020867,Loaded Cheeseburger Macaroni & Cheese,42
+75,Westford,53,46000028992,Paleo Friendly Roasted Cremini Mushrooms,42
+76,Westford,53,46000000782,Cranberry Walnut Kale Salad,41
+77,Westford,53,46000059670,Sesame Noodles,40
+78,Westford,53,46000007161,SALAD FOUR BEAN SB,39
+79,Westford,53,46000055820,Garbanzo Beans,39
+80,Westford,53,46000028962,Maria's Beef Meatballs,38
+81,Westford,53,46000020405,Kale Sauteed with Mushrooms,37
+82,Westford,53,27254600000,KALE SALAD CRANBERRY WALNUT CC,36
+83,Westford,53,46000003326,Falafel,36
+84,Westford,53,46000008996,Tofu Breakfast Scramble,36
+85,Westford,53,46000012696,Mixed Berries,35
+86,Westford,53,46000021721,CAULIFLOWER CAULILINI CURRY SB,35
+87,Westford,53,46000059365,OLIVES CITRUS MARINATED,35
+88,Westford,53,46000055770,Rainbow Carrots,34
+89,Westford,53,46000060958,Thai Fried Rice,34
+90,Westford,53,46000029506,Mushroom & Kale Cavatappi Pasta,33
+91,Westford,53,46000029503,Pumpkin Tortellini,30
+92,Westford,53,46000055893,Organic Peas,30
+93,Westford,53,46000020417,Traditional Herb Stuffing,29
+94,Westford,53,46000055943,Tomatoes,29
+95,Westford,53,46000003328,Spinach Feta Orzo,28
+96,Westford,53,46000007116,Grated Parmesan,28
+97,Westford,53,46000055932,Organic Spinach,28
+98,Westford,53,46000007338,Kalamata Olives,27
+99,Westford,53,46000029845,Cranberry Beans,26
+100,Westford,53,46000055933,Spinach,26
+101,Westford,53,46000014732,Beef Stew,24
+102,Westford,53,46000017196,Sweet Chili Pollock,24
+103,Westford,53,27848700000,Spinach Feta Orzo,23
+104,Westford,53,46000010510,Sauteed Collard Greens,23
+105,Westford,53,46000016508,Moms Chicken Soup,23
+106,Westford,53,22832300000,SALAD GREEN AND GIGANDE BEAN,22
+107,Westford,53,46000013171,Turmeric Roasted Sweet Potatoes,22
+108,Westford,53,46000011889,Fall Harvest Salad,21
+109,Westford,53,46000014320,Butternut Squash Salad,21
+110,Westford,53,46000016511,Nanas Chicken Noodle Soup,21
+111,Westford,53,46000022022,Creamed Spinach & Kale,20
+112,Westford,53,46000025413,Skillet Beef with Corn & Black Beans,20
+113,Westford,53,46000027328,Ciliegine Mozzarella,20
+114,Westford,53,27089400000,Grilled Salmon,19
+115,Westford,53,46000055738,Red Bell Peppers,19
+116,Westford,53,46000055923,Organic Roasted Sweet Potatoes,19
+117,Westford,53,46000007475,VEGETABLE RICED CONFETTI SB,18
+118,Westford,53,46000028907,Mustard Ale Brussels Sprouts,17
+119,Westford,53,46000007293,Thai Chili Baked Chicken,16
+120,Westford,53,46000016509,New England Clam Chowder,16
+121,Westford,53,46000018498,Double Cheddar Broccoli Soup,16
+122,Westford,53,46000029303,Butternut Macaroni & Cheese,16
+123,Westford,53,46000016512,Tomato Parmesan Soup,15
+124,Westford,53,46000008373,Teriyaki Chicken Wings,13
+125,Westford,53,46000018499,Lentil Dal & Spinach Soup,13
+126,Westford,53,46000020414,Mashed Butternut Squash,13
+127,Westford,53,46000028994,Paleo Friendly Roasted Romanesco,13
+128,Westford,53,46000055825,Green Grapes,13
+129,Westford,53,46000057583,Potato Samosa,13
+130,Westford,53,46000018496,Beef Chili with Beans,12
+131,Westford,53,46000028875,Curry Caulilini & Roasted Grape,12
+132,Westford,53,46000055913,Organic Quinoa,12
+133,Westford,53,46000058366,Curry Chicken,12
+134,Westford,53,46000060719,Vegetable Panang,12
+135,Westford,53,46000064602,Garlic Green Beans,12
+136,Westford,53,46000023220,Spicy Ground Beef & Broccoli,11
+137,Westford,53,46000028979,Sweet & Sour Brussels Sprouts,11
+138,Westford,53,46000060270,BBQ Chicken Wings,11
+139,Westford,53,46000064480,Roasted Rainbow Carrots,11
+140,Westford,53,46000007336,Grilled Asparagus,10
+141,Westford,53,46000064576,Grilled Portobello Mushroom,10
+142,Westford,53,46000064581,Grilled Zucchini,10
+143,Westford,53,46000007335,Grilled Red Onions,9
+144,Westford,53,46000025412,Beef with Feta & Olives,9
+145,Westford,53,46000055341,Cauliflower & Radicchio Salad,9
+146,Westford,53,46000064571,Lemon Dill Pollock,9
+147,Westford,53,46000064783,Grilled Tofu,9
+148,Westford,53,46000007114,Green Garbanzo Bean Salad,8
+149,Westford,53,46000024583,Chicken Broccoli Alfredo Pasta,8
+150,Westford,53,46000026989,Grilled Lemon Parsley Chicken Quarters,8
+151,Westford,53,46000059425,Roasted Red Peppers,8
+152,Westford,53,46000064785,Falafel,8
+153,Westford,53,26661900000,Roasted Garlic & Herb Half Rotisserie Chicken,7
+154,Westford,53,46000005582,Carrot Ginger Coconut Soup,7
+155,Westford,53,46000029309,Salt & Vinegar Fingerling Potatoes,7
+156,Westford,53,46000058486,Prosciutto Roasted Brussels Sprouts,7
+157,Westford,53,46000059701,"Pollock, Olive Tomato & Parsley HSH NA",7
+158,Westford,53,95501,Hot Bar,7
+159,Westford,53,22785600000,Breaded Chicken Tender,6
+160,Westford,53,26485200000,Bacon Egg & Cheese Sandwich,6
+161,Westford,53,46000007160,Chicken Caesar Pasta Salad,6
+162,Westford,53,46000007334,Grilled Peppers,6
+163,Westford,53,46000023228,Mushroom & Herb Meatloaf,6
+164,Westford,53,46000028877,Roasted Garlic Broccoli Rabe,6
+165,Westford,53,46000030037,Green Beans & Shallots,6
+166,Westford,53,46000050195,Quiche Lorraine,6
+167,Westford,53,26489600000,Egg & Cheese Sandwich on an English Muffin,5
+168,Westford,53,26490600000,Ham & Egg Sandwich,5
+169,Westford,53,46000007356,Roasted Cauliflower,5
+170,Westford,53,46000008985,Paleo Sriracha Cauliflower,5
+171,Westford,53,46000020371,Cider Mustard Pork Loin,5
+172,Westford,53,46000029438,Baked Tofu Waldorf Salad,5
+173,Westford,53,46000064462,Grilled Yellow Bell Peppers,5
+174,Westford,53,46000064570,Carrot Ginger Pollock,5
+175,Westford,53,46000004680,Chipotle Macaroni & Cheese,4
+176,Westford,53,46000018408,"Cauliflower, Kounoupidi with Pistachios & Mint HB NA",4
+177,Westford,53,46000019140,Al Forno Patate Potatoes,4
+178,Westford,53,46000024762,Buffalo Soy Nuggets,4
+179,Westford,53,46000026167,Couscous with Vegetables,4
+180,Westford,53,46000029301,Chicken Breast with Apples & Bacon,4
+181,Westford,53,46000029637,Yellow Wax Beans,4
+182,Westford,53,46000062848,Roasted Tomatoes,4
+183,Westford,53,46000018500,Turkey Chili with White Beans,3
+184,Westford,53,46000020411,Chili Garlic Roasted Cauliflower,3
+185,Westford,53,46000021989,Cranberry Cashew Brussels Sprouts Salad,3
+186,Westford,53,46000026987,Garlic Herb Chicken Thighs,3
+187,Westford,53,46000026993,"Green Beans, Tomato Garlic HB NA",3
+188,Westford,53,46000029439,Apple Cheddar Brussels Sprout Slaw,3
+189,Westford,53,46000050193,Broccoli Cheddar Quiche,3
+190,Westford,53,46000055715,Organic Arugula,3
+191,Westford,53,46000060723,Vegetarian Black Beans,3
+192,Westford,53,46000064782,Eggless Tofu Salad,3
+193,Westford,53,46000064784,Roasted Sweet Potato,3
+194,Westford,53,24249500000,Italian Style Roast Beef,2
+195,Westford,53,46000003990,Buffalo Bleu Macaroni & Cheese,2
+196,Westford,53,46000007288,Blue Cheese Crumbles,2
+197,Westford,53,46000018643,Black Beans & Brown Rice with Scallions,2
+198,Westford,53,46000024561,Eggplant Ricotta Rollatini,2
+199,Westford,53,46000029436,Spicy Peanut Tofu Curry,2
+200,Westford,53,46000029846,Orange Cauliflower,2
+201,Westford,53,46000050194,Quiche Florentine,2
+202,Westford,53,46000055340,Broccolini & Bowtie Pasta Salad,2
+203,Westford,53,46000058346,Chickpea Salad,2
+204,Westford,53,46000059671,Hummus,2
+205,Westford,53,46000064386,Cooked White Rice,2
+206,Westford,53,46000064572,Lemon Parsley Pollock,2
+207,Westford,53,48000037962,SALAD KIT CHICKEN CAESAR PASTA,2
+208,Westford,53,95503,Breakfast Bar,2
+209,Westford,53,25725600000,KALE PAD THAI SALAD SWEET SPICY HSH CC,1
+210,Westford,53,46000004373,Mushroom & Barley Soup,1
+211,Westford,53,46000008442,"Beet, Kale, and Mango Salad",1
+212,Westford,53,46000008519,Roasted Apples & Parsnips,1
+213,Westford,53,46000010140,Lime Chipotle Tofu,1
+214,Westford,53,46000018407,"Potatoes, Patates Psites HB NA",1
+215,Westford,53,46000019792,Broccoli & Grilled Sweet Onions,1
+216,Westford,53,46000020373,Rainbow Roasted Carrots with Parsley,1
+217,Westford,53,46000020408,Honey Sriracha Fried Tofu,1
+218,Westford,53,46000021416,Artichoke Hearts,1
+219,Westford,53,46000022030,Vegetable Fried Rice,1
+220,Westford,53,46000024077,Chinese Black Pepper Green Beans,1
+221,Westford,53,46000024580,Garlic Broccoli Rabe,1
+222,Westford,53,46000025411,Beef Cavatappi Chop Suey,1
+223,Westford,53,46000025814,Cumin Roasted Vegetables,1
+224,Westford,53,46000026992,Honey Pistachio Green Beans,1
+225,Westford,53,46000027416,Caribbean Mango Chicken Wings,1
+226,Westford,53,46000028911,Roasted Mustard Ale Potatoes & Dill,1
+227,Westford,53,46000029060,Sicilian Cauliflower,1
+228,Westford,53,46000029302,Butternut Pollock with Garlic & Chili,1
+229,Westford,53,46000029304,Mushroom & Herb Beef Meatballs,1
+230,Westford,53,46000029434,Game Day Chicken Salad with Bacon,1
+231,Westford,53,46000029435,Cremini Insalata Tricolore,1
+232,Westford,53,46000029497,Agrodulce Carrots,1
+233,Westford,53,46000029498,Fig Balsamic Mushrooms,1
+234,Westford,53,46000029948,Paleo Friendly Chicken Salad,1
+235,Westford,53,46000055917,Radishes,1
+236,Westford,53,46000055918,Organic Radish,1
+237,Westford,53,46000055953,Wheatberries,1
+238,Westford,53,46000058734,Hearts Of Palm,1
+239,Westford,53,46000060502,Chili Almond Dressing,1
+240,Westford,53,46000060637,Goat Cheese,1
+241,Westford,53,46000062679,Roasted Pork with Apples & Sage,1
+242,Westford,53,46000063307,Cumin Roasted Carrots,1
+243,Westford,53,46000063712,Bangkok Chicken Wings,1
+244,Westford,53,46000064546,Red Chili Flakes,1
+245,Westford,53,46000064980,Tomato Olive Chicken,1
+246,Westford,53,48000004697,Potato Swt 3/4 Dcd 4X5Lb Cv,1
+247,Westford,53,81445302812,DRESSING PICKLED PEPPER VINAIGRETTE,1
+248,Westford,53,95502,Salad Bar,1
+249,West hartford,54,46000007582,Chicken Tenders,396
+250,West hartford,54,46000064394,FRIES FRENCH REGULAR CUT,207
+251,West hartford,54,46000063819,Blueberry Lemon Pancakes,182
+252,West hartford,54,46000064443,Mom's Chicken Soup,176
+253,West hartford,54,46000018118,CAKES CORN RED PEPPER,117
+254,West hartford,54,46000004910,Beef Chili,109
+255,West hartford,54,46000064884,FRENCH TOAST SANDWICH BREAD WHITE HB,86
+256,West hartford,54,46000065008,Turkey Bacon,81
+257,West hartford,54,46000064878,"Fries, Waffle",80
+258,West hartford,54,46000019851,MAC CHEESE PEA BACON BRDCRMB HB,75
+259,West hartford,54,46000004909,Turkey Chili,62
+260,West hartford,54,46000018075,Sublime Swine Smoked Pulled Pork,57
+261,West hartford,54,46000055793,Corn,54
+262,West hartford,54,46000065097,Sausage Patties,49
+263,West hartford,54,46000006607,Black Beans,48
+264,West hartford,54,46000006973,Grilled Cajun Chicken Thighs,47
+265,West hartford,54,46000010550,Roasted Mushrooms,45
+266,West hartford,54,46000018073,CHICKEN THIGH SMOKED MAGNET,45
+267,West hartford,54,46000007600,EGG BAKED HB,43
+268,West hartford,54,46000063050,Spring Mix,43
+269,West hartford,54,46000008434,Hash Browns,36
+270,West hartford,54,46000007145,Pineapple Fried Rice,35
+271,West hartford,54,46000055892,Peas,35
+272,West hartford,54,46000055914,QUINOA WHITE CV SB,35
+273,West hartford,54,46000022021,GRAVY TURKEY CV HB,32
+274,West hartford,54,46000057444,Lemon Rice,32
+275,West hartford,54,46000057614,BRUSSELS SPROUTS ROASTED HB,32
+276,West hartford,54,46000059884,PORK CARNITAS OSI HB,32
+277,West hartford,54,46000055807,Edamame,31
+278,West hartford,54,46000056666,BEEF BARBACOA JALAPENO HB,31
+279,West hartford,54,46000020768,Roasted Bier Brats with Apples & Cabbage Oktoberfest,30
+280,West hartford,54,46000024076,Lemon Artichoke Slaw,29
+281,West hartford,54,46000056602,SPINACH STEAMED HB,29
+282,West hartford,54,46000055848,Kidney Beans,28
+283,West hartford,54,46000017288,Roasted Veg Medley,27
+284,West hartford,54,46000060727,CELERY SLICED SB,27
+285,West hartford,54,23527800000,CARROT HARISSA SALAD CC,25
+286,West hartford,54,46000055768,Cantalope,25
+287,West hartford,54,46000055842,Kale,25
+288,West hartford,54,48000004789,CORN TORTILLA CHIPS,25
+289,West hartford,54,46000024761,GUACAMOLE SB,24
+290,West hartford,54,46000030595,SOUP CREAM OF MUSHROOM HB,24
+291,West hartford,54,46000055733,BEETS SHREDDED OG SB,24
+292,West hartford,54,46000062686,Thai Peanut Chicken Thighs,24
+293,West hartford,54,46000064022,Mesclun Goat Cheese Salad,24
+294,West hartford,54,27489000000,KALE SESAME GINGER CC,22
+295,West hartford,54,48000006773,CABBAGE GRN CRRT SHRD 4/5LB OG,22
+296,West hartford,54,46000022419,Kale White Bean Salad,21
+297,West hartford,54,46000055903,Pineapple,21
+298,West hartford,54,46000057670,SOUP BUTTERNUT SQUASH HB,21
+299,West hartford,54,46000010703,SALAD TAILGATE COLESLAW SB,20
+300,West hartford,54,46000020370,"Potatoes, Cider Mustard",20
+301,West hartford,54,48000008634,TERIYAKI CHICKEN THIGHS,20
+302,West hartford,54,46000055930,SOUR CREAM SB,19
+303,West hartford,54,46000030656,SOUP PUMPKIN CURRY HB,18
+304,West hartford,54,46000055812,Farro,18
+305,West hartford,54,46000056506,Roasted Garlic,18
+306,West hartford,54,46000006979,Coconut Chicken Curry,17
+307,West hartford,54,46000018074,Smoked Boneless Chicken Thighs,17
+308,West hartford,54,46000030555,Red Pepper Fried Rice,17
+309,West hartford,54,46000059666,DIP TZATZIKI SB,16
+310,West hartford,54,46000060630,CHEESE CHEDDAR SHREDDED SB,16
+311,West hartford,54,46000014824,Fingerling Potatoes w/ Leeks,15
+312,West hartford,54,46000060601,SALAD CORN ARUGULA SB,15
+313,West hartford,54,46000063809,Cinnamon Raisin Oat Meal,15
+314,West hartford,54,46000063816,SAUSAGE BREAKFAST LINKS HB,15
+315,West hartford,54,46000064903,BACON BITS SB,15
+316,West hartford,54,00449791900,FRIES .3IN REGULAR CUT NO TRANSFAT,13
+317,West hartford,54,09948248558,SOUP BISQUE LOBSTER BULK,13
+318,West hartford,54,46000003438,Sweet & Spicy Kale Pad Thai,13
+319,West hartford,54,46000020868,MACARONI CHEESE PEPPADEW GOAT CHEESE HB,12
+320,West hartford,54,46000019137,Lemon Garlic Broccolini,11
+321,West hartford,54,46000013174,TURKEY BREAST HB,10
+322,West hartford,54,46000018079,Honey Jalapeno Wings,10
+323,West hartford,54,46000060957,TOFU YELLOW CURRY HB,10
+324,West hartford,54,48000037963,PICO DE GALLO MILD,9
+325,West hartford,54,46000031328,CHICKEN BREAST CABBAGE BACON HB,8
+326,West hartford,54,46000019852,Buffalo Blue Mac & Cheese,7
+327,West hartford,54,46000031332,MACARONI CHEESE CAULIFLOWER HB,7
+328,West hartford,54,26120900000,Garlic Parmesan Pasta,6
+329,West hartford,54,46000015079,Chicken Pasta Caesar Salad,6
+330,West hartford,54,46000016161,DAL PALAK BOMBAY,6
+331,West hartford,54,46000029918,"Tofu, Ginger Coriander",6
+332,West hartford,54,46000055729,Golden Beets,6
+333,West hartford,54,46000060717,NAAN REGULAR HB,6
+334,West hartford,54,48000004791,FLOUR TORTILLA CHIPS,6
+335,West hartford,54,27110600000,KALE TUSCAN GARLICKY CC,5
+336,West hartford,54,46000007609,Kale & Brussel Sprout Salad,5
+337,West hartford,54,46000011745,"Cauliflower, Curry Roasted with Peas",5
+338,West hartford,54,46000029962,"Chicken, Spicy Kerala Pepper",5
+339,West hartford,54,46000031329,FISH BAKED SPINACH TOMATO BUTTER HB,5
+340,West hartford,54,46000057364,VEGETABLE KORMA HB,5
+341,West hartford,54,46000026991,Za'atar Eggplant,4
+342,West hartford,54,46000029504,"Sausage, Grilled with Broccoli Rabe",4
+343,West hartford,54,46000030014,Vegan Black Eyed Pea Fritters,4
+344,West hartford,54,46000030017,CASSEROLE GREEN BEAN HB,4
+345,West hartford,54,46000055834,Hearts of Palm,4
+346,West hartford,54,46000060421,Creamy Mashed Potatoes,4
+347,West hartford,54,46000064020,SALAD MIXED GREENS SB,4
+348,West hartford,54,46000013789,Vegan Split Pea Soup,3
+349,West hartford,54,46000014728,"Kale, Garlic Wine",3
+350,West hartford,54,46000024571,"Carrots, Salt & Vinegar",3
+351,West hartford,54,46000029299,"Brussels Sprouts, Cacio e Pepe",3
+352,West hartford,54,46000029959,"Beef, Spicy Black Pepper Curry",3
+353,West hartford,54,46000029961,"Chicken Korma, Hyderabadi Cashew",3
+354,West hartford,54,46000059993,Roasted Eggplant,3
+355,West hartford,54,46000063820,PANCAKES BUTTERMILK HB,3
+356,West hartford,54,27994400000,Beets w/ Sherry Vinaigrette,2
+357,West hartford,54,46000007355,Roasted Broccoli,2
+358,West hartford,54,46000007476,Zucchini,2
+359,West hartford,54,46000013532,CHICKEN CAJUN ROASTED HB,2
+360,West hartford,54,46000018070,Cow Bell Hell Smoked Beef Tips,2
+361,West hartford,54,46000018400,Tortellini & Sopressata,2
+362,West hartford,54,46000020861,Butternut & Mushroom Mac,2
+363,West hartford,54,46000021385,Mashed Avocado,2
+364,West hartford,54,46000024075,Fennel Pistachio Lemon Vin Salad,2
+365,West hartford,54,46000024079,Chickpea Asparagus Radicchio,2
+366,West hartford,54,46000024575,Marinated Feta,2
+367,West hartford,54,46000025643,Broccoli Cheddar Quiche,2
+368,West hartford,54,46000026023,Thai Coconut Shrimp Soup,2
+369,West hartford,54,46000028876,Carrot Cranberry Salad,2
+370,West hartford,54,46000028910,"Greens, Apple Cider",2
+371,West hartford,54,46000029957,"Vegetable Korma, Hyderabadi Cashew",2
+372,West hartford,54,46000029960,"Chicken, Mangalore Ghee",2
+373,West hartford,54,46000030837,BROCCOLI RABE PALEO ROASTED HB,2
+374,West hartford,54,46000059699,Egg White & Spinach Scramble,2
+375,West hartford,54,46000064401,Caesar Salad,2
+376,West hartford,54,66797810794,SAUCE CRANBERRY CV BULK,2
+377,West hartford,54,46000007290,Curried Cauliflower,1
+378,West hartford,54,46000018076,Blackened Potatoes,1
+379,West hartford,54,46000018077,Garlic Parm & Pepper Potatoes,1
+380,West hartford,54,46000019141,RICE LIME CILANTRO HB,1
+381,West hartford,54,46000021987,"Salad, Cranberry Orange Kale SB NA",1
+382,West hartford,54,46000027069,Champagne Dijon Potato Salad,1
+383,West hartford,54,46000027159,Chicken & Scallion Salad,1
+384,West hartford,54,46000028980,"Green Beans, Caraway Dill",1
+385,West hartford,54,46000030044,STEW SPICY MUSHROOM ETOUFFEE HB,1
+386,West hartford,54,46000030045,SWEET POTATO MAPLE MASHED HB,1
+387,West hartford,54,46000030846,HASH ROOT VEG HONEY PEPPER GARLIC HB,1
+388,West hartford,54,46000030852,SALAD BRUSSELS BUTTERNUT MAPLE WALNUT SB,1
+389,West hartford,54,46000064399,Greek Salad,1
+390,West hartford,54,9948248557,SOUP AROMATIC BUTTERNUT,1
+391,West hartford,54,9948248921,SOUP VEGAN PUMPKIN,1
+392,Hingham,52,46000063821,Pumpkin Pancakes,93
+393,Hingham,52,46000030553,Thai Peanut Chicken Thighs,88
+394,Hingham,52,46000025410,Fried Pollock,71
+395,Hingham,52,46000030552,Sweet Chili Green Beans,63
+396,Hingham,52,46000006968,Spicy Broccoli,57
+397,Hingham,52,46000011086,Vegetable Spring Rolls,56
+398,Hingham,52,46000064400,Mesclun Goat Cheese Salad,42
+399,Hingham,52,46000018399,Honey Mustard Chicken & Spinach Salad,40
+400,Hingham,52,46000064658,Sesame Chicken Salad,39
+401,Hingham,52,46000030554,Ginger Lime Sweet Potato with Crispy Onion,37
+402,Hingham,52,46000063908,Hearts of Palm Salad,35
+403,Hingham,52,46000055742,Black Beans,34
+404,Hingham,52,46000006971,Spanish Potato Salad,33
+405,Hingham,52,46000064395,Low Fat Vanilla Yogurt,32
+406,Hingham,52,46000030030,Collard Greens & Tomatoes,31
+407,Hingham,52,46000064396,Vanilla Almond Granola,28
+408,Hingham,52,46000029433,Roasted Beets with Pear & Cranberry,26
+409,Hingham,52,46000064906,Moroccan Beet Salad,22
+410,Hingham,52,46000059427,Snow Peas,20
+411,Hingham,52,46000025168,Charred Broccolini Caesar Salad,19
+412,Hingham,52,46000029440,Cheese Tortellini with Kale & Apple,17
+413,Hingham,52,27690800000,Sweet Chili Tofu,16
+414,Hingham,52,46000025414,Stuffed Peppers with Beef & Mixed Rice,16
+415,Hingham,52,46000029437,Roasted Turkey and Apricot Salad,16
+416,Hingham,52,46000029308,Turkey Mushroom Bacon Pot Pie,14
+417,Hingham,52,46000028964,Roasted Cauliflower with Peppadews,13
+418,Hingham,52,46000029307,Chicken Mushroom Bacon Pot Pie,11
+419,Hingham,52,46000014704,Zucchini Roasted Tomatoes,8
+420,Hingham,52,46000015649,Lemon Parsley Haddock,8
+421,Hingham,52,46000018440,"Rice, Spanakorizo HB NA",5
+422,Hingham,52,46000029501,Pancetta & Sage Sweet Potatoes,3
+423,Hingham,52,46000060277,Potato Skins with Sour Cream & Chives,3
+424,Hingham,52,46000005957,Black Pepper,2
+425,Hingham,52,46000007115,Dried Cranberries,2
+426,Hingham,52,46000019139,Sauteed Zucchini & Poblano,2
+427,Hingham,52,46000019783,Harissa Grilled Chicken Thighs,2
+428,Hingham,52,46000024976,Mushroom Herb Chicken,2
+429,Hingham,52,9948248935,SOUP CREAMY MUSHROOM,2
+430,Hingham,52,46000005955,Furikake,1
+431,Hingham,52,46000007604,Kale Sauteed with Raisins,1
+432,Hingham,52,46000007685,Salmon Caesar Salad,1
+433,Hingham,52,46000008982,Fried Buffalo Cauliflower,1
+434,Hingham,52,46000010080,Seafood Salad,1
+435,Hingham,52,46000011882,Apple Infused Dried Blueberries,1
+436,Hingham,52,46000017413,Spicy Eggplant Harissa,1
+437,Hingham,52,46000026985,Jamaican Cabbage Hot Slaw,1
+438,Hingham,52,46000026995,Tomato Artichoke Cavatappi,1
+439,Hingham,52,46000027005,Mediterranean Roasted Sweet Potato,1
+440,Hingham,52,46000030025,Vegan Cornbread Dressing,1
+441,Hingham,52,46000054348,Apple Cider Vinegar,1
+442,Hingham,52,46000055720,Balsamic Vinegar,1
+443,Hingham,52,46000060492,Bleu Cheese Dressing,1
+444,Hingham,52,46000060493,Buttermilk Ranch Dressing,1
+445,Hingham,52,46000064550,Hemp Seeds,1
+446,Dedham,51,26747000000,Cajun Wedged Sweet Potatoes ,164
+447,Dedham,51,46000026168,Turmeric Kale Rice,122
+448,Dedham,51,46000029958,"Sweet Potato, Mangalore Ghee with Spinach ",84
+449,Dedham,51,46000001661,Plantains,73
+450,Dedham,51,46000055836,Honeydew Melon,41
+451,Dedham,51,46000055938,Strawberries,39
+452,Dedham,51,46000013170,Seasonal Citrus ,37
+453,Dedham,51,46000027163,Potato & Scallion Salad ,37
+454,Dedham,51,46000055744,Blackberries,37
+455,Dedham,51,27661300000,Bistro Pasta Salad ,35
+456,Dedham,51,46000055747,Blueberries,34
+457,Dedham,51,46000055827,Red Grapes ,31
+458,Dedham,51,27661900000,Roman Cappellini Pasta Salad ,30
+459,Dedham,51,46000024081,Mexican Caesar Salad,29
+460,Dedham,51,46000055823,Gigande,26
+461,Dedham,51,46000025181,Chophouse Steak Salad ,22
+462,Dedham,51,46000007477,Summer Squash ,21
+463,Dedham,51,46000063817,Corned Beef Hash,21
+464,Dedham,51,46000060285,Sweet Potato & Vidalia Onion,19
+465,Dedham,51,46000059426,Snap Peas,17
+466,Dedham,51,46000020425,Roasted Butternut Squash,13
+467,Dedham,51,46000018433,Berry Power Salad,11
+468,Dedham,51,46000022040,Swedish Meatballs,10
+469,Dedham,51,46000024072,Mediterranean Salmon Salad ,10
+470,Dedham,51,46000014656,Chicken Marsala,4
+471,Dedham,51,46000026169,Bombay Potatoes,4
+472,Dedham,51,46000025644,Quiche Lorraine,3
+473,Dedham,51,22593200000,Maria's Beef Meatballs ,1
+474,Cranston,55,46000064578,American Chop Suey,258
+475,Cranston,55,46000008433,POTATO HOME FRIES HB,147
+476,Cranston,55,46000060718,Saffron Rice,126
+477,Cranston,55,46000016160,Buttered Chicken Meatballs,113
+478,Cranston,55,46000007560,TOFU SCRAMBLE BREAKFAST HB,106
+479,Cranston,55,46000055843,Organic Kale,106
+480,Cranston,55,46000007581,"Potatoes, Roasted Garlic & Rosemary HB NA",72
+481,Cranston,55,46000055935,Organic Spring Mix,65
+482,Cranston,55,46000064579,Grilled Tomato,54
+483,Cranston,55,46000055934,Organic Baby Spinach,51
+484,Cranston,55,46000007332,Grilled Eggplant,48
+485,Cranston,55,46000007333,Grilled Fennel,46
+486,Cranston,55,46000055773,Organic Matchstick Carrots,46
+487,Cranston,55,46000027169,Hatch Turkey Chili Salad,43
+488,Cranston,55,28796400000,Sante Fe Turkey Tips,42
+489,Cranston,55,46000064656,Salad Chicken Roasted Garlic Asparagus,42
+490,Cranston,55,46000055871,Slice Button Mushrooms,41
+491,Cranston,55,46000024765,Israeli Cucumber Salad,40
+492,Cranston,55,46000055728,BEETS CV SB,40
+493,Cranston,55,46000060413,Bourbon Wings,40
+494,Cranston,55,46000024073,Antipasto Salad,39
+495,Cranston,55,46000011734,Shredded Parmesan,38
+496,Cranston,55,46000064885,"Nuggets, Sesame Vegan HB NA",38
+497,Cranston,55,46000011157,Fried Buffalo Chicken Strips,37
+498,Cranston,55,26139600000,ORZO SALAD HEIRLOOM TOMATO KALE CC,36
+499,Cranston,55,46000059669,Tabbouleh,36
+500,Cranston,55,46000063808,OATMEAL STEEL CUT COCONUT MILK HB,36
+501,Cranston,55,46000026514,BBQ Peach Collard Kale Salad,35
+502,Cranston,55,46000055854,Lemon Wedges,35
+503,Cranston,55,46000014318,Balsamic Mushrooms,34
+504,Cranston,55,46000060242,Salmon Salad,34
+505,Cranston,55,46000063710,Sweet Chili Wings,34
+506,Cranston,55,26278000000,Buffalo Tofu,33
+507,Cranston,55,26740400000,Broccoli with Chilis,33
+508,Cranston,55,27074300000,Broccoli Crunch,33
+509,Cranston,55,46000006965,Chickpea Salad,33
+510,Cranston,55,46000063949,Sonoma Chicken Salad,33
+511,Cranston,55,46000064478,Grilled Bok Choy,33
+512,Cranston,55,48000009810,CROUTONS GARLIC BUTTER,33
+513,Cranston,55,27720900000,Bucks Tuna Salad,32
+514,Cranston,55,26104100000,Fuji Tuna Salad,30
+515,Cranston,55,46000021381,Grilled Naan,30
+516,Cranston,55,29952300000,Roasted Garlic,29
+517,Cranston,55,48000018567,Gigande Beans Salad,29
+518,Cranston,55,46000011089,Beet Noodle,28
+519,Cranston,55,46000055711,Artichokes,28
+520,Cranston,55,46000055808,Organic Edemame,28
+521,Cranston,55,26887100000,Garlic Teriyaki Tofu,27
+522,Cranston,55,46000008385,Pita Bread,27
+523,Cranston,55,46000055766,Organic Red Cabbage,27
+524,Cranston,55,46000055880,Diced Red Onion,27
+525,Cranston,55,46000055899,Pepperoncini,27
+526,Cranston,55,27470100000,Roast Beef,25
+527,Cranston,55,46000018687,"Burger, Beef with Mushrooms & Onions HB NA",25
+528,Cranston,55,46000026516,Summer Squash Panzanella,25
+529,Cranston,55,46000055877,Olives,25
+530,Cranston,55,46000055878,CV Green Onions,25
+531,Cranston,55,46000063681,TOMATO GRAPE SB OG,25
+532,Cranston,55,46000064170,Grilled Balsamic Chicken,25
+533,Cranston,55,28887900000,Curry Chicken Salad,21
+534,Cranston,55,46000058489,Plain Wings,18
+535,Cranston,55,46000013629,Queso Sauce,17
+536,Cranston,55,46000063825,EGGS POACHED HB,17
+537,Cranston,55,46000021383,Pumpkin Seed Pesto,15
+538,Cranston,55,46000023454,Pork Al Pastor,15
+539,Cranston,55,46000020429,Chicken White Bean,14
+540,Cranston,55,46000023453,Cilantro Lime Cauliflower Rice,13
+541,Cranston,55,46000060268,Steamed Carrots,11
+542,Cranston,55,46000015892,ONION RED GRILLED SB,10
+543,Cranston,55,46000021384,Mashed Garbanso,10
+544,Cranston,55,46000023452,Cumin Sweet Potatoes,10
+545,Cranston,55,46000004688,Garlic Lime Chicken,8
+546,Cranston,55,46000023455,Citrus Fajita Veggies,7
+547,Cranston,55,46000056503,Black Beans,7
+548,Cranston,55,46000008652,Black Olives,6
+549,Cranston,55,46000019788,Pickled Beets,6
+550,Cranston,55,46000062681,Sausage Peppers and Onions,4
+551,Cranston,55,82512000610,Corn Chips,4
+552,Cranston,55,46000006049,Bacon Ranch Potato Salad,3
+553,Cranston,55,82512000812,Flour Chips,3
+554,Cranston,55,24243900000,BURRITO BREAKFAST EGG,2
+555,Cranston,55,27819700000,Guacamole,2
+556,Cranston,55,46000021382,Grilled Sourdough,2
+557,Cranston,55,46000055858,Iceberg Lettuce - Shredded,2
+558,Cranston,55,46000060419,Pasta with Marinara,2
+559,Cranston,55,46000055786,Cilantro,1
+560,Cranston,55,46000055838,Fresh Jalapenos,1

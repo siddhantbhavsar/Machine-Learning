@@ -1,0 +1,136 @@
+,Location,Logged_Date,WrongEntries
+0,Cranston,2019-09-29,21
+1,Cranston,2019-09-30,23
+2,Cranston,2019-10-01,10
+3,Cranston,2019-10-02,8
+4,Cranston,2019-10-03,11
+5,Cranston,2019-10-04,12
+6,Cranston,2019-10-05,12
+7,Cranston,2019-10-06,10
+8,Cranston,2019-10-07,10
+9,Cranston,2019-10-08,6
+10,Cranston,2019-10-09,2
+11,Cranston,2019-10-10,8
+12,Cranston,2019-10-11,8
+13,Cranston,2019-10-12,2
+14,Cranston,2019-10-13,7
+15,Cranston,2019-10-14,1
+16,Cranston,2019-10-15,3
+17,Cranston,2019-10-16,1
+18,Cranston,2019-10-17,1
+19,Cranston,2019-10-22,1
+20,Cranston,2019-10-26,2
+21,Cranston,2019-10-27,12
+22,Cranston,2019-10-28,3
+23,Cranston,2019-10-29,4
+24,Cranston,2019-11-03,1
+25,Cranston,2019-11-10,1
+26,Dedham,2019-09-29,7
+27,Dedham,2019-09-30,2
+28,Dedham,2019-10-01,3
+29,Dedham,2019-10-02,5
+30,Dedham,2019-10-03,2
+31,Dedham,2019-10-04,2
+32,Dedham,2019-10-05,4
+33,Dedham,2019-10-06,2
+34,Dedham,2019-10-08,3
+35,Dedham,2019-10-10,2
+36,Dedham,2019-10-11,7
+37,Dedham,2019-10-12,2
+38,Dedham,2019-10-13,4
+39,Dedham,2019-10-14,1
+40,Dedham,2019-10-18,2
+41,Dedham,2019-10-19,3
+42,Dedham,2019-10-20,1
+43,Dedham,2019-10-22,1
+44,Dedham,2019-10-25,1
+45,Dedham,2019-10-26,3
+46,Dedham,2019-10-27,2
+47,Dedham,2019-10-29,1
+48,Dedham,2019-10-30,3
+49,Dedham,2019-10-31,2
+50,Dedham,2019-11-01,2
+51,Dedham,2019-11-02,2
+52,Dedham,2019-11-04,1
+53,Dedham,2019-11-06,1
+54,Dedham,2019-11-07,2
+55,Dedham,2019-11-08,4
+56,Dedham,2019-11-09,2
+57,Dedham,2019-11-10,4
+58,Dedham,2019-11-11,3
+59,Hingham,2019-09-29,10
+60,Hingham,2019-09-30,1
+61,Hingham,2019-10-01,5
+62,Hingham,2019-10-03,1
+63,Hingham,2019-10-04,1
+64,Hingham,2019-10-05,2
+65,Hingham,2019-10-06,1
+66,Hingham,2019-10-07,2
+67,Hingham,2019-10-16,1
+68,Hingham,2019-10-17,1
+69,Hingham,2019-10-18,2
+70,Hingham,2019-10-19,1
+71,Hingham,2019-10-20,23
+72,Hingham,2019-10-21,1
+73,Hingham,2019-10-23,22
+74,Hingham,2019-10-24,1
+75,Hingham,2019-10-25,1
+76,Hingham,2019-10-28,1
+77,Hingham,2019-10-29,1
+78,Hingham,2019-10-31,2
+79,Hingham,2019-11-01,1
+80,Hingham,2019-11-04,1
+81,Hingham,2019-11-06,1
+82,Hingham,2019-11-07,2
+83,Hingham,2019-11-08,1
+84,Hingham,2019-11-11,1
+85,West hartford,2019-09-29,3
+86,West hartford,2019-09-30,4
+87,West hartford,2019-10-01,1
+88,West hartford,2019-10-02,3
+89,West hartford,2019-10-03,1
+90,West hartford,2019-10-04,1
+91,West hartford,2019-10-05,1
+92,West hartford,2019-10-07,2
+93,West hartford,2019-10-08,2
+94,West hartford,2019-10-09,1
+95,West hartford,2019-10-13,2
+96,West hartford,2019-10-17,3
+97,West hartford,2019-10-26,19
+98,West hartford,2019-10-31,1
+99,West hartford,2019-11-01,1
+100,West hartford,2019-11-02,5
+101,West hartford,2019-11-03,1
+102,West hartford,2019-11-05,1
+103,Westford,2019-09-30,8
+104,Westford,2019-10-01,11
+105,Westford,2019-10-02,6
+106,Westford,2019-10-04,9
+107,Westford,2019-10-05,2
+108,Westford,2019-10-06,6
+109,Westford,2019-10-07,6
+110,Westford,2019-10-08,3
+111,Westford,2019-10-10,1
+112,Westford,2019-10-13,23
+113,Westford,2019-10-14,1
+114,Westford,2019-10-15,3
+115,Westford,2019-10-16,1
+116,Westford,2019-10-17,1
+117,Westford,2019-10-20,2
+118,Westford,2019-10-21,1
+119,Westford,2019-10-23,8
+120,Westford,2019-10-24,1
+121,Westford,2019-10-25,1
+122,Westford,2019-10-26,1
+123,Westford,2019-10-27,5
+124,Westford,2019-10-28,1
+125,Westford,2019-10-29,2
+126,Westford,2019-10-30,1
+127,Westford,2019-10-31,15
+128,Westford,2019-11-01,1
+129,Westford,2019-11-02,1
+130,Westford,2019-11-03,2
+131,Westford,2019-11-04,1
+132,Westford,2019-11-05,3
+133,Westford,2019-11-07,2
+134,Westford,2019-11-09,1

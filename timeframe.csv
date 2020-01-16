@@ -1,0 +1,72 @@
+,Location,Action_Taken,timetype,Count,Sum,Freq_Percent
+0,Cranston,Discarded,early_morning,81,1165,6.95
+1,Cranston,Discarded,morning,582,1165,49.96
+2,Cranston,Discarded,afternoon,68,1165,5.84
+3,Cranston,Discarded,evening,142,1165,12.19
+4,Cranston,Discarded,night,292,1165,25.06
+5,Cranston,Saved,morning,3,1364,0.22
+6,Cranston,Saved,evening,721,1364,52.86
+7,Cranston,Saved,night,640,1364,46.92
+8,Cranston,Served,early_morning,495,3913,12.65
+9,Cranston,Served,morning,2398,3913,61.28
+10,Cranston,Served,afternoon,755,3913,19.29
+11,Cranston,Served,evening,250,3913,6.39
+12,Cranston,Served,night,15,3913,0.38
+13,Dedham,Discarded,early_morning,3,1321,0.23
+14,Dedham,Discarded,morning,199,1321,15.06
+15,Dedham,Discarded,afternoon,215,1321,16.28
+16,Dedham,Discarded,evening,346,1321,26.19
+17,Dedham,Discarded,night,558,1321,42.24
+18,Dedham,Saved,morning,5,1236,0.4
+19,Dedham,Saved,afternoon,3,1236,0.24
+20,Dedham,Saved,evening,109,1236,8.82
+21,Dedham,Saved,night,1119,1236,90.53
+22,Dedham,Served,early_morning,38,3306,1.15
+23,Dedham,Served,morning,2119,3306,64.1
+24,Dedham,Served,afternoon,752,3306,22.75
+25,Dedham,Served,evening,392,3306,11.86
+26,Dedham,Served,night,5,3306,0.15
+27,Hingham,Discarded,early_morning,4,1061,0.38
+28,Hingham,Discarded,morning,186,1061,17.53
+29,Hingham,Discarded,afternoon,113,1061,10.65
+30,Hingham,Discarded,evening,270,1061,25.45
+31,Hingham,Discarded,night,488,1061,45.99
+32,Hingham,Saved,morning,5,826,0.61
+33,Hingham,Saved,afternoon,7,826,0.85
+34,Hingham,Saved,evening,19,826,2.3
+35,Hingham,Saved,night,795,826,96.25
+36,Hingham,Served,early_morning,108,3208,3.37
+37,Hingham,Served,morning,1797,3208,56.02
+38,Hingham,Served,afternoon,765,3208,23.85
+39,Hingham,Served,evening,531,3208,16.55
+40,Hingham,Served,night,7,3208,0.22
+41,West hartford,Discarded,early_morning,4,839,0.48
+42,West hartford,Discarded,morning,245,839,29.2
+43,West hartford,Discarded,afternoon,143,839,17.04
+44,West hartford,Discarded,evening,180,839,21.45
+45,West hartford,Discarded,night,267,839,31.82
+46,West hartford,Saved,early_morning,1,479,0.21
+47,West hartford,Saved,morning,2,479,0.42
+48,West hartford,Saved,afternoon,1,479,0.21
+49,West hartford,Saved,evening,33,479,6.89
+50,West hartford,Saved,night,442,479,92.28
+51,West hartford,Served,early_morning,523,3318,15.76
+52,West hartford,Served,morning,1475,3318,44.45
+53,West hartford,Served,afternoon,909,3318,27.4
+54,West hartford,Served,evening,399,3318,12.03
+55,West hartford,Served,night,12,3318,0.36
+56,Westford,Discarded,early_morning,20,2575,0.78
+57,Westford,Discarded,morning,642,2575,24.93
+58,Westford,Discarded,afternoon,798,2575,30.99
+59,Westford,Discarded,evening,802,2575,31.15
+60,Westford,Discarded,night,313,2575,12.16
+61,Westford,Saved,early_morning,175,903,19.38
+62,Westford,Saved,morning,80,903,8.86
+63,Westford,Saved,afternoon,3,903,0.33
+64,Westford,Saved,evening,453,903,50.17
+65,Westford,Saved,night,192,903,21.26
+66,Westford,Served,early_morning,465,4305,10.8
+67,Westford,Served,morning,2107,4305,48.94
+68,Westford,Served,afternoon,1055,4305,24.51
+69,Westford,Served,evening,675,4305,15.68
+70,Westford,Served,night,3,4305,0.07

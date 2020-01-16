@@ -1,0 +1,24 @@
+dateProduced,id,itemName,itemType,clientId,loggedTime,meal,actionTaken,actionReason,quantity,panId,panWeight,unit,station,employeeName,locationId
+2019-10-06,50760,Breakfast Potatoes,Menu Item,46000058382,2019-10-07T07:28:01.000Z,Breakfast,Served,Start,17.4606,105,3.46,Lbs,,,51
+2019-10-06,50761,Scrambled Eggs,Menu Item,46000064940,2019-10-07T07:28:21.000Z,Breakfast,Served,Start,10.3838,104,2.11,Lbs,,,51
+2019-10-06,50763,Ham & Cheese Omelet,Menu Item,46000059700,2019-10-07T07:28:45.000Z,Breakfast,Served,Start,12.5663,104,2.11,Lbs,,,51
+2019-10-06,50764,Egg White & Spinach Scramble,Menu Item,46000059699,2019-10-07T07:29:10.000Z,Breakfast,Served,Start,12.1475,104,2.11,Lbs,,,51
+2019-10-06,50766,Tofu Breakfast Scramble,Menu Item,46000008996,2019-10-07T07:29:30.000Z,Breakfast,Served,Start,5.20291,106,1.59,Lbs,,,51
+2019-10-06,50767,Broccoli Cheddar Quiche,Menu Item,46000025643,2019-10-07T07:30:01.000Z,Breakfast,Served,Start,3.7699,106,1.59,Lbs,,,51
+2019-10-06,50769,Peas,Menu Item,46000055892,2019-10-07T07:31:01.000Z,Breakfast,Discarded,Over Produced,9.47988,110,0.59,Lbs,,,51
+2019-10-06,50776,Roasted Sweet Potatoes,Menu Item,46000064784,2019-10-07T07:35:28.000Z,Breakfast,Served,Start,4.49743,106,1.59,Lbs,,,51
+2019-10-06,50779,Sausage Patties ,Menu Item,46000065097,2019-10-07T07:35:47.000Z,Breakfast,Served,Start,2.51327,106,1.59,Lbs,,,51
+2019-10-06,50780,Blueberry Lemon Pancakes,Menu Item,46000063819,2019-10-07T07:36:03.000Z,Breakfast,Served,Start,10.6483,104,2.11,Lbs,,,51
+2019-10-06,50782,Bacon ,Menu Item,46000060011,2019-10-07T07:36:24.000Z,Breakfast,Served,Start,5.88634,107,1.94,Lbs,,,51
+2019-10-06,50784,Turkey Bacon ,Menu Item,46000065008,2019-10-07T07:36:43.000Z,Breakfast,Served,Start,2.38099,106,1.59,Lbs,,,51
+2019-10-06,50975,Ham & Cheese Omelet,Menu Item,46000059700,2019-10-07T09:57:18.000Z,Breakfast,Discarded,Over Produced,4.54152,104,2.11,Lbs,,,51
+2019-10-06,51080,Turkey Bacon ,Menu Item,46000065008,2019-10-07T11:59:03.000Z,Breakfast,Served,Start,1.7637,106,1.59,Lbs,,,51
+2019-10-06,51127,Mashed Potatoes,Menu Item,46000057474,2019-10-07T12:36:14.000Z,Breakfast,Served,Start,10.9129,107,1.94,Lbs,,,51
+2019-10-06,51153,Steamed Broccoli,Menu Item,46000064891,2019-10-07T12:49:05.000Z,Breakfast,Served,Start,7.51776,107,1.94,Lbs,,,51
+2019-10-06,51154,Macaroni & Cheese,Menu Item,46000060414,2019-10-07T12:49:34.000Z,Breakfast,Served,Start,6.98865,107,1.94,Lbs,,,51
+2019-10-06,51216,Bistro Pasta Salad ,Menu Item,27661300000,2019-10-07T13:58:22.000Z,Breakfast,Discarded,Over Produced,9.32555,100,1.61,Lbs,,,51
+2019-10-06,51223,Nana's Chicken Noodle Soup,Menu Item,46000016511,2019-10-07T14:10:17.000Z,Breakfast,Served,Start,17.7472,108,2.35,Lbs,,,51
+2019-10-06,51225,Mom's Chicken Soup,Menu Item,46000064443,2019-10-07T14:10:35.000Z,Breakfast,Served,Start,18.0338,108,2.35,Lbs,,,51
+2019-10-06,51236,Honey Jalapeno Wings,Menu Item,46000018079,2019-10-07T14:37:21.000Z,Breakfast,Discarded,Over Produced,3.30693,104,2.11,Lbs,,,51
+2019-10-06,51273,Caesar Salad,Menu Item,46000064401,2019-10-07T15:17:38.000Z,Breakfast,Discarded,Over Produced,5.73202,110,0.59,Lbs,,,51
+2019-10-06,51274,Greek Salad,Menu Item,46000064399,2019-10-07T15:18:14.000Z,Breakfast,Discarded,Over Produced,4.60766,110,0.59,Lbs,,,51
